@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>5400</id>
+	<word>compile</word>
+	<a>编辑</a>
+	<b>积累</b>
+	<c>组织</c>
+	<d>分解</d>
+</item>
+<item>
+	<id>5407</id>
+	<word>fury</word>
+	<a>狂怒</a>
+	<b>急噪</b>
+	<c>大惊小怪</c>
+	<d>惊慌失措</d>
+</item>
+<item>
+	<id>5408</id>
+	<word>miserable</word>
+	<a>不高兴的</a>
+	<b>伤心的</b>
+	<c>愚蠢的</c>
+	<d>低级的</d>
+</item>
+<item>
+	<id>5408</id>
+	<word>miserable</word>
+	<a>痛苦的</a>
+	<b>有磁性的</b>
+	<c>神秘的</c>
+	<d>凌乱的</d>
+</item>
+<item>
+	<id>5409</id>
+	<word>regiment</word>
+	<a>团</a>
+	<b>师</b>
+	<c>连</c>
+	<d>排</d>
+</item>
+<item>
+	<id>5416</id>
+	<word>cannon</word>
+	<a>大炮</a>
+	<b>能力</b>
+	<c>罐头</c>
+	<d>扶手</d>
+</item>
+<item>
+	<id>5418</id>
+	<word>decisive</word>
+	<a>果断的</a>
+	<b>刻意的</b>
+	<c>有趣的</c>
+	<d>神秘的</d>
+</item>
+<item>
+	<id>5418</id>
+	<word>decisive</word>
+	<a>决定性的</a>
+	<b>优柔寡断的</b>
+	<c>决策的</c>
+	<d>明白的</d>
+</item>
+<item>
+	<id>5427</id>
+	<word>regulate</word>
+	<a>管理</a>
+	<b>培训</b>
+	<c>注册</c>
+	<d>遗憾</d>
+</item>
+<item>
+	<id>5428</id>
+	<word>setback</word>
+	<a>挫折</a>
+	<b>组织，机构</b>
+	<c>出发，启程</c>
+	<d>吵架</d>
+</item>
+<item>
+	<id>5430</id>
+	<word>diagnosis</word>
+	<a>诊断</a>
+	<b>治疗</b>
+	<c>症状</c>
+	<d>分析</d>
+</item>
+<item>
+	<id>5431</id>
+	<word>envy</word>
+	<a>忌妒</a>
+	<b>贪婪</b>
+	<c>享受</c>
+	<d>同情</d>
+</item>
+<item>
+	<id>5432</id>
+	<word>frown</word>
+	<a>皱眉</a>
+	<b>淹死</b>
+	<c>使惊惧</c>
+	<d>朴素</d>
+</item>
+<item>
+	<id>5435</id>
+	<word>instruct</word>
+	<a>命令</a>
+	<b>帮助</b>
+	<c>欺骗</c>
+	<d>拒绝</d>
+</item>
+<item>
+	<id>5436</id>
+	<word>intercourse</word>
+	<a>交流</a>
+	<b>课程</b>
+	<c>交通</c>
+	<d>互通</d>
+</item>
+<item>
+	<id>5438</id>
+	<word>microwave</word>
+	<a>微波炉</a>
+	<b>微芯片</b>
+	<c>微处理机</c>
+	<d>显微镜</d>
+</item>
+<item>
+	<id>5442</id>
+	<word>flank</word>
+	<a>侧翼</a>
+	<b>旁边</b>
+	<c>交通</c>
+	<d>规则</d>
+</item>
+<item>
+	<id>5442</id>
+	<word>flank</word>
+	<a>肋部</a>
+	<b>身体</b>
+	<c>器官</c>
+	<d>面部</d>
+</item>
+<item>
+	<id>5443</id>
+	<word>knit</word>
+	<a>编织</a>
+	<b>打结</b>
+	<c>装饰</c>
+	<d>修剪</d>
+</item>
+<item>
+	<id>5443</id>
+	<word>knit</word>
+	<a>紧密结合</a>
+	<b>变质</b>
+	<c>组合</c>
+	<d>控制</d>
+</item>
+<item>
+	<id>5445</id>
+	<word>render</word>
+	<a>致使</a>
+	<b>表演</b>
+	<c>记录</c>
+	<d>进化</d>
+</item>
+<item>
+	<id>5445</id>
+	<word>render</word>
+	<a>给予</a>
+	<b>改造</b>
+	<c>重建</c>
+	<d>给...加油</d>
+</item>
+<item>
+	<id>5452</id>
+	<word>disastrous</word>
+	<a>灾难性的</a>
+	<b>伤残的</b>
+	<c>不利的</c>
+	<d>不适的</d>
+</item>
+<item>
+	<id>5459</id>
+	<word>compute</word>
+	<a>计算</a>
+	<b>超越</b>
+	<c>模拟</c>
+	<d>停工</d>
+</item>
+<item>
+	<id>5461</id>
+	<word>ethic</word>
+	<a>伦理</a>
+	<b>经济</b>
+	<c>感情</c>
+	<d>智力</d>
+</item>
+<item>
+	<id>5467</id>
+	<word>administer</word>
+	<a>治理</a>
+	<b>治疗</b>
+	<c>表达</c>
+	<d>逃跑</d>
+</item>
+<item>
+	<id>5471</id>
+	<word>flock</word>
+	<a>簇拥</a>
+	<b>收集</b>
+	<c>集合</c>
+	<d>吹捧</d>
+</item>
+<item>
+	<id>5472</id>
+	<word>forehead</word>
+	<a>前额</a>
+	<b>手腕</b>
+	<c>脚踝</c>
+	<d>肋骨</d>
+</item>
+<item>
+	<id>5473</id>
+	<word>skilled</word>
+	<a>熟练的</a>
+	<b>巧妙的</b>
+	<c>轻松的</c>
+	<d>丝绸的</d>
+</item>
+<item>
+	<id>5475</id>
+	<word>worthwhile</word>
+	<a>值得（做）的</a>
+	<b>浪费的</b>
+	<c>有价值的</c>
+	<d>可观的</d>
+</item>
+<item>
+	<id>5476</id>
+	<word>diameter</word>
+	<a>直径</a>
+	<b>对话</b>
+	<c>诊断</c>
+	<d>图解</d>
+</item>
+<item>
+	<id>5477</id>
+	<word>fist</word>
+	<a>拳头</a>
+	<b>合适</b>
+	<c>第一</c>
+	<d>健康</d>
+</item>
+<item>
+	<id>5480</id>
+	<word>sow</word>
+	<a>播种</a>
+	<b>检查</b>
+	<c>保护</c>
+	<d>发展</d>
+</item>
+<item>
+	<id>5485</id>
+	<word>cater</word>
+	<a>承办酒席</a>
+	<b>照料</b>
+	<c>提供娱乐</c>
+	<d>光顾</d>
+</item>
+<item>
+	<id>5491</id>
+	<word>saddle</word>
+	<a>马鞍</a>
+	<b>牙套</b>
+	<c>皮带</c>
+	<d>驾驭</d>
+</item>
+<item>
+	<id>5494</id>
+	<word>dye</word>
+	<a>染色</a>
+	<b>漂白</b>
+	<c>浆洗</c>
+	<d>干洗</d>
+</item>
+<item>
+	<id>5495</id>
+	<word>fake</word>
+	<a>假装</a>
+	<b>借口</b>
+	<c>遮掩</c>
+	<d>躲藏</d>
+</item>
+<item>
+	<id>5495</id>
+	<word>fake</word>
+	<a>做…假动作</a>
+	<b>撞击</b>
+	<c>行动</c>
+	<d>突袭</d>
+</item>
+<item>
+	<id>5495</id>
+	<word>fake</word>
+	<a>假装</a>
+	<b>牌子</b>
+	<c>烘烤</c>
+	<d>磨练</d>
+</item>
+<item>
+	<id>5497</id>
+	<word>furthermore</word>
+	<a>此外</a>
+	<b>遥远</b>
+	<c>越来越</c>
+	<d>完全</d>
+</item>
+<item>
+	<id>5499</id>
+	<word>mall</word>
+	<a>购物中心</a>
+	<b>大厅</b>
+	<c>超市</c>
+	<d>饭店</d>
+</item>
+<item>
+	<id>5503</id>
+	<word>worship</word>
+	<a>敬奉</a>
+	<b>信仰</b>
+	<c>理解</c>
+	<d>放弃</d>
+</item>
+<item>
+	<id>5503</id>
+	<word>worship</word>
+	<a>崇拜</a>
+	<b>仰视</b>
+	<c>尊敬</c>
+	<d>羡慕</d>
+</item>
+<item>
+	<id>5506</id>
+	<word>fuss</word>
+	<a>大惊小怪</a>
+	<b>形式</b>
+	<c>保险丝</c>
+	<d>燃料</d>
+</item>
+<item>
+	<id>5506</id>
+	<word>fuss</word>
+	<a>不必要的关注</a>
+	<b>过分活泼</b>
+	<c>过度热情</c>
+	<d>缺少睡眠</d>
+</item>
+<item>
+	<id>5507</id>
+	<word>erect</word>
+	<a>建造，建立</a>
+	<b>注射</b>
+	<c>反射</c>
+	<d>侵蚀</d>
+</item>
+<item>
+	<id>5512</id>
+	<word>inflict</word>
+	<a>使遭受</a>
+	<b>使感染</b>
+	<c>使膨胀</c>
+	<d>使发挥</d>
+</item>
+<item>
+	<id>5523</id>
+	<word>logical</word>
+	<a>合情合理的</a>
+	<b>值得纪念的</b>
+	<c>前后矛盾的</c>
+	<d>包括一切的</d>
+</item>
+<item>
+	<id>5528</id>
+	<word>rigid</word>
+	<a>严格的</a>
+	<b>正确的</b>
+	<c>独特的</c>
+	<d>严重的</d>
+</item>
+<item>
+	<id>5531</id>
+	<word>decoration</word>
+	<a>装饰品</a>
+	<b>副刊</b>
+	<c>传统</c>
+	<d>外表</d>
+</item>
+<item>
+	<id>5531</id>
+	<word>decoration</word>
+	<a>装饰方式</a>
+	<b>行走方式</b>
+	<c>办事方式</c>
+	<d>饮食方式</d>
+</item>
+<item>
+	<id>5533</id>
+	<word>wardrobe</word>
+	<a>大衣柜</a>
+	<b>梳妆台</b>
+	<c>穿衣镜</c>
+	<d>化妆间</d>
+</item>
+<item>
+	<id>5534</id>
+	<word>abstract</word>
+	<a>抽象的</a>
+	<b>扼要的</b>
+	<c>具体的</c>
+	<d>主要的</d>
+</item>
+<item>
+	<id>5534</id>
+	<word>abstract</word>
+	<a>纯理论的</a>
+	<b>纯天然的</b>
+	<c>纯洁的</c>
+	<d>纯净的</d>
+</item>
+<item>
+	<id>5534</id>
+	<word>abstract</word>
+	<a>抽象派的</a>
+	<b>批判派的</b>
+	<c>写实派的</c>
+	<d>精神派的</d>
+</item>
+<item>
+	<id>5537</id>
+	<word>meter</word>
+	<a>计量器</a>
+	<b>事件</b>
+	<c>流星</c>
+	<d>金属</d>
+</item>
+<item>
+	<id>5541</id>
+	<word>agony</word>
+	<a>剧痛</a>
+	<b>冷漠</b>
+	<c>残忍</c>
+	<d>生气</d>
+</item>
+<item>
+	<id>5542</id>
+	<word>embark</word>
+	<a>装载</a>
+	<b>卸载</b>
+	<c>乘车</c>
+	<d>登机</d>
+</item>
+<item>
+	<id>5544</id>
+	<word>jaw</word>
+	<a>上、下颌</a>
+	<b>锯子</b>
+	<c>齿轮</c>
+	<d>联合</d>
+</item>
+<item>
+	<id>5547</id>
+	<word>backward</word>
+	<a>后退的</a>
+	<b>中止的</b>
+	<c>前进的</c>
+	<d>终止的</d>
+</item>
+<item>
+	<id>5549</id>
+	<word>inject</word>
+	<a>注射</a>
+	<b>服药</b>
+	<c>检查</c>
+	<d>反对</d>
+</item>
+<item>
+	<id>5551</id>
+	<word>miniature</word>
+	<a>小型的</a>
+	<b>极小的</b>
+	<c>中型的</c>
+	<d>大型的</d>
+</item>
+<item>
+	<id>5554</id>
+	<word>epic</word>
+	<a>长篇叙事性小说</a>
+	<b>侦探小说</b>
+	<c>故事书</c>
+	<d>散文</d>
+</item>
+<item>
+	<id>5554</id>
+	<word>epic</word>
+	<a>史诗</a>
+	<b>散文</b>
+	<c>电影</c>
+	<d>纪录片</d>
+</item>
+<item>
+	<id>5562</id>
+	<word>expire</word>
+	<a>到期</a>
+	<b>详述</b>
+	<c>预计</c>
+	<d>限度</d>
+</item>
+<item>
+	<id>5563</id>
+	<word>liner</word>
+	<a>衬里</a>
+	<b>亚麻布</b>
+	<c>线性的</c>
+	<d>联系</d>
+</item>
+<item>
+	<id>5565</id>
+	<word>monkey</word>
+	<a>猴子</a>
+	<b>和尚</b>
+	<c>货币</c>
+	<d>阻挠</d>
+</item>
+<item>
+	<id>5572</id>
+	<word>obsession</word>
+	<a>迷恋</a>
+	<b>感情</b>
+	<c>恶心</c>
+	<d>怀孕</d>
+</item>
+<item>
+	<id>5575</id>
+	<word>indulge</word>
+	<a>沉湎于</a>
+	<b>归纳</b>
+	<c>劝诱</c>
+	<d>参与</d>
+</item>
+<item>
+	<id>5580</id>
+	<word>evaluate</word>
+	<a>评价</a>
+	<b>选举</b>
+	<c>进化</c>
+	<d>批评</d>
+</item>
+<item>
+	<id>5582</id>
+	<word>useless</word>
+	<a>无用的</a>
+	<b>粗心的</b>
+	<c>倦怠的</c>
+	<d>无价的</d>
+</item>
+<item>
+	<id>5583</id>
+	<word>accuracy</word>
+	<a>准确度</a>
+	<b>充足感</b>
+	<c>遭遇战</c>
+	<d>选择项</d>
+</item>
+<item>
+	<id>5585</id>
+	<word>identification</word>
+	<a>身份证明</a>
+	<b>学历</b>
+	<c>资格证书</c>
+	<d>文凭</d>
+</item>
+<item>
+	<id>5585</id>
+	<word>identification</word>
+	<a>辨认</a>
+	<b>认识</b>
+	<c>结识</c>
+	<d>辩论</d>
+</item>
+<item>
+	<id>5590</id>
+	<word>ego</word>
+	<a>自我</a>
+	<b>时代</b>
+	<c>社会</c>
+	<d>沼泽</d>
+</item>
+<item>
+	<id>5591</id>
+	<word>electorate</word>
+	<a>全体选民</a>
+	<b>地区</b>
+	<c>州长</c>
+	<d>协会</d>
+</item>
+<item>
+	<id>5592</id>
+	<word>machinery</word>
+	<a>(总称)机器</a>
+	<b>机械的</b>
+	<c>药物的</c>
+	<d>流水线</d>
+</item>
+<item>
+	<id>5594</id>
+	<word>seldom</word>
+	<a>很少</a>
+	<b>似乎</b>
+	<c>几乎</c>
+	<d>通常</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>8203</id>
+	<word>foresee</word>
+	<a>预见</a>
+	<b>以前</b>
+	<c>远见</c>
+	<d>前部</d>
+</item>
+<item>
+	<id>8212</id>
+	<word>accountable</word>
+	<a>负有责任的</a>
+	<b>承担义务的</b>
+	<c>相互攻击的</c>
+	<d>可以量化的</d>
+</item>
+<item>
+	<id>8213</id>
+	<word>affiliate</word>
+	<a>附属于</a>
+	<b>使受喜欢</b>
+	<c>折磨</c>
+	<d>证实</d>
+</item>
+<item>
+	<id>8214</id>
+	<word>amusement</word>
+	<a>愉悦</a>
+	<b>闲逛</b>
+	<c>运动</c>
+	<d>爬山</d>
+</item>
+<item>
+	<id>8218</id>
+	<word>deadlock</word>
+	<a>僵局</a>
+	<b>截止时间</b>
+	<c>空文</c>
+	<d>枯花</d>
+</item>
+<item>
+	<id>8220</id>
+	<word>enlist</word>
+	<a>参军</a>
+	<b>点名</b>
+	<c>列举</c>
+	<d>劝说</d>
+</item>
+<item>
+	<id>8224</id>
+	<word>lettuce</word>
+	<a>莴苣</a>
+	<b>芹菜</b>
+	<c>萝卜</c>
+	<d>玉米</d>
+</item>
+<item>
+	<id>8228</id>
+	<word>reap</word>
+	<a>收割</a>
+	<b>割裂</b>
+	<c>成熟</c>
+	<d>跳跃</d>
+</item>
+<item>
+	<id>8231</id>
+	<word>tame</word>
+	<a>驯服</a>
+	<b>时间</b>
+	<c>脾气</c>
+	<d>才能</d>
+</item>
+<item>
+	<id>8231</id>
+	<word>tame</word>
+	<a>平淡的</a>
+	<b>有名的</b>
+	<c>香水</c>
+	<d>游戏</d>
+</item>
+<item>
+	<id>8249</id>
+	<word>repression</word>
+	<a>抑制</a>
+	<b>责备</b>
+	<c>印象</c>
+	<d>沮丧</d>
+</item>
+<item>
+	<id>8258</id>
+	<word>jeep</word>
+	<a>吉普车</a>
+	<b>嘲笑</b>
+	<c>喷气机</c>
+	<d>夹克</d>
+</item>
+<item>
+	<id>8259</id>
+	<word>martial</word>
+	<a>军事的</a>
+	<b>婚姻的</b>
+	<c>沼泽</c>
+	<d>元帅</d>
+</item>
+<item>
+	<id>8272</id>
+	<word>ingenious</word>
+	<a>精妙的</a>
+	<b>天才的</b>
+	<c>睿智的</c>
+	<d>伟大的</d>
+</item>
+<item>
+	<id>8275</id>
+	<word>patriot</word>
+	<a>爱国者</a>
+	<b>战士</b>
+	<c>骑士</c>
+	<d>侍从</d>
+</item>
+<item>
+	<id>8290</id>
+	<word>jug</word>
+	<a>壶</a>
+	<b>玉石</b>
+	<c>慢跑</c>
+	<d>匆匆记下</d>
+</item>
+<item>
+	<id>8293</id>
+	<word>midday</word>
+	<a>正午</a>
+	<b>中级</b>
+	<c>半空</c>
+	<d>折中</d>
+</item>
+<item>
+	<id>8296</id>
+	<word>refine</word>
+	<a>改进</a>
+	<b>定义</b>
+	<c>去处</c>
+	<d>退还</d>
+</item>
+<item>
+	<id>8302</id>
+	<word>candy</word>
+	<a>糖</a>
+	<b>萝卜</b>
+	<c>橄榄</c>
+	<d>曲奇饼</d>
+</item>
+<item>
+	<id>8303</id>
+	<word>collide</word>
+	<a>碰撞</a>
+	<b>商量</b>
+	<c>强调</c>
+	<d>建设</d>
+</item>
+<item>
+	<id>8311</id>
+	<word>imitate</word>
+	<a>仿效</a>
+	<b>威吓</b>
+	<c>窘迫</c>
+	<d>模型</d>
+</item>
+<item>
+	<id>8323</id>
+	<word>dilute</word>
+	<a>稀释</a>
+	<b>变大</b>
+	<c>改变</c>
+	<d>增加</d>
+</item>
+<item>
+	<id>8324</id>
+	<word>exclaim</word>
+	<a>惊叫</a>
+	<b>认领</b>
+	<c>申明</c>
+	<d>宣告</d>
+</item>
+<item>
+	<id>8332</id>
+	<word>paddle</word>
+	<a>球拍</a>
+	<b>网球</b>
+	<c>台球</c>
+	<d>滑板</d>
+</item>
+<item>
+	<id>8332</id>
+	<word>paddle</word>
+	<a>轮叶</a>
+	<b>轮船</b>
+	<c>机翼</c>
+	<d>牌子</d>
+</item>
+<item>
+	<id>8332</id>
+	<word>paddle</word>
+	<a>搅拌器</a>
+	<b>包裹</b>
+	<c>独木舟</c>
+	<d>木板</d>
+</item>
+<item>
+	<id>8332</id>
+	<word>paddle</word>
+	<a>短桨</a>
+	<b>长柄</b>
+	<c>补钉</c>
+	<d>船舵</d>
+</item>
+<item>
+	<id>8332</id>
+	<word>paddle</word>
+	<a>涉水</a>
+	<b>过桥</b>
+	<c>划船</c>
+	<d>踌躇</d>
+</item>
+<item>
+	<id>8335</id>
+	<word>racket</word>
+	<a>吵闹声</a>
+	<b>爆炸声</b>
+	<c>欢声笑语</c>
+	<d>乐声</d>
+</item>
+<item>
+	<id>8347</id>
+	<word>flutter</word>
+	<a>飘动</a>
+	<b>奉承</b>
+	<c>吹笛者</c>
+	<d>平面</d>
+</item>
+<item>
+	<id>8347</id>
+	<word>flutter</word>
+	<a>拍打</a>
+	<b>逃离</b>
+	<c>感动</c>
+	<d>协组协助</d>
+</item>
+<item>
+	<id>8350</id>
+	<word>librarian</word>
+	<a>图书馆管理员</a>
+	<b>图书馆</b>
+	<c>自由</c>
+	<d>解放</d>
+</item>
+<item>
+	<id>8358</id>
+	<word>airplane</word>
+	<a>飞机</a>
+	<b>空调</b>
+	<c>大炮</c>
+	<d>导弹</d>
+</item>
+<item>
+	<id>8362</id>
+	<word>dynasty</word>
+	<a>朝代</a>
+	<b>年代</b>
+	<c>时代</c>
+	<d>时光</d>
+</item>
+<item>
+	<id>8364</id>
+	<word>fragrant</word>
+	<a>芳香的</a>
+	<b>精神的</b>
+	<c>丰满的</c>
+	<d>怀孕的</d>
+</item>
+<item>
+	<id>8369</id>
+	<word>imperative</word>
+	<a>显示权威的</a>
+	<b>严肃的</b>
+	<c>无情的</c>
+	<d>有感情的</d>
+</item>
+<item>
+	<id>8369</id>
+	<word>imperative</word>
+	<a>紧急的</a>
+	<b>暂时的</b>
+	<c>操作的</c>
+	<d>重复的</d>
+</item>
+<item>
+	<id>8370</id>
+	<word>infinite</word>
+	<a>极大的</a>
+	<b>庞大的</b>
+	<c>有限的</c>
+	<d>不定的</d>
+</item>
+<item>
+	<id>8381</id>
+	<word>definitive</word>
+	<a>最权威的</a>
+	<b>最凶猛的</b>
+	<c>最残忍的</c>
+	<d>最理智的</d>
+</item>
+<item>
+	<id>8389</id>
+	<word>sharpen</word>
+	<a>使变锋利</a>
+	<b>刮[胡子、脸]</b>
+	<c>使粉碎</c>
+	<d>使某人感到羞愧</d>
+</item>
+<item>
+	<id>8394</id>
+	<word>undo</word>
+	<a>解开</a>
+	<b>强调</b>
+	<c>保养</c>
+	<d>放开</d>
+</item>
+<item>
+	<id>8398</id>
+	<word>contradict</word>
+	<a>反驳</a>
+	<b>思考</b>
+	<c>影响</c>
+	<d>注意</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:16 CST 2009-->

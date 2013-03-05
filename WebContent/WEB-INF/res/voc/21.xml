@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>4003</id>
+	<word>cabin</word>
+	<a>小木屋</a>
+	<b>计程车</b>
+	<c>木鞋</c>
+	<d>茅屋，草棚</d>
+</item>
+<item>
+	<id>4004</id>
+	<word>melt</word>
+	<a>融化</a>
+	<b>感觉</b>
+	<c>接管</c>
+	<d>上缴</d>
+</item>
+<item>
+	<id>4005</id>
+	<word>reliable</word>
+	<a>可信赖的</a>
+	<b>重做的</b>
+	<c>释放的</c>
+	<d>依靠的</d>
+</item>
+<item>
+	<id>4006</id>
+	<word>corruption</word>
+	<a>腐败</a>
+	<b>忧郁</b>
+	<c>制裁</c>
+	<d>传言</d>
+</item>
+<item>
+	<id>4008</id>
+	<word>exile</word>
+	<a>流放</a>
+	<b>紧急</b>
+	<c>告诫</c>
+	<d>展览</d>
+</item>
+<item>
+	<id>4009</id>
+	<word>input</word>
+	<a>投入</a>
+	<b>产出</b>
+	<c>重量级</c>
+	<d>幻觉</d>
+</item>
+<item>
+	<id>4012</id>
+	<word>ankle</word>
+	<a>脚踝</a>
+	<b>叔叔</b>
+	<c>角度</c>
+	<d>年鉴</d>
+</item>
+<item>
+	<id>4015</id>
+	<word>marvellous</word>
+	<a>极好的</a>
+	<b>前景的</b>
+	<c>天堂的</c>
+	<d>海洋的</d>
+</item>
+<item>
+	<id>4017</id>
+	<word>mud</word>
+	<a>烂泥</a>
+	<b>情绪</b>
+	<c>面具</c>
+	<d>疯子</d>
+</item>
+<item>
+	<id>4018</id>
+	<word>disturb</word>
+	<a>打扰</a>
+	<b>打断</b>
+	<c>干预</c>
+	<d>影响</d>
+</item>
+<item>
+	<id>4019</id>
+	<word>exact</word>
+	<a>正确的</a>
+	<b>详细的</b>
+	<c>综合的</c>
+	<d>微观的</d>
+</item>
+<item>
+	<id>4019</id>
+	<word>exact</word>
+	<a>严格的</a>
+	<b>和蔼的</b>
+	<c>健谈的</c>
+	<d>权威的</d>
+</item>
+<item>
+	<id>4020</id>
+	<word>lemon</word>
+	<a>柠檬</a>
+	<b>橘子</b>
+	<c>菠萝</c>
+	<d>草莓</d>
+</item>
+<item>
+	<id>4021</id>
+	<word>merchant</word>
+	<a>商人</a>
+	<b>怜悯</b>
+	<c>交易</c>
+	<d>合并</d>
+</item>
+<item>
+	<id>4025</id>
+	<word>eager</word>
+	<a>热切的</a>
+	<b>天使</b>
+	<c>老鹰</c>
+	<d>人物</d>
+</item>
+<item>
+	<id>4032</id>
+	<word>elite</word>
+	<a>精英</a>
+	<b>旁观者</b>
+	<c>企业家</c>
+	<d>政治家</d>
+</item>
+<item>
+	<id>4034</id>
+	<word>loyalty</word>
+	<a>忠诚</a>
+	<b>背叛</b>
+	<c>彩券</c>
+	<d>重心</d>
+</item>
+<item>
+	<id>4035</id>
+	<word>carve</word>
+	<a>把[熟肉]切成小块</a>
+	<b>把...切成薄片</b>
+	<c>把...切丝</c>
+	<d>把...切成块</d>
+</item>
+<item>
+	<id>4039</id>
+	<word>forgive</word>
+	<a>原谅</a>
+	<b>忘记</b>
+	<c>伪造</c>
+	<d>惩罚</d>
+</item>
+<item>
+	<id>4044</id>
+	<word>obstacle</word>
+	<a>障碍</a>
+	<b>比拟</b>
+	<c>疑惑</c>
+	<d>伪装</d>
+</item>
+<item>
+	<id>4046</id>
+	<word>terror</word>
+	<a>恐怖主义</a>
+	<b>自由主义</b>
+	<c>人文主义</c>
+	<d>共产主义</d>
+</item>
+<item>
+	<id>4046</id>
+	<word>terror</word>
+	<a>恐怖</a>
+	<b>地形</b>
+	<c>小狗</c>
+	<d>领土</d>
+</item>
+<item>
+	<id>4047</id>
+	<word>urgent</word>
+	<a>急迫的</a>
+	<b>饥饿的</b>
+	<c>城市的</c>
+	<d>羞怯的</d>
+</item>
+<item>
+	<id>4053</id>
+	<word>racism</word>
+	<a>种族歧视，种族暴力</a>
+	<b>比赛权</b>
+	<c>竞争主义</c>
+	<d>犯罪意识</d>
+</item>
+<item>
+	<id>4054</id>
+	<word>radiation</word>
+	<a>辐射</a>
+	<b>色素</b>
+	<c>致癌物质</c>
+	<d>有害物质</d>
+</item>
+<item>
+	<id>4056</id>
+	<word>dash</word>
+	<a>猛冲</a>
+	<b>倒塌</b>
+	<c>碰撞</c>
+	<d>反射</d>
+</item>
+<item>
+	<id>4056</id>
+	<word>dash</word>
+	<a>猛撞</a>
+	<b>推翻</b>
+	<c>攻击</c>
+	<d>干扰</d>
+</item>
+<item>
+	<id>4056</id>
+	<word>dash</word>
+	<a>使（希望）破灭</a>
+	<b>使...受阻</b>
+	<c>使...变暗</c>
+	<d>使...遭受</d>
+</item>
+<item>
+	<id>4056</id>
+	<word>dash</word>
+	<a>匆匆地写</a>
+	<b>奔跑</b>
+	<c>随便回应</c>
+	<d>描述</d>
+</item>
+<item>
+	<id>4056</id>
+	<word>dash</word>
+	<a>匆忙离开</a>
+	<b>快速前进</b>
+	<c>迅速移动</c>
+	<d>悄悄溜走</d>
+</item>
+<item>
+	<id>4058</id>
+	<word>hungry</word>
+	<a>饥饿的</a>
+	<b>寒冷的</b>
+	<c>生气的</c>
+	<d>有趣的</d>
+</item>
+<item>
+	<id>4059</id>
+	<word>seventeen</word>
+	<a>十七</a>
+	<b>十五</b>
+	<c>十六</c>
+	<d>十八</d>
+</item>
+<item>
+	<id>4062</id>
+	<word>exceed</word>
+	<a>超过</a>
+	<b>除外</b>
+	<c>擅长</c>
+	<d>存在</d>
+</item>
+<item>
+	<id>4063</id>
+	<word>spill</word>
+	<a>溢出</a>
+	<b>暴露</b>
+	<c>放开</c>
+	<d>展示</d>
+</item>
+<item>
+	<id>4065</id>
+	<word>grasp</word>
+	<a>握紧</a>
+	<b>摸索</b>
+	<c>咕哝</c>
+	<d>思索</d>
+</item>
+<item>
+	<id>4065</id>
+	<word>grasp</word>
+	<a>理解</a>
+	<b>青草</b>
+	<c>感激</c>
+	<d>摸索</d>
+</item>
+<item>
+	<id>4071</id>
+	<word>approximately</word>
+	<a>大约</a>
+	<b>适当</b>
+	<c>感激地</c>
+	<d>有理解力地</d>
+</item>
+<item>
+	<id>4078</id>
+	<word>pity</word>
+	<a>怜悯</a>
+	<b>宽恕</b>
+	<c>悲哀</c>
+	<d>兴奋</d>
+</item>
+<item>
+	<id>4080</id>
+	<word>cattle</word>
+	<a>牛</a>
+	<b>羊</b>
+	<c>马</c>
+	<d>鸡</d>
+</item>
+<item>
+	<id>4081</id>
+	<word>dictionary</word>
+	<a>字典</a>
+	<b>课本</b>
+	<c>书本</c>
+	<d>课程</d>
+</item>
+<item>
+	<id>4082</id>
+	<word>elder</word>
+	<a>年龄较大的</a>
+	<b>时间较长的</b>
+	<c>老的</c>
+	<d>旧的</d>
+</item>
+<item>
+	<id>4082</id>
+	<word>elder</word>
+	<a>年长者</a>
+	<b>先人</b>
+	<c>掌权者</c>
+	<d>先辈</d>
+</item>
+<item>
+	<id>4084</id>
+	<word>queue</word>
+	<a>排队</a>
+	<b>纺织</b>
+	<c>拷问</c>
+	<d>试探</d>
+</item>
+<item>
+	<id>4085</id>
+	<word>accomplish</word>
+	<a>完成</a>
+	<b>提醒</b>
+	<c>符合</c>
+	<d>减弱</d>
+</item>
+<item>
+	<id>4088</id>
+	<word>rat</word>
+	<a>大老鼠</a>
+	<b>老虎</b>
+	<c>松鼠</c>
+	<d>小猫</d>
+</item>
+<item>
+	<id>4093</id>
+	<word>rubbish</word>
+	<a>废话</a>
+	<b>声明</b>
+	<c>警告</c>
+	<d>意见</d>
+</item>
+<item>
+	<id>4098</id>
+	<word>undoubtedly</word>
+	<a>毫无疑问地</a>
+	<b>不可思议地</b>
+	<c>不情愿地</c>
+	<d>意外地</d>
+</item>
+<item>
+	<id>4104</id>
+	<word>inn</word>
+	<a>小旅馆</a>
+	<b>进入</b>
+	<c>墨水</c>
+	<d>流行</d>
+</item>
+<item>
+	<id>4105</id>
+	<word>log</word>
+	<a>航海日志</a>
+	<b>会议记录</b>
+	<c>帐目</c>
+	<d>描述</d>
+</item>
+<item>
+	<id>4105</id>
+	<word>log</word>
+	<a>正式记录</a>
+	<b>正式文件</b>
+	<c>通知</c>
+	<d>布告</d>
+</item>
+<item>
+	<id>4105</id>
+	<word>log</word>
+	<a>原木</a>
+	<b>逻辑</b>
+	<c>小屋</c>
+	<d>标志</d>
+</item>
+<item>
+	<id>4107</id>
+	<word>inspiration</word>
+	<a>灵感</a>
+	<b>羞辱</b>
+	<c>传统</c>
+	<d>吸引力</d>
+</item>
+<item>
+	<id>4109</id>
+	<word>convenient</word>
+	<a>方便的</a>
+	<b>有用的</b>
+	<c>及时的</c>
+	<d>恰当的</d>
+</item>
+<item>
+	<id>4110</id>
+	<word>electrical</word>
+	<a>电的</a>
+	<b>电子的</b>
+	<c>电磁的</c>
+	<d>选举的</d>
+</item>
+<item>
+	<id>4111</id>
+	<word>striking</word>
+	<a>引人注意的</a>
+	<b>受打击的</b>
+	<c>挣扎的</c>
+	<d>前所未有的</d>
+</item>
+<item>
+	<id>4113</id>
+	<word>ambitious</word>
+	<a>野心勃勃的</a>
+	<b>危险万分的</b>
+	<c>大使馆里的</c>
+	<d>十分尴尬的</d>
+</item>
+<item>
+	<id>4114</id>
+	<word>comprise</word>
+	<a>包括</a>
+	<b>组成</b>
+	<c>调整</c>
+	<d>配置</d>
+</item>
+<item>
+	<id>4116</id>
+	<word>destination</word>
+	<a>目的地</a>
+	<b>命运</b>
+	<c>设计</c>
+	<d>决心</d>
+</item>
+<item>
+	<id>4117</id>
+	<word>loyal</word>
+	<a>忠诚的</a>
+	<b>皇室的</b>
+	<c>较低的</c>
+	<d>崇高的</d>
+</item>
+<item>
+	<id>4121</id>
+	<word>residence</word>
+	<a>居住许可</a>
+	<b>居民</b>
+	<c>住宅区</c>
+	<d>居住地</d>
+</item>
+<item>
+	<id>4123</id>
+	<word>undermine</word>
+	<a>逐渐削弱</a>
+	<b>强调</b>
+	<c>少付工资</c>
+	<d>遭受</d>
+</item>
+<item>
+	<id>4124</id>
+	<word>segment</word>
+	<a>部分</a>
+	<b>分割</b>
+	<c>隔离</c>
+	<d>领地</d>
+</item>
+<item>
+	<id>4125</id>
+	<word>swallow</word>
+	<a>咽口水</a>
+	<b>吃晚餐</b>
+	<c>打仗</c>
+	<d>撤退</d>
+</item>
+<item>
+	<id>4125</id>
+	<word>swallow</word>
+	<a>轻信</a>
+	<b>同意</b>
+	<c>掠过</c>
+	<d>撤退</d>
+</item>
+<item>
+	<id>4125</id>
+	<word>swallow</word>
+	<a>吞咽</a>
+	<b>刺激</b>
+	<c>承认</c>
+	<d>允许</d>
+</item>
+<item>
+	<id>4128</id>
+	<word>extract</word>
+	<a>取出</a>
+	<b>推进</b>
+	<c>摘下</c>
+	<d>装入</d>
+</item>
+<item>
+	<id>4128</id>
+	<word>extract</word>
+	<a>提炼</a>
+	<b>缩短</b>
+	<c>提出</c>
+	<d>锻炼</d>
+</item>
+<item>
+	<id>4128</id>
+	<word>extract</word>
+	<a>抽出</a>
+	<b>表现出</b>
+	<c>推断出</c>
+	<d>拿出</d>
+</item>
+<item>
+	<id>4133</id>
+	<word>tense</word>
+	<a>紧张的</a>
+	<b>广泛的</b>
+	<c>温柔的</c>
+	<d>短暂的</d>
+</item>
+<item>
+	<id>4133</id>
+	<word>tense</word>
+	<a>绷直的</a>
+	<b>敏感的</b>
+	<c>精深的</c>
+	<d>干净的</d>
+</item>
+<item>
+	<id>4135</id>
+	<word>spoil</word>
+	<a>损坏</a>
+	<b>修葺</b>
+	<c>打碎</c>
+	<d>断裂</d>
+</item>
+<item>
+	<id>4135</id>
+	<word>spoil</word>
+	<a>腐败</a>
+	<b>糜烂</b>
+	<c>碎裂</c>
+	<d>发臭</d>
+</item>
+<item>
+	<id>4136</id>
+	<word>underlie</word>
+	<a>构成…的基础</a>
+	<b>迫害</b>
+	<c>根据…</c>
+	<d>影响</d>
+</item>
+<item>
+	<id>4137</id>
+	<word>weave</word>
+	<a>织(布)</a>
+	<b>挥手</b>
+	<c>等待</c>
+	<d>哭泣</d>
+</item>
+<item>
+	<id>4137</id>
+	<word>weave</word>
+	<a>编织</a>
+	<b>除草</b>
+	<c>招呼</c>
+	<d>穿戴</d>
+</item>
+<item>
+	<id>4138</id>
+	<word>ace</word>
+	<a>幺点牌</a>
+	<b>酸性物质</b>
+	<c>速溶食品</c>
+	<d>档案袋</d>
+</item>
+<item>
+	<id>4138</id>
+	<word>ace</word>
+	<a>得分的发球</a>
+	<b>失误的发球</b>
+	<c>漏掉的发球</c>
+	<d>重复的发球</d>
+</item>
+<item>
+	<id>4138</id>
+	<word>ace</word>
+	<a>能手</a>
+	<b>雌禽</b>
+	<c>柜台</c>
+	<d>钱包</d>
+</item>
+<item>
+	<id>4139</id>
+	<word>allege</word>
+	<a>指控</a>
+	<b>流行</b>
+	<c>革命</c>
+	<d>联系</d>
+</item>
+<item>
+	<id>4142</id>
+	<word>participant</word>
+	<a>参与者</a>
+	<b>与会者</b>
+	<c>肇事者</c>
+	<d>示威者</d>
+</item>
+<item>
+	<id>4146</id>
+	<word>fortnight</word>
+	<a>两星期</a>
+	<b>直率的</b>
+	<c>预测</c>
+	<d>一晚上</d>
+</item>
+<item>
+	<id>4147</id>
+	<word>mouse</word>
+	<a>耗子</a>
+	<b>河口</b>
+	<c>蝙蝠</c>
+	<d>发胶</d>
+</item>
+<item>
+	<id>4148</id>
+	<word>supplement</word>
+	<a>增刊</a>
+	<b>节目</b>
+	<c>灵感</c>
+	<d>考古学</d>
+</item>
+<item>
+	<id>4148</id>
+	<word>supplement</word>
+	<a>增补物</a>
+	<b>协助物</b>
+	<c>供应物</c>
+	<d>资助物</d>
+</item>
+<item>
+	<id>4149</id>
+	<word>formation</word>
+	<a>形成</a>
+	<b>格式</b>
+	<c>方法</c>
+	<d>计划</d>
+</item>
+<item>
+	<id>4150</id>
+	<word>expertise</word>
+	<a>专门知识</a>
+	<b>专家</b>
+	<c>家务</c>
+	<d>外观</d>
+</item>
+<item>
+	<id>4160</id>
+	<word>darling</word>
+	<a>亲爱的</a>
+	<b>敢于</b>
+	<c>黑暗的</c>
+	<d>缝补</d>
+</item>
+<item>
+	<id>4161</id>
+	<word>historian</word>
+	<a>历史学家</a>
+	<b>有历史意义的</b>
+	<c>历史研究</c>
+	<d>历史上的</d>
+</item>
+<item>
+	<id>4162</id>
+	<word>moreover</word>
+	<a>再者</a>
+	<b>可是</b>
+	<c>如果</c>
+	<d>然而</d>
+</item>
+<item>
+	<id>4165</id>
+	<word>consume</word>
+	<a>消费</a>
+	<b>生产</b>
+	<c>销售</c>
+	<d>顾客</d>
+</item>
+<item>
+	<id>4165</id>
+	<word>consume</word>
+	<a>吃喝</a>
+	<b>毁坏</b>
+	<c>预订</c>
+	<d>保持</d>
+</item>
+<item>
+	<id>4167</id>
+	<word>honey</word>
+	<a>蜂蜜</a>
+	<b>糖</b>
+	<c>果汁</c>
+	<d>饮料</d>
+</item>
+<item>
+	<id>4173</id>
+	<word>evident</word>
+	<a>明显的</a>
+	<b>模糊的</b>
+	<c>昂贵的</c>
+	<d>精确的</d>
+</item>
+<item>
+	<id>4174</id>
+	<word>shy</word>
+	<a>腼腆的</a>
+	<b>缓慢的</b>
+	<c>理想的</c>
+	<d>间隔的</d>
+</item>
+<item>
+	<id>4174</id>
+	<word>shy</word>
+	<a>不愿意的</a>
+	<b>烦恼的</b>
+	<c>困难的</c>
+	<d>费时的</d>
+</item>
+<item>
+	<id>4177</id>
+	<word>assemble</word>
+	<a>集合</a>
+	<b>得到</b>
+	<c>相似</c>
+	<d>预测</d>
+</item>
+<item>
+	<id>4181</id>
+	<word>outdoor</word>
+	<a>户外的</a>
+	<b>国外的</b>
+	<c>外层的</c>
+	<d>外星球的</d>
+</item>
+<item>
+	<id>4190</id>
+	<word>confine</word>
+	<a>把…局限于</a>
+	<b>确信</b>
+	<c>证实</c>
+	<d>使困惑</d>
+</item>
+<item>
+	<id>4190</id>
+	<word>confine</word>
+	<a>监禁</a>
+	<b>定义</b>
+	<c>联合</c>
+	<d>会议</d>
+</item>
+<item>
+	<id>4191</id>
+	<word>cushion</word>
+	<a>垫形物</a>
+	<b>木块</b>
+	<c>笔记本</c>
+	<d>平板</d>
+</item>
+<item>
+	<id>4191</id>
+	<word>cushion</word>
+	<a>起缓解作用的东西</a>
+	<b>布料</b>
+	<c>安全措施</c>
+	<d>防卫物</d>
+</item>
+<item>
+	<id>4191</id>
+	<word>cushion</word>
+	<a>垫子</a>
+	<b>草丛</b>
+	<c>堤坝</c>
+	<d>屏幕</d>
+</item>
+<item>
+	<id>4195</id>
+	<word>conversion</word>
+	<a>转变</a>
+	<b>会话</b>
+	<c>颠倒</c>
+	<d>倒退</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

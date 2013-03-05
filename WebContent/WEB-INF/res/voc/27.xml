@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>5203</id>
+	<word>ceramic</word>
+	<a>陶器的</a>
+	<b>系列的</b>
+	<c>漆器的</c>
+	<d>仪式的</d>
+</item>
+<item>
+	<id>5209</id>
+	<word>injection</word>
+	<a>注射</a>
+	<b>感染</b>
+	<c>诊断</c>
+	<d>症状</d>
+</item>
+<item>
+	<id>5212</id>
+	<word>statue</word>
+	<a>塑像</a>
+	<b>陈述</b>
+	<c>抚摸</c>
+	<d>象征</d>
+</item>
+<item>
+	<id>5214</id>
+	<word>cavalry</word>
+	<a>骑兵</a>
+	<b>逃兵</b>
+	<c>士兵</c>
+	<d>步兵</d>
+</item>
+<item>
+	<id>5219</id>
+	<word>illusion</word>
+	<a>幻想</a>
+	<b>解释</b>
+	<c>证据</c>
+	<d>照明</d>
+</item>
+<item>
+	<id>5221</id>
+	<word>appetite</word>
+	<a>食欲</a>
+	<b>门口</b>
+	<c>苦恼</c>
+	<d>胃液</d>
+</item>
+<item>
+	<id>5225</id>
+	<word>continuous</word>
+	<a>持续不断的</a>
+	<b>时不时的</b>
+	<c>反复的</c>
+	<d>偶尔的</d>
+</item>
+<item>
+	<id>5226</id>
+	<word>dressing</word>
+	<a>调料</a>
+	<b>配饰</b>
+	<c>调配</c>
+	<d>化装</d>
+</item>
+<item>
+	<id>5229</id>
+	<word>cough</word>
+	<a>咳出</a>
+	<b>反驳</b>
+	<c>结合</c>
+	<d>追求</d>
+</item>
+<item>
+	<id>5229</id>
+	<word>cough</word>
+	<a>咳嗽；咳</a>
+	<b>保卫</b>
+	<c>取消</c>
+	<d>计算</d>
+</item>
+<item>
+	<id>5231</id>
+	<word>feast</word>
+	<a>节日</a>
+	<b>节气</b>
+	<c>年月</c>
+	<d>时机</d>
+</item>
+<item>
+	<id>5231</id>
+	<word>feast</word>
+	<a>美味</a>
+	<b>攻击</b>
+	<c>命运</c>
+	<d>糕点</d>
+</item>
+<item>
+	<id>5231</id>
+	<word>feast</word>
+	<a>盛宴</a>
+	<b>面对</b>
+	<c>表达</c>
+	<d>迅速</d>
+</item>
+<item>
+	<id>5236</id>
+	<word>loop</word>
+	<a>环形</a>
+	<b>织布机</b>
+	<c>漏洞</c>
+	<d>绳子</d>
+</item>
+<item>
+	<id>5236</id>
+	<word>loop</word>
+	<a>循环</a>
+	<b>直达</b>
+	<c>回程</c>
+	<d>弯曲</d>
+</item>
+<item>
+	<id>5236</id>
+	<word>loop</word>
+	<a>环形磁带</a>
+	<b>重复</b>
+	<c>模仿</c>
+	<d>唱片</d>
+</item>
+<item>
+	<id>5238</id>
+	<word>missionary</word>
+	<a>传教士</a>
+	<b>任务</b>
+	<c>指挥</c>
+	<d>外交官</d>
+</item>
+<item>
+	<id>5240</id>
+	<word>nonetheless</word>
+	<a>尽管如此</a>
+	<b>所以</b>
+	<c>而且</c>
+	<d>不仅</d>
+</item>
+<item>
+	<id>5241</id>
+	<word>pinch</word>
+	<a>捏</a>
+	<b>挑剔</b>
+	<c>桃树</c>
+	<d>衰弱</d>
+</item>
+<item>
+	<id>5241</id>
+	<word>pinch</word>
+	<a>偷窃</a>
+	<b>定位</b>
+	<c>固定</c>
+	<d>替补</d>
+</item>
+<item>
+	<id>5242</id>
+	<word>sausage</word>
+	<a>香肠</a>
+	<b>沙司</b>
+	<c>果酱</c>
+	<d>火腿</d>
+</item>
+<item>
+	<id>5245</id>
+	<word>mercy</word>
+	<a>慈悲，仁慈，宽容</a>
+	<b>大度</b>
+	<c>美丽，善良</c>
+	<d>施舍的东西</d>
+</item>
+<item>
+	<id>5248</id>
+	<word>complement</word>
+	<a>足额</a>
+	<b>编辑</b>
+	<c>自满</c>
+	<d>赔偿</d>
+</item>
+<item>
+	<id>5248</id>
+	<word>complement</word>
+	<a>衬托（物）</a>
+	<b>称赞</b>
+	<c>完成</c>
+	<d>表情</d>
+</item>
+<item>
+	<id>5249</id>
+	<word>diverse</word>
+	<a>各不相同的</a>
+	<b>易变的</b>
+	<c>消化的</c>
+	<d>相互的</d>
+</item>
+<item>
+	<id>5250</id>
+	<word>jewel</word>
+	<a>宝石</a>
+	<b>监狱</b>
+	<c>犹太人</c>
+	<d>坛子</d>
+</item>
+<item>
+	<id>5257</id>
+	<word>forge</word>
+	<a>形成</a>
+	<b>容许</b>
+	<c>提供</c>
+	<d>贩卖</d>
+</item>
+<item>
+	<id>5257</id>
+	<word>forge</word>
+	<a>锻造车间</a>
+	<b>门面</b>
+	<c>楼房</c>
+	<d>办公室</d>
+</item>
+<item>
+	<id>5263</id>
+	<word>spit</word>
+	<a>吐痰</a>
+	<b>分享</b>
+	<c>发展</c>
+	<d>喷射</d>
+</item>
+<item>
+	<id>5263</id>
+	<word>spit</word>
+	<a>吐</a>
+	<b>检查</b>
+	<c>发泄</c>
+	<d>聊天</d>
+</item>
+<item>
+	<id>5269</id>
+	<word>liver</word>
+	<a>肝脏</a>
+	<b>杠杆</b>
+	<c>废物</c>
+	<d>水平</d>
+</item>
+<item>
+	<id>5270</id>
+	<word>passionate</word>
+	<a>表现出强烈感情的</a>
+	<b>表现出好奇的</b>
+	<c>表现出嫉妒的</c>
+	<d>表现出渴望的</d>
+</item>
+<item>
+	<id>5274</id>
+	<word>compensate</word>
+	<a>弥补</a>
+	<b>比赛</b>
+	<c>编辑</c>
+	<d>抱怨</d>
+</item>
+<item>
+	<id>5275</id>
+	<word>excursion</word>
+	<a>短途旅行</a>
+	<b>外出</b>
+	<c>徒步旅行</c>
+	<d>观光</d>
+</item>
+<item>
+	<id>5277</id>
+	<word>appliance</word>
+	<a>家用电器</a>
+	<b>申请报告</b>
+	<c>应用软件</c>
+	<d>家具清单</d>
+</item>
+<item>
+	<id>5280</id>
+	<word>flare</word>
+	<a>突然爆发</a>
+	<b>开始</b>
+	<c>比赛</c>
+	<d>进行</d>
+</item>
+<item>
+	<id>5280</id>
+	<word>flare</word>
+	<a>突然加剧</a>
+	<b>突然开始</b>
+	<c>突然增加</c>
+	<d>突然消失</d>
+</item>
+<item>
+	<id>5280</id>
+	<word>flare</word>
+	<a>烧旺</a>
+	<b>着火</b>
+	<c>补救</c>
+	<d>计划</d>
+</item>
+<item>
+	<id>5282</id>
+	<word>ideology</word>
+	<a>意识形态</a>
+	<b>主意</b>
+	<c>意见</c>
+	<d>思维学</d>
+</item>
+<item>
+	<id>5283</id>
+	<word>mat</word>
+	<a>地毯</a>
+	<b>疯狂</b>
+	<c>遭遇</c>
+	<d>调皮</d>
+</item>
+<item>
+	<id>5289</id>
+	<word>flourish</word>
+	<a>繁荣</a>
+	<b>提价</b>
+	<c>上涨</c>
+	<d>夸大</d>
+</item>
+<item>
+	<id>5289</id>
+	<word>flourish</word>
+	<a>生长茂盛</a>
+	<b>逐渐衰弱</b>
+	<c>和面粉</c>
+	<d>铺地板</d>
+</item>
+<item>
+	<id>5290</id>
+	<word>lotus</word>
+	<a>莲花</a>
+	<b>焦点</b>
+	<c>状况</c>
+	<d>结果</d>
+</item>
+<item>
+	<id>5294</id>
+	<word>conceive</word>
+	<a>设想</a>
+	<b>接收　</b>
+	<c>概念</c>
+	<d>理由</d>
+</item>
+<item>
+	<id>5296</id>
+	<word>expenditure</word>
+	<a>开支</a>
+	<b>预支</b>
+	<c>滥用</c>
+	<d>出差</d>
+</item>
+<item>
+	<id>5297</id>
+	<word>installation</word>
+	<a>装置</a>
+	<b>星座</b>
+	<c>挑拨</c>
+	<d>鼓舞</d>
+</item>
+<item>
+	<id>5305</id>
+	<word>induce</word>
+	<a>诱导</a>
+	<b>诱惑</b>
+	<c>迷惑</c>
+	<d>迷恋</d>
+</item>
+<item>
+	<id>5306</id>
+	<word>railroad</word>
+	<a>铁路</a>
+	<b>火车站</b>
+	<c>林荫道</c>
+	<d>高速公路</d>
+</item>
+<item>
+	<id>5308</id>
+	<word>immense</word>
+	<a>巨大的</a>
+	<b>微弱的</b>
+	<c>中等的</c>
+	<d>不祥的</d>
+</item>
+<item>
+	<id>5314</id>
+	<word>carrot</word>
+	<a>胡萝卜</a>
+	<b>纤维素</b>
+	<c>白萝卜</c>
+	<d>红萝卜</d>
+</item>
+<item>
+	<id>5316</id>
+	<word>equality</word>
+	<a>平等</a>
+	<b>歧视</b>
+	<c>尊重</c>
+	<d>质量</d>
+</item>
+<item>
+	<id>5319</id>
+	<word>limb</word>
+	<a>肢</a>
+	<b>踝</b>
+	<c>肝</c>
+	<d>肋</d>
+</item>
+<item>
+	<id>5321</id>
+	<word>norm</word>
+	<a>标准</a>
+	<b>观念</b>
+	<c>法律</c>
+	<d>制度</d>
+</item>
+<item>
+	<id>5328</id>
+	<word>retort</word>
+	<a>反驳</a>
+	<b>反抗</b>
+	<c>诉诸</c>
+	<d>歪曲</d>
+</item>
+<item>
+	<id>5329</id>
+	<word>sour</word>
+	<a>馊的</a>
+	<b>可笑的</b>
+	<c>前沿的</c>
+	<d>最新的</d>
+</item>
+<item>
+	<id>5329</id>
+	<word>sour</word>
+	<a>酸的</a>
+	<b>甜的</b>
+	<c>苦的</c>
+	<d>辣的</d>
+</item>
+<item>
+	<id>5330</id>
+	<word>abolish</word>
+	<a>废除</a>
+	<b>倡导</b>
+	<c>批评</c>
+	<d>表扬</d>
+</item>
+<item>
+	<id>5339</id>
+	<word>detain</word>
+	<a>耽搁</a>
+	<b>保持</b>
+	<c>克制</c>
+	<d>预约</d>
+</item>
+<item>
+	<id>5341</id>
+	<word>ending</word>
+	<a>结局</a>
+	<b>开端</b>
+	<c>目的</c>
+	<d>高潮</d>
+</item>
+<item>
+	<id>5342</id>
+	<word>innovative</word>
+	<a>新颖的</a>
+	<b>简单的</b>
+	<c>进化的</c>
+	<d>不便的</d>
+</item>
+<item>
+	<id>5349</id>
+	<word>liable</word>
+	<a>倾向于的</a>
+	<b>自由的</b>
+	<c>依靠的</c>
+	<d>宽大的</d>
+</item>
+<item>
+	<id>5350</id>
+	<word>shallow</word>
+	<a>浅的</a>
+	<b>深的</b>
+	<c>明亮的</c>
+	<d>昏暗的</d>
+</item>
+<item>
+	<id>5353</id>
+	<word>deadly</word>
+	<a>致命的</a>
+	<b>非凡的</b>
+	<c>死的</c>
+	<d>受挫的</d>
+</item>
+<item>
+	<id>5353</id>
+	<word>deadly</word>
+	<a>完全的</a>
+	<b>完整的</b>
+	<c>可怕的</c>
+	<d>亲爱的</d>
+</item>
+<item>
+	<id>5353</id>
+	<word>deadly</word>
+	<a>极有效的</a>
+	<b>极快乐的</b>
+	<c>极危险的</c>
+	<d>极困窘的</d>
+</item>
+<item>
+	<id>5353</id>
+	<word>deadly</word>
+	<a>死一样的</a>
+	<b>睡着的</b>
+	<c>疯狂的</c>
+	<d>改变的</d>
+</item>
+<item>
+	<id>5353</id>
+	<word>deadly</word>
+	<a>乏味的</a>
+	<b>正派地</b>
+	<c>恳求地</c>
+	<d>整齐的</d>
+</item>
+<item>
+	<id>5354</id>
+	<word>faithful</word>
+	<a>忠诚的</a>
+	<b>邪恶的</b>
+	<c>衷心的</c>
+	<d>完全的</d>
+</item>
+<item>
+	<id>5359</id>
+	<word>anonymous</word>
+	<a>不署名的</a>
+	<b>有雄心的</b>
+	<c>同样的</c>
+	<d>无情的</d>
+</item>
+<item>
+	<id>5363</id>
+	<word>ironically</word>
+	<a>具有讽刺意味的是</a>
+	<b>熨平地</b>
+	<c>铁质地</c>
+	<d>爱尔兰地</d>
+</item>
+<item>
+	<id>5364</id>
+	<word>scramble</word>
+	<a>攀登</a>
+	<b>禁止</b>
+	<c>蜂拥</c>
+	<d>紧急</d>
+</item>
+<item>
+	<id>5364</id>
+	<word>scramble</word>
+	<a>抢夺</a>
+	<b>践踏</b>
+	<c>珍惜</c>
+	<d>检测</d>
+</item>
+<item>
+	<id>5364</id>
+	<word>scramble</word>
+	<a>扰频</a>
+	<b>打扰</b>
+	<c>干涉</c>
+	<d>建立</d>
+</item>
+<item>
+	<id>5364</id>
+	<word>scramble</word>
+	<a>紧急起飞</a>
+	<b>作起飞状</b>
+	<c>降落</c>
+	<d>拖动</d>
+</item>
+<item>
+	<id>5365</id>
+	<word>encouragement</word>
+	<a>鼓励</a>
+	<b>诋毁</b>
+	<c>斥责</c>
+	<d>伤害</d>
+</item>
+<item>
+	<id>5367</id>
+	<word>initiate</word>
+	<a>发起</a>
+	<b>标志</b>
+	<c>象征</c>
+	<d>继承</d>
+</item>
+<item>
+	<id>5376</id>
+	<word>ivory</word>
+	<a>象牙</a>
+	<b>牙齿</b>
+	<c>门牙</c>
+	<d>牙箍</d>
+</item>
+<item>
+	<id>5377</id>
+	<word>noble</word>
+	<a>崇高的</a>
+	<b>谦逊的</b>
+	<c>卑微的</c>
+	<d>华丽的</d>
+</item>
+<item>
+	<id>5377</id>
+	<word>noble</word>
+	<a>宏伟的</a>
+	<b>渺小的</b>
+	<c>粗犷的</c>
+	<d>细致的</d>
+</item>
+<item>
+	<id>5389</id>
+	<word>feedback</word>
+	<a>反馈</a>
+	<b>信息</b>
+	<c>文件</c>
+	<d>记录</d>
+</item>
+<item>
+	<id>5393</id>
+	<word>definite</word>
+	<a>明确的</a>
+	<b>可能的</b>
+	<c>模糊的</c>
+	<d>无限的</d>
+</item>
+<item>
+	<id>5395</id>
+	<word>massacre</word>
+	<a>大屠杀</a>
+	<b>睫毛膏</b>
+	<c>按摩师</c>
+	<d>假面具</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

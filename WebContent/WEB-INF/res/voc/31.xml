@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>6000</id>
+	<word>deem</word>
+	<a>认为</a>
+	<b>约会对象</b>
+	<c>系主任</c>
+	<d>命令</d>
+</item>
+<item>
+	<id>6009</id>
+	<word>fog</word>
+	<a>雾</a>
+	<b>焦点</b>
+	<c>泡沫</c>
+	<d>敌人</d>
+</item>
+<item>
+	<id>6010</id>
+	<word>hollow</word>
+	<a>虚假的</a>
+	<b>富裕的</b>
+	<c>精彩的</c>
+	<d>疲倦的</d>
+</item>
+<item>
+	<id>6010</id>
+	<word>hollow</word>
+	<a>中空的</a>
+	<b>神圣的</b>
+	<c>愉快的</c>
+	<d>跟随的</d>
+</item>
+<item>
+	<id>6010</id>
+	<word>hollow</word>
+	<a>凹陷的</a>
+	<b>丰满的</b>
+	<c>锋利的</c>
+	<d>精致的</d>
+</item>
+<item>
+	<id>6011</id>
+	<word>interference</word>
+	<a>干涉</a>
+	<b>帮忙</b>
+	<c>调解</c>
+	<d>中枢</d>
+</item>
+<item>
+	<id>6017</id>
+	<word>hatred</word>
+	<a>憎恶</a>
+	<b>宣传</b>
+	<c>尊严</c>
+	<d>骚扰</d>
+</item>
+<item>
+	<id>6019</id>
+	<word>incur</word>
+	<a>招致</a>
+	<b>再现</b>
+	<c>发生</c>
+	<d>治愈</d>
+</item>
+<item>
+	<id>6020</id>
+	<word>moisture</word>
+	<a>潮湿</a>
+	<b>动乱</b>
+	<c>脆弱</c>
+	<d>激情</d>
+</item>
+<item>
+	<id>6023</id>
+	<word>ashamed</word>
+	<a>羞耻的</a>
+	<b>上升的</b>
+	<c>过失的</c>
+	<d>卤莽的</d>
+</item>
+<item>
+	<id>6025</id>
+	<word>likewise</word>
+	<a>同样地</a>
+	<b>相等地</b>
+	<c>可能地</c>
+	<d>一致地</d>
+</item>
+<item>
+	<id>6027</id>
+	<word>luggage</word>
+	<a>行李</a>
+	<b>旅行袋</b>
+	<c>杂物</c>
+	<d>垃圾</d>
+</item>
+<item>
+	<id>6032</id>
+	<word>quiz</word>
+	<a>智力竞赛</a>
+	<b>请求</b>
+	<c>放弃</c>
+	<d>十足</d>
+</item>
+<item>
+	<id>6035</id>
+	<word>cab</word>
+	<a>出租车</a>
+	<b>实验室</b>
+	<c>警察</c>
+	<d>电缆</d>
+</item>
+<item>
+	<id>6037</id>
+	<word>deploy</word>
+	<a>部署</a>
+	<b>剥夺</b>
+	<c>谴责</c>
+	<d>罢免</d>
+</item>
+<item>
+	<id>6038</id>
+	<word>meadow</word>
+	<a>草地</a>
+	<b>奖章</b>
+	<c>醇香</c>
+	<d>瘦弱</d>
+</item>
+<item>
+	<id>6041</id>
+	<word>emperor</word>
+	<a>皇帝</a>
+	<b>王朝</b>
+	<c>移民</c>
+	<d>重点</d>
+</item>
+<item>
+	<id>6044</id>
+	<word>overtake</word>
+	<a>超越</a>
+	<b>嘱托</b>
+	<c>放弃</c>
+	<d>占有</d>
+</item>
+<item>
+	<id>6051</id>
+	<word>adolescence</word>
+	<a>青春期</a>
+	<b>吊唁簿</b>
+	<c>缺席</c>
+	<d>抽象</d>
+</item>
+<item>
+	<id>6054</id>
+	<word>inmate</word>
+	<a>囚犯，（精神病院的）病人</a>
+	<b>关系亲密的战友</b>
+	<c>同伴，密友</c>
+	<d>关系亲密的室友</d>
+</item>
+<item>
+	<id>6057</id>
+	<word>drip</word>
+	<a>滴水</a>
+	<b>流动</b>
+	<c>降落</c>
+	<d>飘动</d>
+</item>
+<item>
+	<id>6057</id>
+	<word>drip</word>
+	<a>滴下</a>
+	<b>落下</b>
+	<c>降低</c>
+	<d>提高</d>
+</item>
+<item>
+	<id>6059</id>
+	<word>fracture</word>
+	<a>断裂</a>
+	<b>开端</b>
+	<c>启发</c>
+	<d>教导</d>
+</item>
+<item>
+	<id>6065</id>
+	<word>deteriorate</word>
+	<a>恶化</a>
+	<b>决定</b>
+	<c>细节</c>
+	<d>发现</d>
+</item>
+<item>
+	<id>6066</id>
+	<word>foil</word>
+	<a>箔</a>
+	<b>伪造</b>
+	<c>沸腾</c>
+	<d>土壤</d>
+</item>
+<item>
+	<id>6073</id>
+	<word>accordingly</word>
+	<a>相应地</a>
+	<b>相当地</b>
+	<c>相对地</c>
+	<d>相似地</d>
+</item>
+<item>
+	<id>6075</id>
+	<word>coordinate</word>
+	<a>协调</a>
+	<b>面对</b>
+	<c>表达</c>
+	<d>使……信服</d>
+</item>
+<item>
+	<id>6075</id>
+	<word>coordinate</word>
+	<a>使[身体动作]协调</a>
+	<b>反对</b>
+	<c>系统化</c>
+	<d>集中</d>
+</item>
+<item>
+	<id>6075</id>
+	<word>coordinate</word>
+	<a>坐标</a>
+	<b>框架</b>
+	<c>贡献</c>
+	<d>分类</d>
+</item>
+<item>
+	<id>6076</id>
+	<word>deed</word>
+	<a>行为</a>
+	<b>需要</b>
+	<c>碰到</c>
+	<d>喂养</d>
+</item>
+<item>
+	<id>6077</id>
+	<word>fairy</word>
+	<a>仙人</a>
+	<b>通讯员</b>
+	<c>同事</c>
+	<d>鬼</d>
+</item>
+<item>
+	<id>6088</id>
+	<word>fragrance</word>
+	<a>香味</a>
+	<b>分流</b>
+	<c>坦白</c>
+	<d>自由</d>
+</item>
+<item>
+	<id>6092</id>
+	<word>scrape</word>
+	<a>刮，擦</a>
+	<b>分散</b>
+	<c>枪击</c>
+	<d>包装</d>
+</item>
+<item>
+	<id>6092</id>
+	<word>scrape</word>
+	<a>刮净</a>
+	<b>抛光</b>
+	<c>填充</c>
+	<d>犯规</d>
+</item>
+<item>
+	<id>6092</id>
+	<word>scrape</word>
+	<a>摩擦</a>
+	<b>粘贴</b>
+	<c>张罗</c>
+	<d>放弃</d>
+</item>
+<item>
+	<id>6092</id>
+	<word>scrape</word>
+	<a>刮除</a>
+	<b>剥皮</b>
+	<c>沐浴</c>
+	<d>凿子</d>
+</item>
+<item>
+	<id>6104</id>
+	<word>ammunition</word>
+	<a>弹药</a>
+	<b>导弹</b>
+	<c>弹弓</c>
+	<d>飞机</d>
+</item>
+<item>
+	<id>6105</id>
+	<word>furnish</word>
+	<a>供应</a>
+	<b>欺诈</b>
+	<c>家具</c>
+	<d>扫兴</d>
+</item>
+<item>
+	<id>6107</id>
+	<word>manipulate</word>
+	<a>操纵</a>
+	<b>繁多</b>
+	<c>生产</c>
+	<d>认为</d>
+</item>
+<item>
+	<id>6112</id>
+	<word>warden</word>
+	<a>监察员</a>
+	<b>评阅人</b>
+	<c>检察官</c>
+	<d>书记员</d>
+</item>
+<item>
+	<id>6114</id>
+	<word>menace</word>
+	<a>危险的事物</a>
+	<b>侵略</b>
+	<c>保持</c>
+	<d>方式</d>
+</item>
+<item>
+	<id>6117</id>
+	<word>parcel</word>
+	<a>包裹</a>
+	<b>粒子</b>
+	<c>零件</c>
+	<d>口袋</d>
+</item>
+<item>
+	<id>6117</id>
+	<word>parcel</word>
+	<a>一块</a>
+	<b>一头</b>
+	<c>一包</c>
+	<d>布囊</d>
+</item>
+<item>
+	<id>6118</id>
+	<word>scarcely</word>
+	<a>几乎不</a>
+	<b>几乎</b>
+	<c>偶尔</c>
+	<d>缺乏</d>
+</item>
+<item>
+	<id>6120</id>
+	<word>upright</word>
+	<a>垂直的</a>
+	<b>坚强的</b>
+	<c>忙碌的</c>
+	<d>正确的</d>
+</item>
+<item>
+	<id>6120</id>
+	<word>upright</word>
+	<a>正直的</a>
+	<b>热情的</b>
+	<c>蛮横的</c>
+	<d>艰苦的</d>
+</item>
+<item>
+	<id>6122</id>
+	<word>aluminium</word>
+	<a>铝</a>
+	<b>校友</b>
+	<c>角质</c>
+	<d>锰</d>
+</item>
+<item>
+	<id>6125</id>
+	<word>monument</word>
+	<a>纪念碑</a>
+	<b>著作</b>
+	<c>塔尖</c>
+	<d>方向牌</d>
+</item>
+<item>
+	<id>6126</id>
+	<word>passive</word>
+	<a>消极的</a>
+	<b>主动的</b>
+	<c>残忍的</c>
+	<d>过得去的</d>
+</item>
+<item>
+	<id>6130</id>
+	<word>accumulate</word>
+	<a>积累</a>
+	<b>适应</b>
+	<c>组合</c>
+	<d>联合</d>
+</item>
+<item>
+	<id>6131</id>
+	<word>cemetery</word>
+	<a>墓地</a>
+	<b>温度计</b>
+	<c>庆祝</c>
+	<d>直径</d>
+</item>
+<item>
+	<id>6132</id>
+	<word>desirable</word>
+	<a>称心的，值得想望的</a>
+	<b>精细的</b>
+	<c>描述的，描写的</c>
+	<d>贫困的，贫穷的</d>
+</item>
+<item>
+	<id>6134</id>
+	<word>jolly</word>
+	<a>快乐的，开心的</a>
+	<b>粘人的</b>
+	<c>讨厌的</c>
+	<d>麻烦的</d>
+</item>
+<item>
+	<id>6152</id>
+	<word>lucrative</word>
+	<a>利润丰厚的</a>
+	<b>前途光明的</b>
+	<c>加润滑油的</c>
+	<d>加润滑油的荒唐可笑的</d>
+</item>
+<item>
+	<id>6154</id>
+	<word>rag</word>
+	<a>抹布</a>
+	<b>木筏</b>
+	<c>镭射</c>
+	<d>铁路</d>
+</item>
+<item>
+	<id>6157</id>
+	<word>farewell</word>
+	<a>告别</a>
+	<b>好运</b>
+	<c>逃</c>
+	<d>禁忌</d>
+</item>
+<item>
+	<id>6158</id>
+	<word>paperback</word>
+	<a>平装书</a>
+	<b>书简</b>
+	<c>墙纸</c>
+	<d>小说</d>
+</item>
+<item>
+	<id>6159</id>
+	<word>quotation</word>
+	<a>引语</a>
+	<b>份额</b>
+	<c>系数</c>
+	<d>问题</d>
+</item>
+<item>
+	<id>6173</id>
+	<word>formidable</word>
+	<a>令人敬畏的</a>
+	<b>开心的</b>
+	<c>严格的</c>
+	<d>勤奋的</d>
+</item>
+<item>
+	<id>6179</id>
+	<word>calf</word>
+	<a>小腿肚</a>
+	<b>大腿</b>
+	<c>肚子</c>
+	<d>脚踝</d>
+</item>
+<item>
+	<id>6180</id>
+	<word>cellar</word>
+	<a>地窖</a>
+	<b>地段</b>
+	<c>地板</c>
+	<d>地面</d>
+</item>
+<item>
+	<id>6184</id>
+	<word>maid</word>
+	<a>女仆</a>
+	<b>手工</b>
+	<c>诉说</c>
+	<d>袭击</d>
+</item>
+<item>
+	<id>6186</id>
+	<word>rebellion</word>
+	<a>叛乱</a>
+	<b>敲钟</b>
+	<c>辩论</c>
+	<d>致富</d>
+</item>
+<item>
+	<id>6187</id>
+	<word>recreation</word>
+	<a>娱乐</a>
+	<b>发明</b>
+	<c>笔录</c>
+	<d>装饰</d>
+</item>
+<item>
+	<id>6194</id>
+	<word>corrupt</word>
+	<a>有伤风化的</a>
+	<b>关键的</b>
+	<c>粗糙的</c>
+	<d>爆发的</d>
+</item>
+<item>
+	<id>6194</id>
+	<word>corrupt</word>
+	<a>面目全非的</a>
+	<b>原初的</b>
+	<c>完整无缺的</c>
+	<d>完成的</d>
+</item>
+<item>
+	<id>6194</id>
+	<word>corrupt</word>
+	<a>腐败的</a>
+	<b>分裂的</b>
+	<c>清白的</c>
+	<d>团体的</d>
+</item>
+<item>
+	<id>6195</id>
+	<word>lily</word>
+	<a>百合花</a>
+	<b>生菜</b>
+	<c>萝卜</c>
+	<d>菊花</d>
+</item>
+<item>
+	<id>6198</id>
+	<word>absent</word>
+	<a>缺席的</a>
+	<b>开心的</b>
+	<c>甜蜜的</c>
+	<d>重新的</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

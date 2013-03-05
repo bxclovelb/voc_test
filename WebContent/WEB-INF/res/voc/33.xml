@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>6400</id>
+	<word>discourage</word>
+	<a>打消念头</a>
+	<b>排泄</b>
+	<c>消失</c>
+	<d>拦截</d>
+</item>
+<item>
+	<id>6402</id>
+	<word>fatigue</word>
+	<a>疲惫</a>
+	<b>期待</b>
+	<c>失败</c>
+	<d>命运</d>
+</item>
+<item>
+	<id>6406</id>
+	<word>intimidate</word>
+	<a>恐吓</a>
+	<b>亲密</b>
+	<c>沉思</c>
+	<d>提示</d>
+</item>
+<item>
+	<id>6407</id>
+	<word>marginal</word>
+	<a>微不足道的</a>
+	<b>行进的</b>
+	<c>海洋的</c>
+	<d>调味的</d>
+</item>
+<item>
+	<id>6414</id>
+	<word>endeavour</word>
+	<a>努力</a>
+	<b>衰弱</b>
+	<c>企图</c>
+	<d>威胁</d>
+</item>
+<item>
+	<id>6424</id>
+	<word>magnetic</word>
+	<a>有磁性的</a>
+	<b>奇妙的</b>
+	<c>雄伟的</c>
+	<d>急躁的</d>
+</item>
+<item>
+	<id>6427</id>
+	<word>raft</word>
+	<a>浮台</a>
+	<b>草稿</b>
+	<c>垃圾，杂物</c>
+	<d>救生圈</d>
+</item>
+<item>
+	<id>6427</id>
+	<word>raft</word>
+	<a>木排，木筏</a>
+	<b>比例</b>
+	<c>敲击声</c>
+	<d>光谱</d>
+</item>
+<item>
+	<id>6429</id>
+	<word>salesman</word>
+	<a>售货员</a>
+	<b>老板</b>
+	<c>经理</c>
+	<d>主任</d>
+</item>
+<item>
+	<id>6430</id>
+	<word>stripe</word>
+	<a>条纹</a>
+	<b>条幅</b>
+	<c>部落</c>
+	<d>剥落</d>
+</item>
+<item>
+	<id>6433</id>
+	<word>impulse</word>
+	<a>脉冲</a>
+	<b>冲击</b>
+	<c>杀虫剂</c>
+	<d>闯入</d>
+</item>
+<item>
+	<id>6435</id>
+	<word>linen</word>
+	<a>织品</a>
+	<b>线条</b>
+	<c>衬里</c>
+	<d>排队</d>
+</item>
+<item>
+	<id>6436</id>
+	<word>mailbox</word>
+	<a>信箱</a>
+	<b>邮件</b>
+	<c>包装</c>
+	<d>广告</d>
+</item>
+<item>
+	<id>6437</id>
+	<word>overlap</word>
+	<a>与……部分重叠</a>
+	<b>与……谈判</b>
+	<c>与……协调</c>
+	<d>使……信服</d>
+</item>
+<item>
+	<id>6441</id>
+	<word>adore</word>
+	<a>敬慕</a>
+	<b>活跃</b>
+	<c>放火</c>
+	<d>试探</d>
+</item>
+<item>
+	<id>6443</id>
+	<word>cane</word>
+	<a>手杖</a>
+	<b>沙发</b>
+	<c>绶带</c>
+	<d>污物</d>
+</item>
+<item>
+	<id>6443</id>
+	<word>cane</word>
+	<a>藤条</a>
+	<b>糖果</b>
+	<c>引擎</c>
+	<d>铁皮</d>
+</item>
+<item>
+	<id>6444</id>
+	<word>flaw</word>
+	<a>瑕疵</a>
+	<b>飞</b>
+	<c>薄片</c>
+	<d>羽毛</d>
+</item>
+<item>
+	<id>6445</id>
+	<word>fountain</word>
+	<a>喷泉</a>
+	<b>水池</b>
+	<c>河水</c>
+	<d>旷野</d>
+</item>
+<item>
+	<id>6446</id>
+	<word>honesty</word>
+	<a>诚实</a>
+	<b>合同</b>
+	<c>决定</c>
+	<d>坦率</d>
+</item>
+<item>
+	<id>6449</id>
+	<word>discard</word>
+	<a>扔掉</a>
+	<b>减少</b>
+	<c>折扣</c>
+	<d>分开</d>
+</item>
+<item>
+	<id>6456</id>
+	<word>competent</word>
+	<a>能干的</a>
+	<b>困惑的</b>
+	<c>舒适的</c>
+	<d>自信的</d>
+</item>
+<item>
+	<id>6460</id>
+	<word>flap</word>
+	<a>片状垂悬物</a>
+	<b>物体</b>
+	<c>器官</c>
+	<d>摆放</d>
+</item>
+<item>
+	<id>6460</id>
+	<word>flap</word>
+	<a>拍打</a>
+	<b>展览</b>
+	<c>计划</c>
+	<d>出差</d>
+</item>
+<item>
+	<id>6461</id>
+	<word>fond</word>
+	<a>喜欢的</a>
+	<b>可爱的</b>
+	<c>过去的</c>
+	<d>先进的</d>
+</item>
+<item>
+	<id>6467</id>
+	<word>voyage</word>
+	<a>航行</a>
+	<b>包围</b>
+	<c>枕头</c>
+	<d>岔道</d>
+</item>
+<item>
+	<id>6468</id>
+	<word>dim</word>
+	<a>昏暗的</a>
+	<b>明亮的</b>
+	<c>清楚的</c>
+	<d>黑暗的</d>
+</item>
+<item>
+	<id>6468</id>
+	<word>dim</word>
+	<a>朦胧的</a>
+	<b>清楚的</b>
+	<c>巨大的</c>
+	<d>清楚的</d>
+</item>
+<item>
+	<id>6468</id>
+	<word>dim</word>
+	<a>视力不好的</a>
+	<b>明白的</b>
+	<c>困惑的</c>
+	<d>安全的</d>
+</item>
+<item>
+	<id>6469</id>
+	<word>evacuate</word>
+	<a>撤离</a>
+	<b>解散</b>
+	<c>驱赶</c>
+	<d>蒸发</d>
+</item>
+<item>
+	<id>6474</id>
+	<word>partial</word>
+	<a>偏袒的</a>
+	<b>保护的</b>
+	<c>特定的</c>
+	<d>细心的</d>
+</item>
+<item>
+	<id>6477</id>
+	<word>reproduce</word>
+	<a>繁殖</a>
+	<b>调节</b>
+	<c>统治</c>
+	<d>重做</d>
+</item>
+<item>
+	<id>6483</id>
+	<word>metaphor</word>
+	<a>隐喻</a>
+	<b>明喻</b>
+	<c>修辞</c>
+	<d>象征</d>
+</item>
+<item>
+	<id>6493</id>
+	<word>dinosaur</word>
+	<a>恐龙</a>
+	<b>袋鼠</b>
+	<c>熊猫</c>
+	<d>大象</d>
+</item>
+<item>
+	<id>6496</id>
+	<word>liberate</word>
+	<a>使解脱</a>
+	<b>发射</b>
+	<c>放松</c>
+	<d>使自由</d>
+</item>
+<item>
+	<id>6498</id>
+	<word>resent</word>
+	<a>愤恨</a>
+	<b>后悔</b>
+	<c>揭露</c>
+	<d>预订</d>
+</item>
+<item>
+	<id>6504</id>
+	<word>explicit</word>
+	<a>露骨的</a>
+	<b>详尽的</b>
+	<c>简明的</c>
+	<d>广泛的</d>
+</item>
+<item>
+	<id>6505</id>
+	<word>formulate</word>
+	<a>制定</a>
+	<b>规定</b>
+	<c>找出</c>
+	<d>研究</d>
+</item>
+<item>
+	<id>6521</id>
+	<word>intermediate</word>
+	<a>中间的</a>
+	<b>立即的</b>
+	<c>媒体的</c>
+	<d>调解的</d>
+</item>
+<item>
+	<id>6525</id>
+	<word>defect</word>
+	<a>缺点</a>
+	<b>反映</b>
+	<c>击败</c>
+	<d>传染</d>
+</item>
+<item>
+	<id>6528</id>
+	<word>maiden</word>
+	<a>少女</a>
+	<b>发疯</b>
+	<c>温和</c>
+	<d>保姆</d>
+</item>
+<item>
+	<id>6547</id>
+	<word>ignorance</word>
+	<a>无知</a>
+	<b>否定</b>
+	<c>骄傲</c>
+	<d>初步</d>
+</item>
+<item>
+	<id>6548</id>
+	<word>jealous</word>
+	<a>忌妒的</a>
+	<b>宝贵的</b>
+	<c>谦逊的</c>
+	<d>同情的</d>
+</item>
+<item>
+	<id>6551</id>
+	<word>renaissance</word>
+	<a>复兴</a>
+	<b>恢复</b>
+	<c>重复</c>
+	<d>代理</d>
+</item>
+<item>
+	<id>6558</id>
+	<word>dispose</word>
+	<a>处理</a>
+	<b>驱散</b>
+	<c>浪费</c>
+	<d>分离</d>
+</item>
+<item>
+	<id>6562</id>
+	<word>invention</word>
+	<a>发明</a>
+	<b>发现</b>
+	<c>发布</c>
+	<d>发表</d>
+</item>
+<item>
+	<id>6562</id>
+	<word>invention</word>
+	<a>发明物</a>
+	<b>调查</b>
+	<c>干涉</c>
+	<d>投资</d>
+</item>
+<item>
+	<id>6564</id>
+	<word>lightning</word>
+	<a>闪电</a>
+	<b>照明</b>
+	<c>缓和</c>
+	<d>说谎</d>
+</item>
+<item>
+	<id>6566</id>
+	<word>obey</word>
+	<a>服从</a>
+	<b>迫使</b>
+	<c>使着迷</c>
+	<d>观察</d>
+</item>
+<item>
+	<id>6568</id>
+	<word>jog</word>
+	<a>轻撞</a>
+	<b>推倒</b>
+	<c>打倒</c>
+	<d>搀扶</d>
+</item>
+<item>
+	<id>6568</id>
+	<word>jog</word>
+	<a>慢跑</a>
+	<b>散步</b>
+	<c>竞走</c>
+	<d>前进</d>
+</item>
+<item>
+	<id>6574</id>
+	<word>scrutiny</word>
+	<a>检查</a>
+	<b>考核</b>
+	<c>巡逻</c>
+	<d>散步</d>
+</item>
+<item>
+	<id>6576</id>
+	<word>width</word>
+	<a>宽度</a>
+	<b>深度</b>
+	<c>密度</c>
+	<d>厚度</d>
+</item>
+<item>
+	<id>6581</id>
+	<word>marital</word>
+	<a>婚姻的</a>
+	<b>海生的</b>
+	<c>军事的</c>
+	<d>母性的</d>
+</item>
+<item>
+	<id>6582</id>
+	<word>reservoir</word>
+	<a>水库</a>
+	<b>水井</b>
+	<c>隧道</c>
+	<d>池塘</d>
+</item>
+<item>
+	<id>6583</id>
+	<word>safeguard</word>
+	<a>保护</a>
+	<b>阻止</b>
+	<c>抢救</c>
+	<d>避免</d>
+</item>
+<item>
+	<id>6587</id>
+	<word>amuse</word>
+	<a>使开心</a>
+	<b>被认出</b>
+	<c>受污染</c>
+	<d>被误导</d>
+</item>
+<item>
+	<id>6595</id>
+	<word>mare</word>
+	<a>母马</a>
+	<b>公马</b>
+	<c>母象</c>
+	<d>公象</d>
+</item>
+<item>
+	<id>6596</id>
+	<word>microphone</word>
+	<a>麦克风</a>
+	<b>显微镜</b>
+	<c>微型电话</c>
+	<d>微观</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

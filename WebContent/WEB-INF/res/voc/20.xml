@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>3802</id>
+	<word>unfair</word>
+	<a>不公平的</a>
+	<b>不礼貌的</b>
+	<c>不熟悉的</c>
+	<d>不重要的</d>
+</item>
+<item>
+	<id>3803</id>
+	<word>exploit</word>
+	<a>剥削</a>
+	<b>探索</b>
+	<c>输出</c>
+	<d>倡导</d>
+</item>
+<item>
+	<id>3803</id>
+	<word>exploit</word>
+	<a>利用</a>
+	<b>解释</b>
+	<c>熟悉</c>
+	<d>理解</d>
+</item>
+<item>
+	<id>3805</id>
+	<word>scrap</word>
+	<a>碎屑</a>
+	<b>攀登</b>
+	<c>擦伤</c>
+	<d>刮漆刀</d>
+</item>
+<item>
+	<id>3805</id>
+	<word>scrap</word>
+	<a>废品</a>
+	<b>片段</b>
+	<c>垃圾</c>
+	<d>遗物</d>
+</item>
+<item>
+	<id>3805</id>
+	<word>scrap</word>
+	<a>点滴</a>
+	<b>小屋</b>
+	<c>菊花</c>
+	<d>水珠</d>
+</item>
+<item>
+	<id>3805</id>
+	<word>scrap</word>
+	<a>残羹</a>
+	<b>咸菜</b>
+	<c>进口</c>
+	<d>活塞</d>
+</item>
+<item>
+	<id>3817</id>
+	<word>acceptance</word>
+	<a>认可</a>
+	<b>到达</b>
+	<c>运用</c>
+	<d>服从</d>
+</item>
+<item>
+	<id>3817</id>
+	<word>acceptance</word>
+	<a>赞同</a>
+	<b>担忧</b>
+	<c>困扰</c>
+	<d>同情</d>
+</item>
+<item>
+	<id>3818</id>
+	<word>dependent</word>
+	<a>依赖的</a>
+	<b>细心的</b>
+	<c>扩张的</c>
+	<d>独立的</d>
+</item>
+<item>
+	<id>3819</id>
+	<word>earthquake</word>
+	<a>地震</a>
+	<b>地球仪</b>
+	<c>蚯蚓</c>
+	<d>地理</d>
+</item>
+<item>
+	<id>3822</id>
+	<word>curious</word>
+	<a>好奇的</a>
+	<b>持续的</b>
+	<c>健忘的</c>
+	<d>明显的</d>
+</item>
+<item>
+	<id>3823</id>
+	<word>strict</word>
+	<a>严格的</a>
+	<b>守时的</b>
+	<c>伸长的</c>
+	<d>重读的</d>
+</item>
+<item>
+	<id>3824</id>
+	<word>dimension</word>
+	<a>方面</a>
+	<b>丈量</b>
+	<c>一角</c>
+	<d>对半</d>
+</item>
+<item>
+	<id>3825</id>
+	<word>integrate</word>
+	<a>使……融合</a>
+	<b>使……服从</b>
+	<c>使……遵守</c>
+	<d>使……了解</d>
+</item>
+<item>
+	<id>3831</id>
+	<word>universal</word>
+	<a>全体的</a>
+	<b>认识的</b>
+	<c>有争议的</c>
+	<d>合理的</d>
+</item>
+<item>
+	<id>3832</id>
+	<word>allowance</word>
+	<a>限额</a>
+	<b>平均</b>
+	<c>总额</c>
+	<d>允许</d>
+</item>
+<item>
+	<id>3832</id>
+	<word>allowance</word>
+	<a>津贴</a>
+	<b>合同</b>
+	<c>认定</c>
+	<d>奖金</d>
+</item>
+<item>
+	<id>3836</id>
+	<word>gene</word>
+	<a>基因</a>
+	<b>姿势</b>
+	<c>内疚</c>
+	<d>类别</d>
+</item>
+<item>
+	<id>3841</id>
+	<word>punishment</word>
+	<a>处罚</a>
+	<b>钩得物</b>
+	<c>标点符号</c>
+	<d>打孔器</d>
+</item>
+<item>
+	<id>3844</id>
+	<word>soar</word>
+	<a>猛增</a>
+	<b>浸透</b>
+	<c>软化</c>
+	<d>清醒</d>
+</item>
+<item>
+	<id>3844</id>
+	<word>soar</word>
+	<a>高飞</a>
+	<b>流动</b>
+	<c>呼啸</c>
+	<d>解决</d>
+</item>
+<item>
+	<id>3846</id>
+	<word>sandwich</word>
+	<a>三明治</a>
+	<b>三文鱼</b>
+	<c>广告牌</c>
+	<d>环境卫生</d>
+</item>
+<item>
+	<id>3848</id>
+	<word>delicate</word>
+	<a>易碎的</a>
+	<b>勤奋的</b>
+	<c>故意的</c>
+	<d>装饰的</d>
+</item>
+<item>
+	<id>3848</id>
+	<word>delicate</word>
+	<a>微妙的</a>
+	<b>美味的</b>
+	<c>奉献的</c>
+	<d>愉悦的</d>
+</item>
+<item>
+	<id>3848</id>
+	<word>delicate</word>
+	<a>娇弱的</a>
+	<b>理想的</b>
+	<c>喧嚣的</c>
+	<d>平凡的</d>
+</item>
+<item>
+	<id>3849</id>
+	<word>flesh</word>
+	<a>肉</a>
+	<b>新鲜</b>
+	<c>闪光</c>
+	<d>脸红</d>
+</item>
+<item>
+	<id>3850</id>
+	<word>menu</word>
+	<a>菜单</a>
+	<b>备忘录</b>
+	<c>纪念品</c>
+	<d>记录</d>
+</item>
+<item>
+	<id>3851</id>
+	<word>residential</word>
+	<a>住宅区的</a>
+	<b>顺从的</b>
+	<c>恭敬的</c>
+	<d>剩余的</d>
+</item>
+<item>
+	<id>3853</id>
+	<word>edit</word>
+	<a>编辑</a>
+	<b>剪切</b>
+	<c>印刷</c>
+	<d>出版</d>
+</item>
+<item>
+	<id>3854</id>
+	<word>filter</word>
+	<a>过滤器</a>
+	<b>设备</b>
+	<c>水桶</c>
+	<d>水塔</d>
+</item>
+<item>
+	<id>3854</id>
+	<word>filter</word>
+	<a>过滤</a>
+	<b>透过</b>
+	<c>清理</c>
+	<d>打扫</d>
+</item>
+<item>
+	<id>3857</id>
+	<word>rack</word>
+	<a>支架</a>
+	<b>高台</b>
+	<c>站台</c>
+	<d>桩子</d>
+</item>
+<item>
+	<id>3859</id>
+	<word>everyday</word>
+	<a>每天的</a>
+	<b>每周的</b>
+	<c>每月的</c>
+	<d>每年的</d>
+</item>
+<item>
+	<id>3862</id>
+	<word>lung</word>
+	<a>肺</a>
+	<b>肝</b>
+	<c>渴望</c>
+	<d>长度</d>
+</item>
+<item>
+	<id>3864</id>
+	<word>organ</word>
+	<a>部门</a>
+	<b>解释</b>
+	<c>公司</c>
+	<d>选择</d>
+</item>
+<item>
+	<id>3864</id>
+	<word>organ</word>
+	<a>器官</a>
+	<b>宗教</b>
+	<c>器乐</c>
+	<d>机器</d>
+</item>
+<item>
+	<id>3866</id>
+	<word>undergo</word>
+	<a>经历</a>
+	<b>损害</b>
+	<c>启发</c>
+	<d>强调</d>
+</item>
+<item>
+	<id>3870</id>
+	<word>reinforce</word>
+	<a>增强</a>
+	<b>恢复</b>
+	<c>重申</c>
+	<d>反映</d>
+</item>
+<item>
+	<id>3873</id>
+	<word>people</word>
+	<a>人</a>
+	<b>纸张</b>
+	<c>辣椒</c>
+	<d>小学生</d>
+</item>
+<item>
+	<id>3873</id>
+	<word>people</word>
+	<a>人们</a>
+	<b>人群</b>
+	<c>人类</c>
+	<d>种族</d>
+</item>
+<item>
+	<id>3878</id>
+	<word>subsequent</word>
+	<a>随后的</a>
+	<b>下面的</b>
+	<c>附属的</c>
+	<d>可观的</d>
+</item>
+<item>
+	<id>3881</id>
+	<word>contrary</word>
+	<a>相反的</a>
+	<b>坚决的</b>
+	<c>暗淡的</c>
+	<d>可爱的</d>
+</item>
+<item>
+	<id>3881</id>
+	<word>contrary</word>
+	<a>相反</a>
+	<b>合同</b>
+	<c>比较</c>
+	<d>违背</d>
+</item>
+<item>
+	<id>3884</id>
+	<word>interaction</word>
+	<a>交流</a>
+	<b>谈心</b>
+	<c>探求</c>
+	<d>教导</d>
+</item>
+<item>
+	<id>3887</id>
+	<word>elephant</word>
+	<a>象</a>
+	<b>鹿</b>
+	<c>鸟</c>
+	<d>海豚</d>
+</item>
+<item>
+	<id>3888</id>
+	<word>interpret</word>
+	<a>理解为</a>
+	<b>折衷为</b>
+	<c>解码</c>
+	<d>打印</d>
+</item>
+<item>
+	<id>3888</id>
+	<word>interpret</word>
+	<a>口译</a>
+	<b>释放</b>
+	<c>发明</c>
+	<d>解决</d>
+</item>
+<item>
+	<id>3892</id>
+	<word>attribute</word>
+	<a>认为．．．属于</a>
+	<b>认为．．．错在</b>
+	<c>认为．．．位于</c>
+	<d>认为．．．正当</d>
+</item>
+<item>
+	<id>3892</id>
+	<word>attribute</word>
+	<a>把．．．归因于</a>
+	<b>被．．．责怪</b>
+	<c>被．．．提醒</c>
+	<d>把．．．施加于</d>
+</item>
+<item>
+	<id>3894</id>
+	<word>editorial</word>
+	<a>社论</a>
+	<b>花招</b>
+	<c>典礼</c>
+	<d>广告</d>
+</item>
+<item>
+	<id>3895</id>
+	<word>framework</word>
+	<a>框架</a>
+	<b>比赛</b>
+	<c>任务</c>
+	<d>图纸</d>
+</item>
+<item>
+	<id>3899</id>
+	<word>incentive</word>
+	<a>动力</a>
+	<b>创造</b>
+	<c>敏锐</c>
+	<d>本能</d>
+</item>
+<item>
+	<id>3900</id>
+	<word>liberty</word>
+	<a>自由</a>
+	<b>图书馆</b>
+	<c>遗产</c>
+	<d>执照</d>
+</item>
+<item>
+	<id>3900</id>
+	<word>liberty</word>
+	<a>合法权利</a>
+	<b>人权</b>
+	<c>知识产权</c>
+	<d>平等</d>
+</item>
+<item>
+	<id>3905</id>
+	<word>delicious</word>
+	<a>美味的</a>
+	<b>勤奋的</b>
+	<c>微妙的</c>
+	<d>从容不迫的</d>
+</item>
+<item>
+	<id>3906</id>
+	<word>faction</word>
+	<a>派别，派系</a>
+	<b>片断，碎片</b>
+	<c>摩擦，摩擦力</c>
+	<d>反应，反作用</d>
+</item>
+<item>
+	<id>3909</id>
+	<word>dial</word>
+	<a>拨电话号码</a>
+	<b>昏暗</b>
+	<c>相当</c>
+	<d>决斗</d>
+</item>
+<item>
+	<id>3909</id>
+	<word>dial</word>
+	<a>打电话</a>
+	<b>回答</b>
+	<c>呼喊</c>
+	<d>急救</d>
+</item>
+<item>
+	<id>3911</id>
+	<word>beg</word>
+	<a>请求</a>
+	<b>许愿</b>
+	<c>答应</c>
+	<d>感谢</d>
+</item>
+<item>
+	<id>3914</id>
+	<word>instinct</word>
+	<a>本能</a>
+	<b>立即</b>
+	<c>例子</c>
+	<d>瞬间</d>
+</item>
+<item>
+	<id>3917</id>
+	<word>mercury</word>
+	<a>水银</a>
+	<b>仁慈的</b>
+	<c>善变的</c>
+	<d>含汞的</d>
+</item>
+<item>
+	<id>3923</id>
+	<word>exhibit</word>
+	<a>展出</a>
+	<b>耗尽</b>
+	<c>存在</c>
+	<d>进化</d>
+</item>
+<item>
+	<id>3923</id>
+	<word>exhibit</word>
+	<a>显示</a>
+	<b>证实</b>
+	<c>夸张</c>
+	<d>公开</d>
+</item>
+<item>
+	<id>3924</id>
+	<word>grateful</word>
+	<a>感激的</a>
+	<b>发声的</b>
+	<c>伟大的</c>
+	<d>敏感的</d>
+</item>
+<item>
+	<id>3930</id>
+	<word>reflection</word>
+	<a>深思</a>
+	<b>接待</b>
+	<c>征募</c>
+	<d>审核</d>
+</item>
+<item>
+	<id>3930</id>
+	<word>reflection</word>
+	<a>倒影</a>
+	<b>侧影</b>
+	<c>影响</c>
+	<d>身影</d>
+</item>
+<item>
+	<id>3932</id>
+	<word>amid</word>
+	<a>在．．．中间</a>
+	<b>和．．．</b>
+	<c>在．．．下面</c>
+	<d>向．．．</d>
+</item>
+<item>
+	<id>3933</id>
+	<word>celebrity</word>
+	<a>名人</a>
+	<b>名誉</b>
+	<c>姓名</c>
+	<d>名堂</d>
+</item>
+<item>
+	<id>3936</id>
+	<word>capitalism</word>
+	<a>资本主义</a>
+	<b>个人主义</b>
+	<c>马克思主义</c>
+	<d>现实主义</d>
+</item>
+<item>
+	<id>3937</id>
+	<word>detect</word>
+	<a>察觉　</a>
+	<b>预测　　</b>
+	<c>估计　</c>
+	<d>注射</d>
+</item>
+<item>
+	<id>3938</id>
+	<word>parallel</word>
+	<a>相似之处</a>
+	<b>局部稳定</b>
+	<c>密切来往</c>
+	<d>缺憾之处</d>
+</item>
+<item>
+	<id>3938</id>
+	<word>parallel</word>
+	<a>相似的事物</a>
+	<b>范文典型</b>
+	<c>维护</c>
+	<d>繁琐细节</d>
+</item>
+<item>
+	<id>3938</id>
+	<word>parallel</word>
+	<a>纬线</a>
+	<b>项圈</b>
+	<c>盘点</c>
+	<d>作用</d>
+</item>
+<item>
+	<id>3939</id>
+	<word>roar</word>
+	<a>咆哮</a>
+	<b>上升</b>
+	<c>抚养</c>
+	<d>摇摆</d>
+</item>
+<item>
+	<id>3939</id>
+	<word>roar</word>
+	<a>轰鸣</a>
+	<b>撞击</b>
+	<c>猛冲</c>
+	<d>轰炸</d>
+</item>
+<item>
+	<id>3939</id>
+	<word>roar</word>
+	<a>吼叫</a>
+	<b>哭叫</b>
+	<c>狂奔</c>
+	<d>漫游</d>
+</item>
+<item>
+	<id>3948</id>
+	<word>thrill</word>
+	<a>兴奋</a>
+	<b>繁荣</b>
+	<c>节约</c>
+	<d>健壮</d>
+</item>
+<item>
+	<id>3950</id>
+	<word>lonely</word>
+	<a>孤独的</a>
+	<b>落后的</b>
+	<c>独自的</c>
+	<d>独立的</d>
+</item>
+<item>
+	<id>3951</id>
+	<word>realistic</word>
+	<a>现实的</a>
+	<b>无私的</b>
+	<c>理想的</c>
+	<d>真理的</d>
+</item>
+<item>
+	<id>3954</id>
+	<word>digital</word>
+	<a>数码的</a>
+	<b>详细的</b>
+	<c>双语的</c>
+	<d>有区别的</d>
+</item>
+<item>
+	<id>3955</id>
+	<word>memorial</word>
+	<a>追悼的</a>
+	<b>备忘录的</b>
+	<c>记录片的</c>
+	<d>失忆的</d>
+</item>
+<item>
+	<id>3956</id>
+	<word>horn</word>
+	<a>喇叭</a>
+	<b>车胎</b>
+	<c>刹车</c>
+	<d>仪表盘</d>
+</item>
+<item>
+	<id>3956</id>
+	<word>horn</word>
+	<a>动物的角</a>
+	<b>马厩</b>
+	<c>黎明</c>
+	<d>出生</d>
+</item>
+<item>
+	<id>3964</id>
+	<word>guidance</word>
+	<a>指导</a>
+	<b>宾客</b>
+	<c>推测</c>
+	<d>看守</d>
+</item>
+<item>
+	<id>3966</id>
+	<word>acquisition</word>
+	<a>习得</a>
+	<b>需要</b>
+	<c>要求</c>
+	<d>讯问</d>
+</item>
+<item>
+	<id>3974</id>
+	<word>reel</word>
+	<a>绕线轮</a>
+	<b>车轮</b>
+	<c>承轴</c>
+	<d>旋转门</d>
+</item>
+<item>
+	<id>3974</id>
+	<word>reel</word>
+	<a>一盘</a>
+	<b>一袋</b>
+	<c>一根</c>
+	<d>一升</d>
+</item>
+<item>
+	<id>3974</id>
+	<word>reel</word>
+	<a>里尔舞</a>
+	<b>踢踏舞</b>
+	<c>探戈</c>
+	<d>恰恰舞</d>
+</item>
+<item>
+	<id>3974</id>
+	<word>reel</word>
+	<a>站立不稳</a>
+	<b>独立</b>
+	<c>犹豫</c>
+	<d>评定</d>
+</item>
+<item>
+	<id>3975</id>
+	<word>shatter</word>
+	<a>使粉碎</a>
+	<b>解决</b>
+	<c>打断</c>
+	<d>拚接</d>
+</item>
+<item>
+	<id>3976</id>
+	<word>tempt</word>
+	<a>引诱</a>
+	<b>准备</b>
+	<c>竞赛</c>
+	<d>庙宇</d>
+</item>
+<item>
+	<id>3977</id>
+	<word>bake</word>
+	<a>烘</a>
+	<b>煎</b>
+	<c>炸</c>
+	<d>煮</d>
+</item>
+<item>
+	<id>3984</id>
+	<word>invent</word>
+	<a>发明</a>
+	<b>发现</b>
+	<c>发挥</c>
+	<d>发掘</d>
+</item>
+<item>
+	<id>3986</id>
+	<word>pursuit</word>
+	<a>追求</a>
+	<b>纯洁</b>
+	<c>性质</c>
+	<d>过程</d>
+</item>
+<item>
+	<id>3987</id>
+	<word>casual</word>
+	<a>不放在心上的</a>
+	<b>斩钉截铁的</b>
+	<c>似是而非的</c>
+	<d>死心塌地的</d>
+</item>
+<item>
+	<id>3987</id>
+	<word>casual</word>
+	<a>休闲的</a>
+	<b>伤亡的</b>
+	<c>习惯的</c>
+	<d>不寻常的</d>
+</item>
+<item>
+	<id>3991</id>
+	<word>easter</word>
+	<a>复活节</a>
+	<b>圣诞节</b>
+	<c>元旦</c>
+	<d>感恩节</d>
+</item>
+<item>
+	<id>3992</id>
+	<word>interim</word>
+	<a>过渡期间的</a>
+	<b>中介的</b>
+	<c>内部的</c>
+	<d>中级水平的</d>
+</item>
+<item>
+	<id>3995</id>
+	<word>exit</word>
+	<a>离去</a>
+	<b>结束</b>
+	<c>分开</c>
+	<d>生存</d>
+</item>
+<item>
+	<id>3995</id>
+	<word>exit</word>
+	<a>公路出口</a>
+	<b>十字路口</b>
+	<c>分叉</c>
+	<d>拐弯</d>
+</item>
+<item>
+	<id>3995</id>
+	<word>exit</word>
+	<a>出口</a>
+	<b>大门</b>
+	<c>放弃</c>
+	<d>释放</d>
+</item>
+<item>
+	<id>3996</id>
+	<word>grief</word>
+	<a>痛苦</a>
+	<b>短促</b>
+	<c>消息</c>
+	<d>抱怨</d>
+</item>
+<item>
+	<id>3997</id>
+	<word>isolate</word>
+	<a>分离</a>
+	<b>决裂</b>
+	<c>裂开</c>
+	<d>膨胀</d>
+</item>
+<item>
+	<id>3997</id>
+	<word>isolate</word>
+	<a>分离</a>
+	<b>分手</b>
+	<c>厌恶</c>
+	<d>离散</d>
+</item>
+<item>
+	<id>3997</id>
+	<word>isolate</word>
+	<a>孤立</a>
+	<b>离开</b>
+	<c>伤心</c>
+	<d>疑心</d>
+</item>
+<item>
+	<id>3998</id>
+	<word>miracle</word>
+	<a>奇迹</a>
+	<b>镜子</b>
+	<c>矿藏</c>
+	<d>少数民族</d>
+</item>
+<item>
+	<id>3999</id>
+	<word>nasty</word>
+	<a>难闻的</a>
+	<b>阴森的</b>
+	<c>可怕的</c>
+	<d>投入的</d>
+</item>
+<item>
+	<id>3999</id>
+	<word>nasty</word>
+	<a>恶劣的</a>
+	<b>自愿的</b>
+	<c>必要的</c>
+	<d>脏的</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>4402</id>
+	<word>specify</word>
+	<a>明确规定</a>
+	<b>区别</b>
+	<c>注定</c>
+	<d>使特殊</d>
+</item>
+<item>
+	<id>4407</id>
+	<word>fade</word>
+	<a>消失</a>
+	<b>逃避</b>
+	<c>侵略</c>
+	<d>寓言</d>
+</item>
+<item>
+	<id>4410</id>
+	<word>endless</word>
+	<a>无穷尽的</a>
+	<b>终结的</b>
+	<c>不厌其烦的</c>
+	<d>不停的</d>
+</item>
+<item>
+	<id>4411</id>
+	<word>interrupt</word>
+	<a>打断</a>
+	<b>质问</b>
+	<c>解释</c>
+	<d>分割</d>
+</item>
+<item>
+	<id>4412</id>
+	<word>screw</word>
+	<a>用螺丝固定</a>
+	<b>夹紧</b>
+	<c>拔出</c>
+	<d>清扫</d>
+</item>
+<item>
+	<id>4412</id>
+	<word>screw</word>
+	<a>螺丝钉</a>
+	<b>围巾</b>
+	<c>麻雀</c>
+	<d>水管</d>
+</item>
+<item>
+	<id>4415</id>
+	<word>accommodate</word>
+	<a>容纳</a>
+	<b>付款</b>
+	<c>治疗</c>
+	<d>打假</d>
+</item>
+<item>
+	<id>4415</id>
+	<word>accommodate</word>
+	<a>提供住所</a>
+	<b>保持干净</b>
+	<c>解决问题</c>
+	<d>发展效益</d>
+</item>
+<item>
+	<id>4417</id>
+	<word>exceptional</word>
+	<a>杰出的</a>
+	<b>特殊的</b>
+	<c>独立的</c>
+	<d>唯一的</d>
+</item>
+<item>
+	<id>4425</id>
+	<word>aboard</word>
+	<a>在（船、飞机、火车等）上</a>
+	<b>在国外</b>
+	<c>外出</c>
+	<d>在国内</d>
+</item>
+<item>
+	<id>4429</id>
+	<word>reign</word>
+	<a>统治时期</a>
+	<b>权威</b>
+	<c>独立</c>
+	<d>侵略</d>
+</item>
+<item>
+	<id>4429</id>
+	<word>reign</word>
+	<a>鼎盛期</a>
+	<b>等级</b>
+	<c>变化幅度</c>
+	<d>强化</d>
+</item>
+<item>
+	<id>4430</id>
+	<word>sergeant</word>
+	<a>军士</a>
+	<b>连续剧</b>
+	<c>公共服务</c>
+	<d>外科医生</d>
+</item>
+<item>
+	<id>4434</id>
+	<word>enthusiastic</word>
+	<a>热情的</a>
+	<b>激动的</b>
+	<c>冷漠的</c>
+	<d>理想的</d>
+</item>
+<item>
+	<id>4437</id>
+	<word>sacred</word>
+	<a>神圣的</a>
+	<b>害怕的</b>
+	<c>猩红的</c>
+	<d>悲伤的</d>
+</item>
+<item>
+	<id>4438</id>
+	<word>unite</word>
+	<a>联合</a>
+	<b>解脱</b>
+	<c>分裂</c>
+	<d>敌对</d>
+</item>
+<item>
+	<id>4439</id>
+	<word>consent</word>
+	<a>允许</a>
+	<b>反对</b>
+	<c>离开</c>
+	<d>满足</d>
+</item>
+<item>
+	<id>4440</id>
+	<word>harvest</word>
+	<a>收获</a>
+	<b>匆忙</b>
+	<c>西方</c>
+	<d>投资</d>
+</item>
+<item>
+	<id>4441</id>
+	<word>asleep</word>
+	<a>睡着的</a>
+	<b>深刻的</b>
+	<c>民主的</c>
+	<d>体面的</d>
+</item>
+<item>
+	<id>4443</id>
+	<word>dreadful</word>
+	<a>糟糕的</a>
+	<b>初级的</b>
+	<c>戏剧的</c>
+	<d>令人愉快的</d>
+</item>
+<item>
+	<id>4444</id>
+	<word>disclose</word>
+	<a>透露</a>
+	<b>关闭</b>
+	<c>警惕</c>
+	<d>远离</d>
+</item>
+<item>
+	<id>4445</id>
+	<word>license</word>
+	<a>执照</a>
+	<b>自由</b>
+	<c>批发</c>
+	<d>证件</d>
+</item>
+<item>
+	<id>4445</id>
+	<word>license</word>
+	<a>放纵的权利</a>
+	<b>人权</b>
+	<c>版权</c>
+	<d>纪律</d>
+</item>
+<item>
+	<id>4445</id>
+	<word>license</word>
+	<a>不受约束</a>
+	<b>无限制</b>
+	<c>任意的</c>
+	<d>合法的</d>
+</item>
+<item>
+	<id>4451</id>
+	<word>monk</word>
+	<a>修道士</a>
+	<b>寺院</b>
+	<c>尼姑</c>
+	<d>修女</d>
+</item>
+<item>
+	<id>4456</id>
+	<word>esteem</word>
+	<a>尊敬</a>
+	<b>崇拜</b>
+	<c>欣赏</c>
+	<d>嫉妒</d>
+</item>
+<item>
+	<id>4457</id>
+	<word>hence</word>
+	<a>因此</a>
+	<b>小屋</b>
+	<c>篱笆</c>
+	<d>长凳</d>
+</item>
+<item>
+	<id>4462</id>
+	<word>foreigner</word>
+	<a>外国人</a>
+	<b>陌生人</b>
+	<c>出纳员</c>
+	<d>侍者</d>
+</item>
+<item>
+	<id>4463</id>
+	<word>peg</word>
+	<a>挂衣钩</a>
+	<b>投掷</b>
+	<c>黑板</c>
+	<d>同龄</d>
+</item>
+<item>
+	<id>4463</id>
+	<word>peg</word>
+	<a>衣夹</a>
+	<b>别针</b>
+	<c>图章</c>
+	<d>铁钉</d>
+</item>
+<item>
+	<id>4463</id>
+	<word>peg</word>
+	<a>桩</a>
+	<b>屋顶</b>
+	<c>点</c>
+	<d>铆钉</d>
+</item>
+<item>
+	<id>4464</id>
+	<word>signature</word>
+	<a>签名</a>
+	<b>符号</b>
+	<c>标志</c>
+	<d>信号</d>
+</item>
+<item>
+	<id>4467</id>
+	<word>essence</word>
+	<a>实质</a>
+	<b>缺乏</b>
+	<c>辩护</c>
+	<d>反应</d>
+</item>
+<item>
+	<id>4468</id>
+	<word>fitting</word>
+	<a>配件</a>
+	<b>冲动</b>
+	<c>机器</c>
+	<d>设计</d>
+</item>
+<item>
+	<id>4468</id>
+	<word>fitting</word>
+	<a>设备</a>
+	<b>空调</b>
+	<c>座机</c>
+	<d>房间</d>
+</item>
+<item>
+	<id>4469</id>
+	<word>millionaire</word>
+	<a>百万富翁</a>
+	<b>千禧年</b>
+	<c>千年虫</c>
+	<d>太平盛世</d>
+</item>
+<item>
+	<id>4471</id>
+	<word>pencil</word>
+	<a>铅笔</a>
+	<b>蜡笔</b>
+	<c>圆珠笔</c>
+	<d>钢笔</d>
+</item>
+<item>
+	<id>4483</id>
+	<word>cling</word>
+	<a>紧紧抓住</a>
+	<b>审查</b>
+	<c>蹑手蹑脚</c>
+	<d>调情</d>
+</item>
+<item>
+	<id>4485</id>
+	<word>lively</word>
+	<a>精力充沛的</a>
+	<b>活着的</b>
+	<c>栩栩如生的</c>
+	<d>毕生的</d>
+</item>
+<item>
+	<id>4485</id>
+	<word>lively</word>
+	<a>轻快的</a>
+	<b>缓慢的</b>
+	<c>加速的</c>
+	<d>流畅的</d>
+</item>
+<item>
+	<id>4487</id>
+	<word>suck</word>
+	<a>吮吸</a>
+	<b>忍受</b>
+	<c>发誓</c>
+	<d>赞助</d>
+</item>
+<item>
+	<id>4487</id>
+	<word>suck</word>
+	<a>吮吸</a>
+	<b>下降</b>
+	<c>坚持</c>
+	<d>铺平</d>
+</item>
+<item>
+	<id>4492</id>
+	<word>endure</word>
+	<a>忍耐</a>
+	<b>打算</b>
+	<c>努力</c>
+	<d>从事</d>
+</item>
+<item>
+	<id>4500</id>
+	<word>scholar</word>
+	<a>学者</a>
+	<b>计划</b>
+	<c>设计</c>
+	<d>校舍</d>
+</item>
+<item>
+	<id>4500</id>
+	<word>scholar</word>
+	<a>有学问的人</a>
+	<b>学校</b>
+	<c>校长</c>
+	<d>班主任</d>
+</item>
+<item>
+	<id>4501</id>
+	<word>whistle</word>
+	<a>汽笛</a>
+	<b>喇叭</b>
+	<c>绳子</c>
+	<d>尺子</d>
+</item>
+<item>
+	<id>4501</id>
+	<word>whistle</word>
+	<a>哨子声;汽笛声</a>
+	<b>欢呼声</b>
+	<c>吼叫</c>
+	<d>咆哮</d>
+</item>
+<item>
+	<id>4501</id>
+	<word>whistle</word>
+	<a>哨子</a>
+	<b>手枪</b>
+	<c>管道</c>
+	<d>智慧</d>
+</item>
+<item>
+	<id>4503</id>
+	<word>drill</word>
+	<a>钻头</a>
+	<b>刨子</b>
+	<c>钳子</c>
+	<d>镊子</d>
+</item>
+<item>
+	<id>4503</id>
+	<word>drill</word>
+	<a>训练</a>
+	<b>培养</b>
+	<c>移动</c>
+	<d>运作</d>
+</item>
+<item>
+	<id>4503</id>
+	<word>drill</word>
+	<a>军事演习</a>
+	<b>模拟训练</b>
+	<c>交通指挥</c>
+	<d>驾车驱赶　</d>
+</item>
+<item>
+	<id>4503</id>
+	<word>drill</word>
+	<a>条播机</a>
+	<b>饮料</b>
+	<c>机器</c>
+	<d>工具+</d>
+</item>
+<item>
+	<id>4509</id>
+	<word>neat</word>
+	<a>整齐的</a>
+	<b>漂亮的</b>
+	<c>开心的</c>
+	<d>甜蜜的</d>
+</item>
+<item>
+	<id>4509</id>
+	<word>neat</word>
+	<a>美妙的</a>
+	<b>开心的</b>
+	<c>首要的</c>
+	<d>管理的</d>
+</item>
+<item>
+	<id>4510</id>
+	<word>rap</word>
+	<a>轻敲，急拍</a>
+	<b>午睡</b>
+	<c>叩击</c>
+	<d>遮掩</d>
+</item>
+<item>
+	<id>4510</id>
+	<word>rap</word>
+	<a>厉声地说</a>
+	<b>夸张地说</b>
+	<c>犹豫地说</c>
+	<d>缓慢地说</d>
+</item>
+<item>
+	<id>4510</id>
+	<word>rap</word>
+	<a>严厉指责</a>
+	<b>拥护</b>
+	<c>追随</c>
+	<d>强加</d>
+</item>
+<item>
+	<id>4510</id>
+	<word>rap</word>
+	<a>说唱</a>
+	<b>弹唱</b>
+	<c>弹奏</c>
+	<d>表演</d>
+</item>
+<item>
+	<id>4511</id>
+	<word>strap</word>
+	<a>带子</a>
+	<b>中风</b>
+	<c>树桩</c>
+	<d>吸管</d>
+</item>
+<item>
+	<id>4515</id>
+	<word>successive</word>
+	<a>连续的</a>
+	<b>成功的</b>
+	<c>永久的</c>
+	<d>持久的</d>
+</item>
+<item>
+	<id>4519</id>
+	<word>infect</word>
+	<a>传染</a>
+	<b>缺陷</b>
+	<c>影响</c>
+	<d>昆虫</d>
+</item>
+<item>
+	<id>4520</id>
+	<word>lorry</word>
+	<a>卡车</a>
+	<b>客车</b>
+	<c>轿车</c>
+	<d>巴士</d>
+</item>
+<item>
+	<id>4521</id>
+	<word>scholarship</word>
+	<a>奖学金</a>
+	<b>困难</b>
+	<c>友谊</c>
+	<d>学者</d>
+</item>
+<item>
+	<id>4523</id>
+	<word>warmth</word>
+	<a>温暖</a>
+	<b>关心</b>
+	<c>炎热</c>
+	<d>热心</d>
+</item>
+<item>
+	<id>4526</id>
+	<word>expedition</word>
+	<a>探险</a>
+	<b>剥削</b>
+	<c>爆炸</c>
+	<d>利用</d>
+</item>
+<item>
+	<id>4527</id>
+	<word>frustrate</word>
+	<a>使沮丧</a>
+	<b>使迷惑</b>
+	<c>使迷路</c>
+	<d>使堵塞</d>
+</item>
+<item>
+	<id>4529</id>
+	<word>random</word>
+	<a>任意的</a>
+	<b>根本的</b>
+	<c>破旧的</c>
+	<d>合理的</d>
+</item>
+<item>
+	<id>4533</id>
+	<word>drunk</word>
+	<a>喝醉的</a>
+	<b>死亡的</b>
+	<c>明白的</c>
+	<d>盲目的</d>
+</item>
+<item>
+	<id>4547</id>
+	<word>emphasize</word>
+	<a>强调</a>
+	<b>加重</b>
+	<c>重点</c>
+	<d>忽略</d>
+</item>
+<item>
+	<id>4548</id>
+	<word>hobby</word>
+	<a>业余爱好</a>
+	<b>习惯</b>
+	<c>失望</c>
+	<d>时髦</d>
+</item>
+<item>
+	<id>4550</id>
+	<word>anchor</word>
+	<a>锚</a>
+	<b>船</b>
+	<c>祖先</c>
+	<d>淋浴</d>
+</item>
+<item>
+	<id>4550</id>
+	<word>anchor</word>
+	<a>精神支柱</a>
+	<b>化验员</b>
+	<c>瞄准器</c>
+	<d>袭击人员</d>
+</item>
+<item>
+	<id>4550</id>
+	<word>anchor</word>
+	<a>新闻节目主持人</a>
+	<b>纠偏专家</b>
+	<c>高傲的公主</c>
+	<d>吵吵闹闹的观众</d>
+</item>
+<item>
+	<id>4553</id>
+	<word>horizon</word>
+	<a>地平线</a>
+	<b>赤道</b>
+	<c>海拔</c>
+	<d>纬度</d>
+</item>
+<item>
+	<id>4556</id>
+	<word>regardless</word>
+	<a>不管怎样</a>
+	<b>毫不相干</b>
+	<c>不闻不问</c>
+	<d>毫不在意</d>
+</item>
+<item>
+	<id>4557</id>
+	<word>sensation</word>
+	<a>感觉</a>
+	<b>泻药</b>
+	<c>理解力</c>
+	<d>技能</d>
+</item>
+<item>
+	<id>4557</id>
+	<word>sensation</word>
+	<a>感觉能力</a>
+	<b>感觉</b>
+	<c>含义</c>
+	<d>传感器</d>
+</item>
+<item>
+	<id>4558</id>
+	<word>accountant</word>
+	<a>会计</a>
+	<b>助理</b>
+	<c>账户</c>
+	<d>计数</d>
+</item>
+<item>
+	<id>4559</id>
+	<word>affection</word>
+	<a>慈爱</a>
+	<b>邪恶</b>
+	<c>作用</c>
+	<d>宽度</d>
+</item>
+<item>
+	<id>4560</id>
+	<word>amaze</word>
+	<a>使吃惊</a>
+	<b>恐吓</b>
+	<c>鼓励</c>
+	<d>使迷惑</d>
+</item>
+<item>
+	<id>4564</id>
+	<word>rabbit</word>
+	<a>家兔</a>
+	<b>野猪</b>
+	<c>驴子</c>
+	<d>田鼠</d>
+</item>
+<item>
+	<id>4568</id>
+	<word>lid</word>
+	<a>盖子</a>
+	<b>土壤</b>
+	<c>遮盖</c>
+	<d>固体</d>
+</item>
+<item>
+	<id>4568</id>
+	<word>lid</word>
+	<a>眼睑</a>
+	<b>铅</b>
+	<c>瞳孔</c>
+	<d>珠子</d>
+</item>
+<item>
+	<id>4570</id>
+	<word>cruel</word>
+	<a>残忍的</a>
+	<b>笨重的</b>
+	<c>冷淡的</c>
+	<d>温柔的</d>
+</item>
+<item>
+	<id>4574</id>
+	<word>inherit</word>
+	<a>继承</a>
+	<b>固有</b>
+	<c>繁衍</c>
+	<d>居住</d>
+</item>
+<item>
+	<id>4576</id>
+	<word>scope</word>
+	<a>范围</a>
+	<b>擦洗</b>
+	<c>仔细搜索</c>
+	<d>螺丝钉</d>
+</item>
+<item>
+	<id>4578</id>
+	<word>accessory</word>
+	<a>附件</a>
+	<b>声音</b>
+	<c>肩膀</c>
+	<d>主持</d>
+</item>
+<item>
+	<id>4585</id>
+	<word>logic</word>
+	<a>逻辑性</a>
+	<b>习惯</b>
+	<c>方式</c>
+	<d>思维</d>
+</item>
+<item>
+	<id>4586</id>
+	<word>pearl</word>
+	<a>珠状物</a>
+	<b>晶体</b>
+	<c>水晶</c>
+	<d>露水</d>
+</item>
+<item>
+	<id>4586</id>
+	<word>pearl</word>
+	<a>珍珠</a>
+	<b>犁树</b>
+	<c>顶峰</c>
+	<d>桃树</d>
+</item>
+<item>
+	<id>4587</id>
+	<word>peel</word>
+	<a>脱落</a>
+	<b>窥视</b>
+	<c>怪异</c>
+	<d>想象</d>
+</item>
+<item>
+	<id>4587</id>
+	<word>peel</word>
+	<a>削皮</a>
+	<b>窥视</b>
+	<c>凝视</c>
+	<d>微现</d>
+</item>
+<item>
+	<id>4588</id>
+	<word>stiff</word>
+	<a>硬的</a>
+	<b>安全的</b>
+	<c>饥饿的</c>
+	<d>奋斗</d>
+</item>
+<item>
+	<id>4588</id>
+	<word>stiff</word>
+	<a>僵直的</a>
+	<b>弯曲的</b>
+	<c>受伤的</c>
+	<d>窒息的</d>
+</item>
+<item>
+	<id>4588</id>
+	<word>stiff</word>
+	<a>难移动的</a>
+	<b>油腻的</b>
+	<c>丰富的</c>
+	<d>营养的</d>
+</item>
+<item>
+	<id>4588</id>
+	<word>stiff</word>
+	<a>稠的</a>
+	<b>淡的</b>
+	<c>油腻的</c>
+	<d>潮湿的</d>
+</item>
+<item>
+	<id>4592</id>
+	<word>devise</word>
+	<a>策划</a>
+	<b>转交</b>
+	<c>热爱</c>
+	<d>偏离</d>
+</item>
+<item>
+	<id>4594</id>
+	<word>ladder</word>
+	<a>梯子</a>
+	<b>剪刀</b>
+	<c>场地</c>
+	<d>土地</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

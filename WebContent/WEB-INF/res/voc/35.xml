@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>6800</id>
+	<word>attain</word>
+	<a>获得</a>
+	<b>发现</b>
+	<c>夸奖</c>
+	<d>维护</d>
+</item>
+<item>
+	<id>6810</id>
+	<word>aspiration</word>
+	<a>志向</a>
+	<b>面条</b>
+	<c>祝福</c>
+	<d>悔恨</d>
+</item>
+<item>
+	<id>6816</id>
+	<word>sticky</word>
+	<a>黏性的</a>
+	<b>严厉的</b>
+	<c>有弹性的</c>
+	<d>挑剔的</d>
+</item>
+<item>
+	<id>6816</id>
+	<word>sticky</word>
+	<a>湿热的</a>
+	<b>发恶臭的</b>
+	<c>干燥的</c>
+	<d>潮湿的</d>
+</item>
+<item>
+	<id>6818</id>
+	<word>thrive</word>
+	<a>繁荣</a>
+	<b>生存</b>
+	<c>萧条</c>
+	<d>节俭</d>
+</item>
+<item>
+	<id>6824</id>
+	<word>irritate</word>
+	<a>激怒</a>
+	<b>灌溉</b>
+	<c>相关</c>
+	<d>抵抗</d>
+</item>
+<item>
+	<id>6825</id>
+	<word>recipient</word>
+	<a>接受者</a>
+	<b>配方</b>
+	<c>接待员</c>
+	<d>票据</d>
+</item>
+<item>
+	<id>6828</id>
+	<word>thorough</word>
+	<a>彻底的</a>
+	<b>穿过的</b>
+	<c>笔直的</c>
+	<d>沉思的</d>
+</item>
+<item>
+	<id>6839</id>
+	<word>wicked</word>
+	<a>邪恶的</a>
+	<b>奇怪的</b>
+	<c>破旧的</c>
+	<d>软弱的</d>
+</item>
+<item>
+	<id>6842</id>
+	<word>envisage</word>
+	<a>设想</a>
+	<b>建议</b>
+	<c>意识到</c>
+	<d>拜访</d>
+</item>
+<item>
+	<id>6843</id>
+	<word>facilitate</word>
+	<a>使便利</a>
+	<b>设备</b>
+	<c>能力</c>
+	<d>传真</d>
+</item>
+<item>
+	<id>6844</id>
+	<word>instrumental</word>
+	<a>有帮助的</a>
+	<b>无工具的</b>
+	<c>用工具的</c>
+	<d>有结构的</d>
+</item>
+<item>
+	<id>6847</id>
+	<word>offset</word>
+	<a>补偿</a>
+	<b>推销</b>
+	<c>进步</c>
+	<d>进攻</d>
+</item>
+<item>
+	<id>6850</id>
+	<word>scarf</word>
+	<a>长围巾</a>
+	<b>惊吓</b>
+	<c>伤疤</c>
+	<d>手铐</d>
+</item>
+<item>
+	<id>6851</id>
+	<word>subordinate</word>
+	<a>次要的</a>
+	<b>系列的</b>
+	<c>连续的</c>
+	<d>继承的</d>
+</item>
+<item>
+	<id>6854</id>
+	<word>dice</word>
+	<a>股子</a>
+	<b>玩具</b>
+	<c>扑克</c>
+	<d>边式</d>
+</item>
+<item>
+	<id>6855</id>
+	<word>gradual</word>
+	<a>逐渐的</a>
+	<b>毕业的</b>
+	<c>高兴的</c>
+	<d>斜坡的</d>
+</item>
+<item>
+	<id>6857</id>
+	<word>juggle</word>
+	<a>玩杂耍</a>
+	<b>跳跃</b>
+	<c>混乱</c>
+	<d>丛林</d>
+</item>
+<item>
+	<id>6861</id>
+	<word>dense</word>
+	<a>茂密的</a>
+	<b>紧张的</b>
+	<c>辛苦的</c>
+	<d>刺激的</d>
+</item>
+<item>
+	<id>6861</id>
+	<word>dense</word>
+	<a>迟钝的</a>
+	<b>平凡的</b>
+	<c>集中的</c>
+	<d>愤恨的</d>
+</item>
+<item>
+	<id>6862</id>
+	<word>intake</word>
+	<a>纳入　</a>
+	<b>吐出　　</b>
+	<c>释放</c>
+	<d>代谢</d>
+</item>
+<item>
+	<id>6864</id>
+	<word>naive</word>
+	<a>幼稚的</a>
+	<b>本土的</b>
+	<c>无辜的</c>
+	<d>海军的</d>
+</item>
+<item>
+	<id>6866</id>
+	<word>redundant</word>
+	<a>失业的</a>
+	<b>减少的</b>
+	<c>低落的</c>
+	<d>压抑的</d>
+</item>
+<item>
+	<id>6872</id>
+	<word>camel</word>
+	<a>骆驼</a>
+	<b>山茶花</b>
+	<c>瓷器</c>
+	<d>地名</d>
+</item>
+<item>
+	<id>6874</id>
+	<word>kneel</word>
+	<a>跪下</a>
+	<b>倾斜</b>
+	<c>爬</c>
+	<d>摔</d>
+</item>
+<item>
+	<id>6880</id>
+	<word>applicable</word>
+	<a>适合的</a>
+	<b>采纳的</b>
+	<c>输入的</c>
+	<d>注射的</d>
+</item>
+<item>
+	<id>6885</id>
+	<word>hopeless</word>
+	<a>没有希望好转的</a>
+	<b>有前途的</b>
+	<c>利润率高的</c>
+	<d>满怀希望的</d>
+</item>
+<item>
+	<id>6885</id>
+	<word>hopeless</word>
+	<a>无望的</a>
+	<b>安全的</b>
+	<c>确切的</c>
+	<d>精密的</d>
+</item>
+<item>
+	<id>6886</id>
+	<word>manifest</word>
+	<a>表明</a>
+	<b>闪亮</b>
+	<c>连续猛击</c>
+	<d>酿造</d>
+</item>
+<item>
+	<id>6892</id>
+	<word>bacteria</word>
+	<a>细菌</a>
+	<b>细胞</b>
+	<c>病毒</c>
+	<d>分子</d>
+</item>
+<item>
+	<id>6895</id>
+	<word>juvenile</word>
+	<a>青少年的</a>
+	<b>合理的</b>
+	<c>正当的</c>
+	<d>完美的</d>
+</item>
+<item>
+	<id>6897</id>
+	<word>lazy</word>
+	<a>懒惰的</a>
+	<b>痛苦的</b>
+	<c>发泄的</c>
+	<d>执著的</d>
+</item>
+<item>
+	<id>6900</id>
+	<word>namely</word>
+	<a>即</a>
+	<b>也</b>
+	<c>例如</c>
+	<d>甚至</d>
+</item>
+<item>
+	<id>6904</id>
+	<word>amusing</word>
+	<a>有趣的</a>
+	<b>孤立的</b>
+	<c>扩大的</c>
+	<d>类似的</d>
+</item>
+<item>
+	<id>6908</id>
+	<word>evoke</word>
+	<a>唤起</a>
+	<b>进化</b>
+	<c>解放</c>
+	<d>提醒</d>
+</item>
+<item>
+	<id>6914</id>
+	<word>lever</word>
+	<a>操纵杆</a>
+	<b>水平</b>
+	<c>肝脏</c>
+	<d>离开</d>
+</item>
+<item>
+	<id>6914</id>
+	<word>lever</word>
+	<a>杠杆</a>
+	<b>盖子</b>
+	<c>税款</c>
+	<d>岩浆</d>
+</item>
+<item>
+	<id>6921</id>
+	<word>cement</word>
+	<a>水泥</a>
+	<b>水库</b>
+	<c>水池</c>
+	<d>水土</d>
+</item>
+<item>
+	<id>6921</id>
+	<word>cement</word>
+	<a>胶合剂</a>
+	<b>催化剂</b>
+	<c>除臭剂</c>
+	<d>氧化剂</d>
+</item>
+<item>
+	<id>6923</id>
+	<word>footstep</word>
+	<a>脚步声</a>
+	<b>脚印</b>
+	<c>步行</c>
+	<d>台阶</d>
+</item>
+<item>
+	<id>6924</id>
+	<word>fragment</word>
+	<a>碎片</a>
+	<b>脆弱</b>
+	<c>结构</c>
+	<d>博爱</d>
+</item>
+<item>
+	<id>6929</id>
+	<word>undergraduate</word>
+	<a>大学本科生</a>
+	<b>大学专科生</b>
+	<c>硕士生</c>
+	<d>博士生</d>
+</item>
+<item>
+	<id>6932</id>
+	<word>bribe</word>
+	<a>行贿</a>
+	<b>贪污</b>
+	<c>违纪</c>
+	<d>犯罪</d>
+</item>
+<item>
+	<id>6935</id>
+	<word>horrify</word>
+	<a>使恐怖</a>
+	<b>使受伤</b>
+	<c>破坏</c>
+	<d>敌对的</d>
+</item>
+<item>
+	<id>6939</id>
+	<word>eccentric</word>
+	<a>古怪的</a>
+	<b>极端的</b>
+	<c>被歪曲的</c>
+	<d>优良的</d>
+</item>
+<item>
+	<id>6942</id>
+	<word>hospitality</word>
+	<a>好客</a>
+	<b>敌意</b>
+	<c>医院</c>
+	<d>人质</d>
+</item>
+<item>
+	<id>6953</id>
+	<word>dumb</word>
+	<a>哑的</a>
+	<b>聪明的</b>
+	<c>迅速的</c>
+	<d>缓慢的</d>
+</item>
+<item>
+	<id>6959</id>
+	<word>respective</word>
+	<a>各自的</a>
+	<b>相互的</b>
+	<c>个人的</c>
+	<d>特别的</d>
+</item>
+<item>
+	<id>6960</id>
+	<word>uneasy</word>
+	<a>心神不安的</a>
+	<b>狂妄的</b>
+	<c>无限的</c>
+	<d>友好的</d>
+</item>
+<item>
+	<id>6962</id>
+	<word>domain</word>
+	<a>(势力)范围</a>
+	<b>周围</b>
+	<c>王国</c>
+	<d>主权</d>
+</item>
+<item>
+	<id>6962</id>
+	<word>domain</word>
+	<a>范畴</a>
+	<b>显要</b>
+	<c>捐赠</c>
+	<d>管理</d>
+</item>
+<item>
+	<id>6968</id>
+	<word>adjacent</word>
+	<a>邻近的</a>
+	<b>合适的</b>
+	<c>附属的</c>
+	<d>足够的</d>
+</item>
+<item>
+	<id>6970</id>
+	<word>downward</word>
+	<a>向下的</a>
+	<b>外面的</b>
+	<c>反向的</c>
+	<d>径直的</d>
+</item>
+<item>
+	<id>6972</id>
+	<word>pave</word>
+	<a>铺路</a>
+	<b>挖洞</b>
+	<c>屋檐</c>
+	<d>咆哮</d>
+</item>
+<item>
+	<id>6984</id>
+	<word>junk</word>
+	<a>中国式帆船</a>
+	<b>跳跃</b>
+	<c>玉石</c>
+	<d>七月</d>
+</item>
+<item>
+	<id>6984</id>
+	<word>junk</word>
+	<a>废旧杂物</a>
+	<b>丛林</b>
+	<c>粉红色</c>
+	<d>困难</d>
+</item>
+<item>
+	<id>6988</id>
+	<word>pedal</word>
+	<a>踏板</a>
+	<b>帆船</b>
+	<c>帐篷</c>
+	<d>甲板</d>
+</item>
+<item>
+	<id>6988</id>
+	<word>pedal</word>
+	<a>踏板</a>
+	<b>轮子</b>
+	<c>椅子</c>
+	<d>甲板</d>
+</item>
+<item>
+	<id>6989</id>
+	<word>relay</word>
+	<a>接力赛</a>
+	<b>混合赛</b>
+	<c>混合双打</c>
+	<d>火炬接力</d>
+</item>
+<item>
+	<id>6989</id>
+	<word>relay</word>
+	<a>中继设备</a>
+	<b>媒介</b>
+	<c>接受器</c>
+	<d>发射机</d>
+</item>
+<item>
+	<id>6990</id>
+	<word>underwear</word>
+	<a>内衣裤</a>
+	<b>崇拜</b>
+	<c>设备</c>
+	<d>理解</d>
+</item>
+<item>
+	<id>6992</id>
+	<word>deficiency</word>
+	<a>不足</a>
+	<b>效率</b>
+	<c>藐视</c>
+	<d>不同</d>
+</item>
+<item>
+	<id>6996</id>
+	<word>meditation</word>
+	<a>冥想</a>
+	<b>决定</b>
+	<c>调解</c>
+	<d>诊断</d>
+</item>
+<item>
+	<id>6998</id>
+	<word>salvage</word>
+	<a>挽救</a>
+	<b>恢复</b>
+	<c>减弱</c>
+	<d>保留</d>
+</item>
+<item>
+	<id>6998</id>
+	<word>salvage</word>
+	<a>挽回</a>
+	<b>赎回</b>
+	<c>检索</c>
+	<d>储蓄</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

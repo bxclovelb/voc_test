@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>3602</id>
+	<word>lifetime</word>
+	<a>终生</a>
+	<b>救生带</b>
+	<c>生命线</c>
+	<d>毕生的</d>
+</item>
+<item>
+	<id>3605</id>
+	<word>dive</word>
+	<a>跳水</a>
+	<b>驾驶</b>
+	<c>离开</c>
+	<d>游泳</d>
+</item>
+<item>
+	<id>3605</id>
+	<word>dive</word>
+	<a>下潜</a>
+	<b>分裂</b>
+	<c>选择</c>
+	<d>深度</d>
+</item>
+<item>
+	<id>3605</id>
+	<word>dive</word>
+	<a>潜水</a>
+	<b>进入</b>
+	<c>跳远</c>
+	<d>跳上</d>
+</item>
+<item>
+	<id>3605</id>
+	<word>dive</word>
+	<a>俯冲</a>
+	<b>掉下</b>
+	<c>降落</c>
+	<d>减速</d>
+</item>
+<item>
+	<id>3605</id>
+	<word>dive</word>
+	<a>迅速跳</a>
+	<b>猛打</b>
+	<c>进攻</c>
+	<d>争夺</d>
+</item>
+<item>
+	<id>3607</id>
+	<word>excite</word>
+	<a>使兴奋</a>
+	<b>使服从</b>
+	<c>嫉妒</c>
+	<d>好奇</d>
+</item>
+<item>
+	<id>3607</id>
+	<word>excite</word>
+	<a>激发</a>
+	<b>触动</b>
+	<c>反应</c>
+	<d>抑制</d>
+</item>
+<item>
+	<id>3610</id>
+	<word>fiction</word>
+	<a>小说</a>
+	<b>功能</b>
+	<c>基础</c>
+	<d>部件</d>
+</item>
+<item>
+	<id>3611</id>
+	<word>ham</word>
+	<a>火腿</a>
+	<b>汉堡</b>
+	<c>暂停</c>
+	<d>头发</d>
+</item>
+<item>
+	<id>3611</id>
+	<word>ham</word>
+	<a>表演过火的演员</a>
+	<b>闪亮的星星</b>
+	<c>著名影星</c>
+	<d>月亮</d>
+</item>
+<item>
+	<id>3614</id>
+	<word>construct</word>
+	<a>建造</a>
+	<b>破坏</b>
+	<c>诅咒</c>
+	<d>抱怨</d>
+</item>
+<item>
+	<id>3614</id>
+	<word>construct</word>
+	<a>组成</a>
+	<b>混乱</b>
+	<c>供认</c>
+	<d>冲突</d>
+</item>
+<item>
+	<id>3616</id>
+	<word>carbon</word>
+	<a>碳</a>
+	<b>钙</b>
+	<c>氢</c>
+	<d>氧</d>
+</item>
+<item>
+	<id>3618</id>
+	<word>absorb</word>
+	<a>吸收</a>
+	<b>查看</b>
+	<c>呼吸</c>
+	<d>消费</d>
+</item>
+<item>
+	<id>3618</id>
+	<word>absorb</word>
+	<a>掌握</a>
+	<b>推测</b>
+	<c>引导</c>
+	<d>分组</d>
+</item>
+<item>
+	<id>3618</id>
+	<word>absorb</word>
+	<a>吸引</a>
+	<b>翻译</b>
+	<c>运输</c>
+	<d>训练</d>
+</item>
+<item>
+	<id>3623</id>
+	<word>sympathy</word>
+	<a>同情</a>
+	<b>安慰</b>
+	<c>忌妒</c>
+	<d>憎恨</d>
+</item>
+<item>
+	<id>3626</id>
+	<word>rub</word>
+	<a>揉搓</a>
+	<b>碰撞</b>
+	<c>敲打</c>
+	<d>刮擦</d>
+</item>
+<item>
+	<id>3626</id>
+	<word>rub</word>
+	<a>搽</a>
+	<b>洒</b>
+	<c>盖</c>
+	<d>压</d>
+</item>
+<item>
+	<id>3626</id>
+	<word>rub</word>
+	<a>擦</a>
+	<b>撕裂</b>
+	<c>消除</c>
+	<d>抢夺</d>
+</item>
+<item>
+	<id>3628</id>
+	<word>boring</word>
+	<a>使人厌烦的</a>
+	<b>宝贵的</b>
+	<c>令人同情的</c>
+	<d>谦逊的</d>
+</item>
+<item>
+	<id>3630</id>
+	<word>slight</word>
+	<a>轻微的</a>
+	<b>偏瘦的</b>
+	<c>轻的</c>
+	<d>小的</d>
+</item>
+<item>
+	<id>3636</id>
+	<word>laboratory</word>
+	<a>实验室</a>
+	<b>劳动强度</b>
+	<c>领导水平</c>
+	<d>陆军中尉</d>
+</item>
+<item>
+	<id>3639</id>
+	<word>embrace</word>
+	<a>拥抱</a>
+	<b>铭记</b>
+	<c>包围</c>
+	<d>嵌入</d>
+</item>
+<item>
+	<id>3639</id>
+	<word>embrace</word>
+	<a>涉及</a>
+	<b>出版</b>
+	<c>编辑</c>
+	<d>拥有</d>
+</item>
+<item>
+	<id>3643</id>
+	<word>dip</word>
+	<a>沾</a>
+	<b>放</b>
+	<c>进</c>
+	<d>发展</d>
+</item>
+<item>
+	<id>3643</id>
+	<word>dip</word>
+	<a>下降</a>
+	<b>进入</b>
+	<c>出来</c>
+	<d>上升</d>
+</item>
+<item>
+	<id>3645</id>
+	<word>recycle</word>
+	<a>回收利用</a>
+	<b>再发生</b>
+	<c>恢复</c>
+	<d>挽救</d>
+</item>
+<item>
+	<id>3646</id>
+	<word>equip</word>
+	<a>装备，配备</a>
+	<b>持续</b>
+	<c>引出</c>
+	<d>等于</d>
+</item>
+<item>
+	<id>3648</id>
+	<word>moderate</word>
+	<a>温和的</a>
+	<b>软弱的</b>
+	<c>低落的</c>
+	<d>伤心的</d>
+</item>
+<item>
+	<id>3648</id>
+	<word>moderate</word>
+	<a>有节制的</a>
+	<b>夸张的</b>
+	<c>限制的</c>
+	<d>禁止的</d>
+</item>
+<item>
+	<id>3648</id>
+	<word>moderate</word>
+	<a>中等的，适度的</a>
+	<b>谦虚的</b>
+	<c>激进的</c>
+	<d>流动的</d>
+</item>
+<item>
+	<id>3649</id>
+	<word>peaceful</word>
+	<a>平静的</a>
+	<b>安详的</b>
+	<c>和美德</c>
+	<d>亲切的</d>
+</item>
+<item>
+	<id>3652</id>
+	<word>parade</word>
+	<a>阅兵式</a>
+	<b>仪式</b>
+	<c>礼仪表演</c>
+	<d>游历</d>
+</item>
+<item>
+	<id>3652</id>
+	<word>parade</word>
+	<a>列队表演</a>
+	<b>抗议</b>
+	<c>绘画风格</c>
+	<d>节目单</d>
+</item>
+<item>
+	<id>3652</id>
+	<word>parade</word>
+	<a>商业街</a>
+	<b>广场</b>
+	<c>观光</c>
+	<d>部队</d>
+</item>
+<item>
+	<id>3652</id>
+	<word>parade</word>
+	<a>游行</a>
+	<b>熊猫</b>
+	<c>寓言</c>
+	<d>天堂</d>
+</item>
+<item>
+	<id>3653</id>
+	<word>confess</word>
+	<a>坦白</a>
+	<b>商量</b>
+	<c>束缚</c>
+	<d>混淆</d>
+</item>
+<item>
+	<id>3655</id>
+	<word>massage</word>
+	<a>按摩</a>
+	<b>消息</b>
+	<c>睫毛膏</c>
+	<d>化装舞会</d>
+</item>
+<item>
+	<id>3656</id>
+	<word>leak</word>
+	<a>漏</a>
+	<b>唇</b>
+	<c>滴下</c>
+	<d>叶子</d>
+</item>
+<item>
+	<id>3656</id>
+	<word>leak</word>
+	<a>漏出</a>
+	<b>跳跃</b>
+	<c>舔</c>
+	<d>盖子</d>
+</item>
+<item>
+	<id>3656</id>
+	<word>leak</word>
+	<a>泄露</a>
+	<b>背叛</b>
+	<c>耳语</c>
+	<d>跛行</d>
+</item>
+<item>
+	<id>3658</id>
+	<word>cave</word>
+	<a>岩洞</a>
+	<b>挖洞</b>
+	<c>煤矿</c>
+	<d>岩石</d>
+</item>
+<item>
+	<id>3660</id>
+	<word>excerpt</word>
+	<a>摘录</a>
+	<b>例外</b>
+	<c>论文</c>
+	<d>报告</d>
+</item>
+<item>
+	<id>3665</id>
+	<word>frequent</word>
+	<a>频繁的</a>
+	<b>紧张的</b>
+	<c>开心的</c>
+	<d>轻松的</d>
+</item>
+<item>
+	<id>3667</id>
+	<word>maintenance</word>
+	<a>保养</a>
+	<b>重要性</b>
+	<c>注射</c>
+	<d>来源</d>
+</item>
+<item>
+	<id>3669</id>
+	<word>deadline</word>
+	<a>截止日期</a>
+	<b>死亡日期</b>
+	<c>死亡线</c>
+	<d>封锁线</d>
+</item>
+<item>
+	<id>3672</id>
+	<word>submit</word>
+	<a>呈送</a>
+	<b>达到</b>
+	<c>同意</c>
+	<d>签订</d>
+</item>
+<item>
+	<id>3672</id>
+	<word>submit</word>
+	<a>顺从</a>
+	<b>继承</b>
+	<c>淹没</c>
+	<d>成功</d>
+</item>
+<item>
+	<id>3675</id>
+	<word>bargain</word>
+	<a>便宜货</a>
+	<b>损失的财产</b>
+	<c>次品</c>
+	<d>次重点</d>
+</item>
+<item>
+	<id>3677</id>
+	<word>faculty</word>
+	<a>能力</a>
+	<b>梦想</b>
+	<c>幻想</c>
+	<d>事实</d>
+</item>
+<item>
+	<id>3678</id>
+	<word>flexible</word>
+	<a>灵活的</a>
+	<b>聪明的</b>
+	<c>易变的</c>
+	<d>僵硬的</d>
+</item>
+<item>
+	<id>3682</id>
+	<word>declaration</word>
+	<a>宣言</a>
+	<b>萧条</b>
+	<c>宣传</c>
+	<d>终点</d>
+</item>
+<item>
+	<id>3683</id>
+	<word>gamble</word>
+	<a>赌博</a>
+	<b>踌躇</b>
+	<c>发誓</c>
+	<d>凝视</d>
+</item>
+<item>
+	<id>3688</id>
+	<word>lieutenant</word>
+	<a>陆军中尉</a>
+	<b>新生</b>
+	<c>自助食堂</c>
+	<d>文学</d>
+</item>
+<item>
+	<id>3692</id>
+	<word>cite</word>
+	<a>引证</a>
+	<b>建造</b>
+	<c>工地</c>
+	<d>背诵</d>
+</item>
+<item>
+	<id>3692</id>
+	<word>cite</word>
+	<a>引用</a>
+	<b>地址</b>
+	<c>位置</c>
+	<d>审讯</d>
+</item>
+<item>
+	<id>3695</id>
+	<word>fantastic</word>
+	<a>极大的</a>
+	<b>极宽广的</b>
+	<c>极深的</c>
+	<d>长远的</d>
+</item>
+<item>
+	<id>3695</id>
+	<word>fantastic</word>
+	<a>极好的</a>
+	<b>高兴的</b>
+	<c>友好的</c>
+	<d>发狂的</d>
+</item>
+<item>
+	<id>3698</id>
+	<word>interpretation</word>
+	<a>解释</a>
+	<b>国际</b>
+	<c>交流</c>
+	<d>介绍</d>
+</item>
+<item>
+	<id>3700</id>
+	<word>devil</word>
+	<a>恶魔</a>
+	<b>诅咒</b>
+	<c>曲折</c>
+	<d>未来</d>
+</item>
+<item>
+	<id>3700</id>
+	<word>devil</word>
+	<a>可怜的人</a>
+	<b>恶棍</b>
+	<c>神仙</c>
+	<d>秘密</d>
+</item>
+<item>
+	<id>3701</id>
+	<word>distribute</word>
+	<a>分发</a>
+	<b>贡献</b>
+	<c>归因于</c>
+	<d>争论</d>
+</item>
+<item>
+	<id>3701</id>
+	<word>distribute</word>
+	<a>提供</a>
+	<b>批发</b>
+	<c>放弃</c>
+	<d>扭曲</d>
+</item>
+<item>
+	<id>3704</id>
+	<word>tender</word>
+	<a>嫩的</a>
+	<b>暴力的</b>
+	<c>松的</c>
+	<d>易怒的</d>
+</item>
+<item>
+	<id>3704</id>
+	<word>tender</word>
+	<a>疼痛的</a>
+	<b>认真的</b>
+	<c>暂时的</c>
+	<d>平常的</d>
+</item>
+<item>
+	<id>3704</id>
+	<word>tender</word>
+	<a>温柔的</a>
+	<b>正式的</b>
+	<c>迅速的</c>
+	<d>感动的</d>
+</item>
+<item>
+	<id>3706</id>
+	<word>compound</word>
+	<a>事件的混合</a>
+	<b>契约</b>
+	<c>配置</c>
+	<d>同伴</d>
+</item>
+<item>
+	<id>3706</id>
+	<word>compound</word>
+	<a>化合物</a>
+	<b>合作</b>
+	<c>宪法</c>
+	<d>结论</d>
+</item>
+<item>
+	<id>3706</id>
+	<word>compound</word>
+	<a>大院</a>
+	<b>比较</b>
+	<c>罗盘</c>
+	<d>同情</d>
+</item>
+<item>
+	<id>3708</id>
+	<word>communicate</word>
+	<a>与他人联系</a>
+	<b>放逐</b>
+	<c>传授</c>
+	<d>展出</d>
+</item>
+<item>
+	<id>3708</id>
+	<word>communicate</word>
+	<a>表达</a>
+	<b>下结论</b>
+	<c>通知</c>
+	<d>授予</d>
+</item>
+<item>
+	<id>3708</id>
+	<word>communicate</word>
+	<a>交流</a>
+	<b>承认</b>
+	<c>透露</c>
+	<d>流通</d>
+</item>
+<item>
+	<id>3711</id>
+	<word>carrier</word>
+	<a>航空母舰</a>
+	<b>搬运工</b>
+	<c>协调者</c>
+	<d>罐头</d>
+</item>
+<item>
+	<id>3711</id>
+	<word>carrier</word>
+	<a>运输公司</a>
+	<b>跨国公司</b>
+	<c>保险公司</c>
+	<d>软件公司</d>
+</item>
+<item>
+	<id>3712</id>
+	<word>efficiency</word>
+	<a>效率</a>
+	<b>作用</b>
+	<c>晋级</c>
+	<d>权威</d>
+</item>
+<item>
+	<id>3716</id>
+	<word>puzzle</word>
+	<a>使困惑</a>
+	<b>使旋转</b>
+	<c>使纯净</c>
+	<d>使高兴</d>
+</item>
+<item>
+	<id>3719</id>
+	<word>boom</word>
+	<a>繁荣</a>
+	<b>膨胀</b>
+	<c>推进</c>
+	<d>发达</d>
+</item>
+<item>
+	<id>3719</id>
+	<word>boom</word>
+	<a>盛行时期</a>
+	<b>开拓时期</b>
+	<c>整顿时期</c>
+	<d>衰败时期</d>
+</item>
+<item>
+	<id>3719</id>
+	<word>boom</word>
+	<a>隆隆声</a>
+	<b>笑声</b>
+	<c>哭喊声</c>
+	<d>噪音</d>
+</item>
+<item>
+	<id>3724</id>
+	<word>significance</word>
+	<a>意义</a>
+	<b>世故</b>
+	<c>裁减</c>
+	<d>降级</d>
+</item>
+<item>
+	<id>3727</id>
+	<word>obligation</word>
+	<a>义务</a>
+	<b>观察</b>
+	<c>欺骗</c>
+	<d>宗教</d>
+</item>
+<item>
+	<id>3728</id>
+	<word>patrol</word>
+	<a>巡逻</a>
+	<b>跳跃</b>
+	<c>游艇</c>
+	<d>债券</d>
+</item>
+<item>
+	<id>3728</id>
+	<word>patrol</word>
+	<a>走来走去</a>
+	<b>航海</b>
+	<c>拍打</c>
+	<d>旁敲侧击</d>
+</item>
+<item>
+	<id>3731</id>
+	<word>hurry</word>
+	<a>赶紧</a>
+	<b>伤害</b>
+	<c>生气</c>
+	<d>结婚</d>
+</item>
+<item>
+	<id>3731</id>
+	<word>hurry</word>
+	<a>催促</a>
+	<b>说服</b>
+	<c>崇拜</c>
+	<d>培训</d>
+</item>
+<item>
+	<id>3734</id>
+	<word>naked</word>
+	<a>裸体的</a>
+	<b>海军的</b>
+	<c>恐惧的</c>
+	<d>开心的</d>
+</item>
+<item>
+	<id>3740</id>
+	<word>visible</word>
+	<a>看得见的</a>
+	<b>实际的</b>
+	<c>刻毒的</c>
+	<d>邪恶的</d>
+</item>
+<item>
+	<id>3743</id>
+	<word>seminar</word>
+	<a>研讨会</a>
+	<b>学期</b>
+	<c>调查</c>
+	<d>妥协</d>
+</item>
+<item>
+	<id>3746</id>
+	<word>sustain</word>
+	<a>保持</a>
+	<b>支持</b>
+	<c>停止</c>
+	<d>摇摆</d>
+</item>
+<item>
+	<id>3746</id>
+	<word>sustain</word>
+	<a>保持</a>
+	<b>守护</b>
+	<c>停止</c>
+	<d>撤退</d>
+</item>
+<item>
+	<id>3751</id>
+	<word>reluctant</word>
+	<a>勉强的</a>
+	<b>犹疑的</b>
+	<c>愿意的</c>
+	<d>合作的</d>
+</item>
+<item>
+	<id>3752</id>
+	<word>format</word>
+	<a>格式</a>
+	<b>标准</b>
+	<c>公司</c>
+	<d>安排</d>
+</item>
+<item>
+	<id>3752</id>
+	<word>format</word>
+	<a>方式</a>
+	<b>道路</b>
+	<c>表格</c>
+	<d>工具</d>
+</item>
+<item>
+	<id>3754</id>
+	<word>insight</word>
+	<a>洞察力</a>
+	<b>视觉</b>
+	<c>内部</c>
+	<d>偷窥</d>
+</item>
+<item>
+	<id>3758</id>
+	<word>essay</word>
+	<a>论说文</a>
+	<b>说明文</b>
+	<c>报道</c>
+	<d>小说</d>
+</item>
+<item>
+	<id>3758</id>
+	<word>essay</word>
+	<a>小品文；散文</a>
+	<b>传记</b>
+	<c>作文</c>
+	<d>传奇</d>
+</item>
+<item>
+	<id>3759</id>
+	<word>explode</word>
+	<a>激增</a>
+	<b>促进</b>
+	<c>暴露</c>
+	<d>开采</d>
+</item>
+<item>
+	<id>3759</id>
+	<word>explode</word>
+	<a>勃然大怒</a>
+	<b>兴高采烈</b>
+	<c>退出</c>
+	<d>辨析</d>
+</item>
+<item>
+	<id>3759</id>
+	<word>explode</word>
+	<a>爆炸</a>
+	<b>终止</b>
+	<c>阐明</c>
+	<d>显示</d>
+</item>
+<item>
+	<id>3765</id>
+	<word>anticipate</word>
+	<a>预料</a>
+	<b>欣赏</b>
+	<c>参与</c>
+	<d>策反</d>
+</item>
+<item>
+	<id>3766</id>
+	<word>incorporate</word>
+	<a>并入</a>
+	<b>操作</b>
+	<c>合作</c>
+	<d>增加</d>
+</item>
+<item>
+	<id>3767</id>
+	<word>paradise</word>
+	<a>极乐</a>
+	<b>阶段</b>
+	<c>接待</c>
+	<d>精华</d>
+</item>
+<item>
+	<id>3767</id>
+	<word>paradise</word>
+	<a>乐土</a>
+	<b>联系</b>
+	<c>游行</c>
+	<d>幻想</d>
+</item>
+<item>
+	<id>3776</id>
+	<word>wisdom</word>
+	<a>明智</a>
+	<b>阅历</b>
+	<c>理解</c>
+	<d>自由</d>
+</item>
+<item>
+	<id>3781</id>
+	<word>strategic</word>
+	<a>战略上的</a>
+	<b>敏感的</b>
+	<c>蒸汽</c>
+	<d>罢工</d>
+</item>
+<item>
+	<id>3784</id>
+	<word>liability</word>
+	<a>责任</a>
+	<b>宽容</b>
+	<c>立法</c>
+	<d>正式</d>
+</item>
+<item>
+	<id>3797</id>
+	<word>pad</word>
+	<a>肉趾</a>
+	<b>护士</b>
+	<c>地毯</c>
+	<d>纸张</d>
+</item>
+<item>
+	<id>3797</id>
+	<word>pad</word>
+	<a>公寓</a>
+	<b>名片</b>
+	<c>土地</c>
+	<d>花园</d>
+</item>
+<item>
+	<id>3797</id>
+	<word>pad</word>
+	<a>轻柔的脚步声</a>
+	<b>敲门声</b>
+	<c>拍水声</c>
+	<d>枪声</d>
+</item>
+<item>
+	<id>3797</id>
+	<word>pad</word>
+	<a>便笺本</a>
+	<b>包装</b>
+	<c>页面</c>
+	<d>压迫</d>
+</item>
+<item>
+	<id>3797</id>
+	<word>pad</word>
+	<a>护垫</a>
+	<b>轻拍</b>
+	<c>笔友</c>
+	<d>平底锅</d>
+</item>
+<item>
+	<id>3798</id>
+	<word>valid</word>
+	<a>有效的</a>
+	<b>模糊的</b>
+	<c>自负的</c>
+	<d>空白的</d>
+</item>
+<item>
+	<id>3799</id>
+	<word>liquid</word>
+	<a>液体</a>
+	<b>固体</b>
+	<c>气体</c>
+	<d>烈性酒</d>
+</item>
+<item>
+	<id>3799</id>
+	<word>liquid</word>
+	<a>流音</a>
+	<b>鼻音</b>
+	<c>摩擦音</c>
+	<d>爆破音</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:14 CST 2009-->

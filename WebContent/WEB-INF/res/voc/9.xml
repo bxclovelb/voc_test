@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>1600</id>
+	<word>actor</word>
+	<a>演员</a>
+	<b>活动</b>
+	<c>启发</c>
+	<d>记忆</d>
+</item>
+<item>
+	<id>1601</id>
+	<word>distance</word>
+	<a>距离</a>
+	<b>地点</b>
+	<c>位置</c>
+	<d>空间</d>
+</item>
+<item>
+	<id>1601</id>
+	<word>distance</word>
+	<a>远处</a>
+	<b>离开</b>
+	<c>分隔</c>
+	<d>接近</d>
+</item>
+<item>
+	<id>1602</id>
+	<word>illness</word>
+	<a>疾病</a>
+	<b>恶习</b>
+	<c>习惯</c>
+	<d>伤害</d>
+</item>
+<item>
+	<id>1605</id>
+	<word>tough</word>
+	<a>棘手的</a>
+	<b>重要的</b>
+	<c>关键的</c>
+	<d>可利用的</d>
+</item>
+<item>
+	<id>1605</id>
+	<word>tough</word>
+	<a>严格的</a>
+	<b>善变的</b>
+	<c>奸诈的</c>
+	<d>动态的</d>
+</item>
+<item>
+	<id>1605</id>
+	<word>tough</word>
+	<a>不嫩的</a>
+	<b>顽固的</b>
+	<c>保守的</c>
+	<d>秘密的</d>
+</item>
+<item>
+	<id>1605</id>
+	<word>tough</word>
+	<a>坚强的</a>
+	<b>挑战的</b>
+	<c>坚定的</c>
+	<d>勇敢的</d>
+</item>
+<item>
+	<id>1610</id>
+	<word>slip</word>
+	<a>滑，滑倒</a>
+	<b>跌倒</b>
+	<c>碰撞</c>
+	<d>臃肿</d>
+</item>
+<item>
+	<id>1610</id>
+	<word>slip</word>
+	<a>偷偷塞进</a>
+	<b>放置</b>
+	<c>存放</c>
+	<d>发现</d>
+</item>
+<item>
+	<id>1610</id>
+	<word>slip</word>
+	<a>滑落，滑掉</a>
+	<b>漂浮</b>
+	<c>回荡</c>
+	<d>除去</d>
+</item>
+<item>
+	<id>1610</id>
+	<word>slip</word>
+	<a>变坏, 下降</a>
+	<b>坠落</b>
+	<c>跌倒</c>
+	<d>起伏</d>
+</item>
+<item>
+	<id>1610</id>
+	<word>slip</word>
+	<a>迅速移动，悄悄溜走</a>
+	<b>乘船</b>
+	<c>探险</c>
+	<d>滑冰</d>
+</item>
+<item>
+	<id>1613</id>
+	<word>wild</word>
+	<a>野生的</a>
+	<b>广阔的</b>
+	<c>破旧的</c>
+	<d>浪费的</d>
+</item>
+<item>
+	<id>1613</id>
+	<word>wild</word>
+	<a>(感情)强烈的</a>
+	<b>严肃的</b>
+	<c>认真的</c>
+	<d>自觉的</d>
+</item>
+<item>
+	<id>1613</id>
+	<word>wild</word>
+	<a>不受控制的</a>
+	<b>匆匆忙忙的</b>
+	<c>不受欢迎的</c>
+	<d>行为端正的</d>
+</item>
+<item>
+	<id>1613</id>
+	<word>wild</word>
+	<a>轻率的</a>
+	<b>粗心的</b>
+	<c>粗糙的</c>
+	<d>整个的</d>
+</item>
+<item>
+	<id>1614</id>
+	<word>failure</word>
+	<a>失败</a>
+	<b>失踪</b>
+	<c>痛苦</c>
+	<d>困难</d>
+</item>
+<item>
+	<id>1615</id>
+	<word>secure</word>
+	<a>安心的</a>
+	<b>悲伤的</b>
+	<c>惊叹的</c>
+	<d>欺骗的</d>
+</item>
+<item>
+	<id>1615</id>
+	<word>secure</word>
+	<a>安全的</a>
+	<b>放心的</b>
+	<c>开心的</c>
+	<d>可信的</d>
+</item>
+<item>
+	<id>1615</id>
+	<word>secure</word>
+	<a>稳固的</a>
+	<b>坚持的</b>
+	<c>怀疑的</c>
+	<d>永恒的</d>
+</item>
+<item>
+	<id>1615</id>
+	<word>secure</word>
+	<a>获得</a>
+	<b>收敛</b>
+	<c>敬佩</c>
+	<d>精心</d>
+</item>
+<item>
+	<id>1618</id>
+	<word>hardly</word>
+	<a>几乎不</a>
+	<b>平常</b>
+	<c>曾经</c>
+	<d>除非</d>
+</item>
+<item>
+	<id>1619</id>
+	<word>ill</word>
+	<a>有病的</a>
+	<b>错乱的</b>
+	<c>邪恶的</c>
+	<d>将来的</d>
+</item>
+<item>
+	<id>1619</id>
+	<word>ill</word>
+	<a>有害的</a>
+	<b>伤心的</b>
+	<c>错乱的</c>
+	<d>恶毒的</d>
+</item>
+<item>
+	<id>1620</id>
+	<word>meanwhile</word>
+	<a>在此期间</a>
+	<b>用餐时间</b>
+	<c>手段</c>
+	<d>有意义</d>
+</item>
+<item>
+	<id>1624</id>
+	<word>background</word>
+	<a>出身</a>
+	<b>资格</b>
+	<c>经验</c>
+	<d>地位</d>
+</item>
+<item>
+	<id>1624</id>
+	<word>background</word>
+	<a>背景情况</a>
+	<b>主要目的</b>
+	<c>关键措施</c>
+	<d>具体过程</d>
+</item>
+<item>
+	<id>1625</id>
+	<word>conduct</word>
+	<a>进行</a>
+	<b>介绍</b>
+	<c>安慰</c>
+	<d>宽恕</d>
+</item>
+<item>
+	<id>1625</id>
+	<word>conduct</word>
+	<a>指挥</a>
+	<b>咨询</b>
+	<c>涉及</c>
+	<d>感染</d>
+</item>
+<item>
+	<id>1625</id>
+	<word>conduct</word>
+	<a>传导</a>
+	<b>确实</b>
+	<c>一致</c>
+	<d>约束</d>
+</item>
+<item>
+	<id>1626</id>
+	<word>fellow</word>
+	<a>伙伴</a>
+	<b>伴侣</b>
+	<c>跟随</c>
+	<d>夫妻</d>
+</item>
+<item>
+	<id>1626</id>
+	<word>fellow</word>
+	<a>男人</a>
+	<b>绅士</b>
+	<c>群体</c>
+	<d>生物</d>
+</item>
+<item>
+	<id>1628</id>
+	<word>behaviour</word>
+	<a>行为</a>
+	<b>动作</b>
+	<c>态度</c>
+	<d>工作</d>
+</item>
+<item>
+	<id>1629</id>
+	<word>neither</word>
+	<a>两者都不</a>
+	<b>两者都</b>
+	<c>全不</c>
+	<d>全都</d>
+</item>
+<item>
+	<id>1630</id>
+	<word>cool</word>
+	<a>冷静的</a>
+	<b>焦急的</b>
+	<c>烦心的</c>
+	<d>高兴的</d>
+</item>
+<item>
+	<id>1630</id>
+	<word>cool</word>
+	<a>冷漠的</a>
+	<b>平衡的</b>
+	<c>安静的</c>
+	<d>混合的</d>
+</item>
+<item>
+	<id>1630</id>
+	<word>cool</word>
+	<a>凉爽的</a>
+	<b>冷酷的</b>
+	<c>热闹的</c>
+	<d>灵活的</d>
+</item>
+<item>
+	<id>1631</id>
+	<word>ray</word>
+	<a>光线</a>
+	<b>剃刀</b>
+	<c>雨水</c>
+	<d>灯泡</d>
+</item>
+<item>
+	<id>1633</id>
+	<word>impact</word>
+	<a>冲击力</a>
+	<b>打击</b>
+	<c>攻击</c>
+	<d>损害</d>
+</item>
+<item>
+	<id>1634</id>
+	<word>eighty</word>
+	<a>八十</a>
+	<b>第八</b>
+	<c>十八</c>
+	<d>八</d>
+</item>
+<item>
+	<id>1635</id>
+	<word>selection</word>
+	<a>选择</a>
+	<b>选举</b>
+	<c>修改</c>
+	<d>引诱</d>
+</item>
+<item>
+	<id>1636</id>
+	<word>reaction</word>
+	<a>反应</a>
+	<b>赞成</b>
+	<c>反常</c>
+	<d>反对</d>
+</item>
+<item>
+	<id>1636</id>
+	<word>reaction</word>
+	<a>过敏反应</a>
+	<b>相互合作</b>
+	<c>交流</c>
+	<d>友好</d>
+</item>
+<item>
+	<id>1636</id>
+	<word>reaction</word>
+	<a>化学反应</a>
+	<b>物理反应</b>
+	<c>反驳</c>
+	<d>无常</d>
+</item>
+<item>
+	<id>1637</id>
+	<word>recommend</word>
+	<a>建议</a>
+	<b>评论</b>
+	<c>重修</c>
+	<d>构造</d>
+</item>
+<item>
+	<id>1638</id>
+	<word>reality</word>
+	<a>现实</a>
+	<b>理性</b>
+	<c>正确</c>
+	<d>常识</d>
+</item>
+<item>
+	<id>1641</id>
+	<word>colleague</word>
+	<a>同事</a>
+	<b>朋友</b>
+	<c>家人</c>
+	<d>亲戚</d>
+</item>
+<item>
+	<id>1643</id>
+	<word>democratic</word>
+	<a>民主党的</a>
+	<b>民族的</b>
+	<c>共和的</c>
+	<d>集中的</d>
+</item>
+<item>
+	<id>1644</id>
+	<word>swim</word>
+	<a>泅渡</a>
+	<b>摇摆</b>
+	<c>中风</c>
+	<d>沉没</d>
+</item>
+<item>
+	<id>1644</id>
+	<word>swim</word>
+	<a>游泳</a>
+	<b>罢工</b>
+	<c>减速</c>
+	<d>支持</d>
+</item>
+<item>
+	<id>1645</id>
+	<word>relief</word>
+	<a>救济品</a>
+	<b>必需品</b>
+	<c>供给品</c>
+	<d>艺术品</d>
+</item>
+<item>
+	<id>1645</id>
+	<word>relief</word>
+	<a>缓解</a>
+	<b>轻打</b>
+	<c>配对</c>
+	<d>减少</d>
+</item>
+<item>
+	<id>1645</id>
+	<word>relief</word>
+	<a>安慰</a>
+	<b>鼓励</b>
+	<c>同情</c>
+	<d>支持</d>
+</item>
+<item>
+	<id>1648</id>
+	<word>collect</word>
+	<a>收集</a>
+	<b>直立</b>
+	<c>修改</c>
+	<d>联系</d>
+</item>
+<item>
+	<id>1648</id>
+	<word>collect</word>
+	<a>收藏</a>
+	<b>纠正</b>
+	<c>联系</c>
+	<d>满足于</d>
+</item>
+<item>
+	<id>1648</id>
+	<word>collect</word>
+	<a>为...筹集</a>
+	<b>为...投资</b>
+	<c>为...策划</c>
+	<d>为...担忧</d>
+</item>
+<item>
+	<id>1648</id>
+	<word>collect</word>
+	<a>聚集</a>
+	<b>转化</b>
+	<c>融化</c>
+	<d>合并</d>
+</item>
+<item>
+	<id>1649</id>
+	<word>expensive</word>
+	<a>昂贵的</a>
+	<b>专业的</b>
+	<c>期望的</c>
+	<d>有经验的</d>
+</item>
+<item>
+	<id>1650</id>
+	<word>reject</word>
+	<a>拒绝</a>
+	<b>反应</b>
+	<c>改革</c>
+	<d>欣喜</d>
+</item>
+<item>
+	<id>1650</id>
+	<word>reject</word>
+	<a>不赞同</a>
+	<b>抛出</b>
+	<c>遗弃</c>
+	<d>开除</d>
+</item>
+<item>
+	<id>1650</id>
+	<word>reject</word>
+	<a>被拒</a>
+	<b>谢绝</b>
+	<c>退回</c>
+	<d>驳斥</d>
+</item>
+<item>
+	<id>1651</id>
+	<word>element</word>
+	<a>元素</a>
+	<b>分子</b>
+	<c>结构</c>
+	<d>离子</d>
+</item>
+<item>
+	<id>1651</id>
+	<word>element</word>
+	<a>一伙人</a>
+	<b>同事</b>
+	<c>匪徒</c>
+	<d>盗贼</d>
+</item>
+<item>
+	<id>1653</id>
+	<word>essential</word>
+	<a>必不可少的</a>
+	<b>精华的</b>
+	<c>常见的</c>
+	<d>不必要的</d>
+</item>
+<item>
+	<id>1654</id>
+	<word>object</word>
+	<a>对象</a>
+	<b>任务</b>
+	<c>前提</c>
+	<d>理由</d>
+</item>
+<item>
+	<id>1654</id>
+	<word>object</word>
+	<a>目的</a>
+	<b>主语</b>
+	<c>精神</c>
+	<d>义务</d>
+</item>
+<item>
+	<id>1654</id>
+	<word>object</word>
+	<a>实物</a>
+	<b>风景</b>
+	<c>主角</c>
+	<d>协议</d>
+</item>
+<item>
+	<id>1657</id>
+	<word>mount</word>
+	<a>骑上</a>
+	<b>打发</b>
+	<c>驾驶</c>
+	<d>开始</d>
+</item>
+<item>
+	<id>1657</id>
+	<word>mount</word>
+	<a>爬上</a>
+	<b>找回</b>
+	<c>取消</c>
+	<d>照顾</d>
+</item>
+<item>
+	<id>1657</id>
+	<word>mount</word>
+	<a>增长</a>
+	<b>膨胀</b>
+	<c>接收</c>
+	<d>批评</d>
+</item>
+<item>
+	<id>1661</id>
+	<word>otherwise</word>
+	<a>否则</a>
+	<b>但是</b>
+	<c>尽管</c>
+	<d>虽然</d>
+</item>
+<item>
+	<id>1662</id>
+	<word>religious</word>
+	<a>宗教的</a>
+	<b>最初的</b>
+	<c>不耐烦的</c>
+	<d>感激的</d>
+</item>
+<item>
+	<id>1663</id>
+	<word>resident</word>
+	<a>居民</a>
+	<b>抑制</b>
+	<c>反对</c>
+	<d>发票</d>
+</item>
+<item>
+	<id>1663</id>
+	<word>resident</word>
+	<a>住院实习医生</a>
+	<b>外科医生</b>
+	<c>医学专家</c>
+	<d>牙科医生，</d>
+</item>
+<item>
+	<id>1664</id>
+	<word>incident</word>
+	<a>事件</a>
+	<b>线索</b>
+	<c>例子</c>
+	<d>事故</d>
+</item>
+<item>
+	<id>1665</id>
+	<word>hate</word>
+	<a>憎恨</a>
+	<b>帮助</b>
+	<c>决定</c>
+	<d>检查</d>
+</item>
+<item>
+	<id>1666</id>
+	<word>load</word>
+	<a>负重量</a>
+	<b>铅</b>
+	<c>领袖</c>
+	<d>贷款</d>
+</item>
+<item>
+	<id>1666</id>
+	<word>load</word>
+	<a>工作量</a>
+	<b>任务</b>
+	<c>道路</c>
+	<d>作业</d>
+</item>
+<item>
+	<id>1666</id>
+	<word>load</word>
+	<a>洗衣量</a>
+	<b>篮子</b>
+	<c>洗衣机</c>
+	<d>绳子</d>
+</item>
+<item>
+	<id>1666</id>
+	<word>load</word>
+	<a>承重量</a>
+	<b>体重</b>
+	<c>测量</c>
+	<d>承担</d>
+</item>
+<item>
+	<id>1666</id>
+	<word>load</word>
+	<a>电荷</a>
+	<b>充电</b>
+	<c>电流</c>
+	<d>灯泡</d>
+</item>
+<item>
+	<id>1667</id>
+	<word>debt</word>
+	<a>债务</a>
+	<b>上校</b>
+	<c>博士学位</c>
+	<d>电报</d>
+</item>
+<item>
+	<id>1668</id>
+	<word>entry</word>
+	<a>竞赛</a>
+	<b>比较</b>
+	<c>竞选</c>
+	<d>对照</d>
+</item>
+<item>
+	<id>1668</id>
+	<word>entry</word>
+	<a>参与</a>
+	<b>联盟</b>
+	<c>入伍</c>
+	<d>尝试</d>
+</item>
+<item>
+	<id>1668</id>
+	<word>entry</word>
+	<a>进入场所的权利</a>
+	<b>场所的使用权</b>
+	<c>居住权</c>
+	<d>占有权</d>
+</item>
+<item>
+	<id>1669</id>
+	<word>freedom</word>
+	<a>自由权利</a>
+	<b>帮助</b>
+	<c>救援</c>
+	<d>身体健康</d>
+</item>
+<item>
+	<id>1671</id>
+	<word>hunt</word>
+	<a>打猎</a>
+	<b>假设</b>
+	<c>计算</c>
+	<d>确定</d>
+</item>
+<item>
+	<id>1671</id>
+	<word>hunt</word>
+	<a>搜寻</a>
+	<b>萦绕</b>
+	<c>搬动</c>
+	<d>认出</d>
+</item>
+<item>
+	<id>1671</id>
+	<word>hunt</word>
+	<a>猎狐</a>
+	<b>提示</b>
+	<c>观点</c>
+	<d>衣服</d>
+</item>
+<item>
+	<id>1672</id>
+	<word>switch</word>
+	<a>转换</a>
+	<b>加速</b>
+	<c>后退</c>
+	<d>掩护</d>
+</item>
+<item>
+	<id>1672</id>
+	<word>switch</word>
+	<a>替换</a>
+	<b>反弹</b>
+	<c>剥夺</c>
+	<d>中风</d>
+</item>
+<item>
+	<id>1672</id>
+	<word>switch</word>
+	<a>调班</a>
+	<b>变化</b>
+	<c>解释</c>
+	<d>发现</d>
+</item>
+<item>
+	<id>1674</id>
+	<word>edition</word>
+	<a>版本</a>
+	<b>出版物</b>
+	<c>编辑</c>
+	<d>印刷</d>
+</item>
+<item>
+	<id>1675</id>
+	<word>possibly</word>
+	<a>可能</a>
+	<b>尽量</b>
+	<c>或者</c>
+	<d>亲自</d>
+</item>
+<item>
+	<id>1676</id>
+	<word>leadership</word>
+	<a>领导权</a>
+	<b>领袖</b>
+	<c>议会</c>
+	<d>皮革</d>
+</item>
+<item>
+	<id>1676</id>
+	<word>leadership</word>
+	<a>领导才能</a>
+	<b>组织</b>
+	<c>意识</c>
+	<d>素质</d>
+</item>
+<item>
+	<id>1678</id>
+	<word>arrange</word>
+	<a>安排</a>
+	<b>排列</b>
+	<c>计划</c>
+	<d>筹款</d>
+</item>
+<item>
+	<id>1679</id>
+	<word>complex</word>
+	<a>结构复杂的</a>
+	<b>考虑周到的</b>
+	<c>镇静的</c>
+	<d>简明的</d>
+</item>
+<item>
+	<id>1679</id>
+	<word>complex</word>
+	<a>复杂的</a>
+	<b>完成的</b>
+	<c>共同的</c>
+	<d>模糊的</d>
+</item>
+<item>
+	<id>1680</id>
+	<word>attract</word>
+	<a>吸引</a>
+	<b>抓住</b>
+	<c>引导</c>
+	<d>吸收</d>
+</item>
+<item>
+	<id>1681</id>
+	<word>center</word>
+	<a>中间</a>
+	<b>空间</b>
+	<c>房间</c>
+	<d>挑拨离间</d>
+</item>
+<item>
+	<id>1681</id>
+	<word>center</word>
+	<a>中心</a>
+	<b>空间</b>
+	<c>中和</c>
+	<d>中立</d>
+</item>
+<item>
+	<id>1681</id>
+	<word>center</word>
+	<a>中心</a>
+	<b>重心</b>
+	<c>衷心</c>
+	<d>私心</d>
+</item>
+<item>
+	<id>1683</id>
+	<word>labor</word>
+	<a>劳作</a>
+	<b>标记</b>
+	<c>麻烦</c>
+	<d>累赘</d>
+</item>
+<item>
+	<id>1683</id>
+	<word>labor</word>
+	<a>劳工</a>
+	<b>精力</b>
+	<c>繁荣</c>
+	<d>贫乏</d>
+</item>
+<item>
+	<id>1683</id>
+	<word>labor</word>
+	<a>分娩</a>
+	<b>结束</b>
+	<c>移动</c>
+	<d>掂量</d>
+</item>
+<item>
+	<id>1684</id>
+	<word>engine</word>
+	<a>发动机</a>
+	<b>雕刻</b>
+	<c>工程师</c>
+	<d>能源</d>
+</item>
+<item>
+	<id>1685</id>
+	<word>dear</word>
+	<a>天啊</a>
+	<b>雄鹿</b>
+	<c>啤酒</c>
+	<d>齿轮</d>
+</item>
+<item>
+	<id>1685</id>
+	<word>dear</word>
+	<a>亲爱的</a>
+	<b>仅仅</b>
+	<c>害怕</c>
+	<d>梨子</d>
+</item>
+<item>
+	<id>1686</id>
+	<word>crash</word>
+	<a>猛撞</a>
+	<b>接触</b>
+	<c>开车</c>
+	<d>倒塌</d>
+</item>
+<item>
+	<id>1686</id>
+	<word>crash</word>
+	<a>突然发出巨响</a>
+	<b>吱吱作响</b>
+	<c>嗡嗡响</c>
+	<d>哈哈大笑</d>
+</item>
+<item>
+	<id>1686</id>
+	<word>crash</word>
+	<a>很快入睡</a>
+	<b>放松</b>
+	<c>破坏</c>
+	<d>扩张</d>
+</item>
+<item>
+	<id>1686</id>
+	<word>crash</word>
+	<a>瘫痪</a>
+	<b>破碎</b>
+	<c>结合</c>
+	<d>增加</d>
+</item>
+<item>
+	<id>1686</id>
+	<word>crash</word>
+	<a>过夜</a>
+	<b>路过</b>
+	<c>旅行</c>
+	<d>玩耍</d>
+</item>
+<item>
+	<id>1686</id>
+	<word>crash</word>
+	<a>撞毁</a>
+	<b>斗争</b>
+	<c>殴打</c>
+	<d>击败</d>
+</item>
+<item>
+	<id>1687</id>
+	<word>fairly</word>
+	<a>相当</a>
+	<b>特别</b>
+	<c>有点</c>
+	<d>公平地</d>
+</item>
+<item>
+	<id>1689</id>
+	<word>liberal</word>
+	<a>开明的</a>
+	<b>保守的</b>
+	<c>传统的</c>
+	<d>激进的</d>
+</item>
+<item>
+	<id>1689</id>
+	<word>liberal</word>
+	<a>自由主义的</a>
+	<b>思想解放的</b>
+	<c>图书馆管理员</c>
+	<d>自由权</d>
+</item>
+<item>
+	<id>1689</id>
+	<word>liberal</word>
+	<a>支持变革的</a>
+	<b>善于创新的</b>
+	<c>字面意义的</c>
+	<d>合情理的</d>
+</item>
+<item>
+	<id>1691</id>
+	<word>entire</word>
+	<a>全部的</a>
+	<b>部分的</b>
+	<c>地区的</c>
+	<d>准时的</d>
+</item>
+<item>
+	<id>1692</id>
+	<word>surround</word>
+	<a>包围</a>
+	<b>发誓</b>
+	<c>打击</c>
+	<d>冲浪</d>
+</item>
+<item>
+	<id>1692</id>
+	<word>surround</word>
+	<a>环绕</a>
+	<b>象征</b>
+	<c>装饰</c>
+	<d>描绘</d>
+</item>
+<item>
+	<id>1693</id>
+	<word>jack</word>
+	<a>千斤顶</a>
+	<b>傻瓜</b>
+	<c>夹克</c>
+	<d>果酱</d>
+</item>
+<item>
+	<id>1694</id>
+	<word>belief</word>
+	<a>信念</a>
+	<b>释怀</b>
+	<c>撒谎</c>
+	<d>树叶</d>
+</item>
+<item>
+	<id>1695</id>
+	<word>institution</word>
+	<a>机构</a>
+	<b>指示</b>
+	<c>塑像</c>
+	<d>形势</d>
+</item>
+<item>
+	<id>1695</id>
+	<word>institution</word>
+	<a>慈善机构</a>
+	<b>善良</b>
+	<c>形势</c>
+	<d>标志</d>
+</item>
+<item>
+	<id>1696</id>
+	<word>ignore</word>
+	<a>忽视</a>
+	<b>鄙视</b>
+	<c>否定</c>
+	<d>辨别</d>
+</item>
+<item>
+	<id>1697</id>
+	<word>plenty</word>
+	<a>大量</a>
+	<b>数字</b>
+	<c>誓言</c>
+	<d>愉快</d>
+</item>
+<item>
+	<id>1698</id>
+	<word>delay</word>
+	<a>延误的时间</a>
+	<b>等待的时间</b>
+	<c>开始的时间</c>
+	<d>分开的时间</d>
+</item>
+<item>
+	<id>1698</id>
+	<word>delay</word>
+	<a>延误</a>
+	<b>使放弃</b>
+	<c>使伤心</c>
+	<d>需要</d>
+</item>
+<item>
+	<id>1699</id>
+	<word>commitment</word>
+	<a>辛劳</a>
+	<b>指控</b>
+	<c>转移</c>
+	<d>要求</d>
+</item>
+<item>
+	<id>1699</id>
+	<word>commitment</word>
+	<a>承诺</a>
+	<b>委员会</b>
+	<c>监护人</c>
+	<d>委任</d>
+</item>
+<item>
+	<id>1700</id>
+	<word>register</word>
+	<a>名册</a>
+	<b>相册</b>
+	<c>书目</c>
+	<d>目录</d>
+</item>
+<item>
+	<id>1700</id>
+	<word>register</word>
+	<a>音域</a>
+	<b>范围</b>
+	<c>管理</c>
+	<d>重录</d>
+</item>
+<item>
+	<id>1700</id>
+	<word>register</word>
+	<a>语域</a>
+	<b>语调</b>
+	<c>语气</c>
+	<d>语词</d>
+</item>
+<item>
+	<id>1700</id>
+	<word>register</word>
+	<a>调风器</a>
+	<b>启动器</b>
+	<c>引擎</c>
+	<d>装备</d>
+</item>
+<item>
+	<id>1700</id>
+	<word>register</word>
+	<a>登记簿</a>
+	<b>草稿本</b>
+	<c>便签本</c>
+	<d>便利贴</d>
+</item>
+<item>
+	<id>1700</id>
+	<word>register</word>
+	<a>现金出纳机</a>
+	<b>登记者</b>
+	<c>验钞机</c>
+	<d>缴费机</d>
+</item>
+<item>
+	<id>1701</id>
+	<word>dangerous</word>
+	<a>危险的</a>
+	<b>勇敢的</b>
+	<c>时髦的</c>
+	<d>豪华的</d>
+</item>
+<item>
+	<id>1705</id>
+	<word>knock</word>
+	<a>敲门[窗]</a>
+	<b>打击</b>
+	<c>碰到</c>
+	<d>击倒</d>
+</item>
+<item>
+	<id>1705</id>
+	<word>knock</word>
+	<a>碰撞</a>
+	<b>轻拍</b>
+	<c>摔交</c>
+	<d>踢</d>
+</item>
+<item>
+	<id>1705</id>
+	<word>knock</word>
+	<a>指责</a>
+	<b>指明</b>
+	<c>冤枉</c>
+	<d>负责</d>
+</item>
+<item>
+	<id>1706</id>
+	<word>qualify</word>
+	<a>有资格</a>
+	<b>有利</b>
+	<c>有优先权</c>
+	<d>有关系</d>
+</item>
+<item>
+	<id>1706</id>
+	<word>qualify</word>
+	<a>使合格</a>
+	<b>使通过</b>
+	<c>使满意</c>
+	<d>使减轻</d>
+</item>
+<item>
+	<id>1706</id>
+	<word>qualify</word>
+	<a>取得资格</a>
+	<b>取得信任</b>
+	<c>获得成就</c>
+	<d>获得通过</d>
+</item>
+<item>
+	<id>1707</id>
+	<word>desire</word>
+	<a>渴望</a>
+	<b>口渴</b>
+	<c>申请</c>
+	<d>向往</d>
+</item>
+<item>
+	<id>1707</id>
+	<word>desire</word>
+	<a>渴望之物</a>
+	<b>梦想</b>
+	<c>幻想</c>
+	<d>心事</d>
+</item>
+<item>
+	<id>1708</id>
+	<word>rebel</word>
+	<a>反抗者</a>
+	<b>罢工者</b>
+	<c>敲钟人</c>
+	<d>叫醒服务</d>
+</item>
+<item>
+	<id>1712</id>
+	<word>rival</word>
+	<a>对手</a>
+	<b>河流</b>
+	<c>肝脏</c>
+	<d>水平</d>
+</item>
+<item>
+	<id>1713</id>
+	<word>sector</word>
+	<a>部门</a>
+	<b>部分</b>
+	<c>附件</c>
+	<d>部件</d>
+</item>
+<item>
+	<id>1714</id>
+	<word>airport</word>
+	<a>机场</a>
+	<b>飞机</b>
+	<c>机票</c>
+	<d>飞船</d>
+</item>
+<item>
+	<id>1718</id>
+	<word>correct</word>
+	<a>恰当的</a>
+	<b>可信的</b>
+	<c>详细的</c>
+	<d>清楚的</d>
+</item>
+<item>
+	<id>1718</id>
+	<word>correct</word>
+	<a>合乎礼节的</a>
+	<b>足够的</b>
+	<c>灵巧的</c>
+	<d>可容忍的</d>
+</item>
+<item>
+	<id>1718</id>
+	<word>correct</word>
+	<a>正确的</a>
+	<b>笔直的</b>
+	<c>严密的</c>
+	<d>可接受的</d>
+</item>
+<item>
+	<id>1719</id>
+	<word>religion</word>
+	<a>宗教</a>
+	<b>种族</b>
+	<c>歧视</c>
+	<d>偏见</d>
+</item>
+<item>
+	<id>1719</id>
+	<word>religion</word>
+	<a>宗教信仰</a>
+	<b>崇拜</b>
+	<c>信仰</c>
+	<d>迷信</d>
+</item>
+<item>
+	<id>1720</id>
+	<word>content</word>
+	<a>容纳的东西</a>
+	<b>上下文</b>
+	<c>概念</c>
+	<d>合同</d>
+</item>
+<item>
+	<id>1720</id>
+	<word>content</word>
+	<a>内容</a>
+	<b>喜剧</b>
+	<c>应允</c>
+	<d>注解</d>
+</item>
+<item>
+	<id>1720</id>
+	<word>content</word>
+	<a>含量</a>
+	<b>生产</b>
+	<c>测量</c>
+	<d>精华</d>
+</item>
+<item>
+	<id>1723</id>
+	<word>district</word>
+	<a>地区</a>
+	<b>范围</b>
+	<c>领域</c>
+	<d>地点</d>
+</item>
+<item>
+	<id>1724</id>
+	<word>enemy</word>
+	<a>敌人</a>
+	<b>朋友</b>
+	<c>同事</c>
+	<d>亲戚</d>
+</item>
+<item>
+	<id>1724</id>
+	<word>enemy</word>
+	<a>反对者</a>
+	<b>支持者</b>
+	<c>评论家</c>
+	<d>主持人</d>
+</item>
+<item>
+	<id>1729</id>
+	<word>appropriate</word>
+	<a>恰当的</a>
+	<b>私人的</b>
+	<c>普通的</c>
+	<d>组成的</d>
+</item>
+<item>
+	<id>1730</id>
+	<word>convince</word>
+	<a>使确信</a>
+	<b>使变化</b>
+	<c>使惊讶</c>
+	<d>使歪曲</d>
+</item>
+<item>
+	<id>1732</id>
+	<word>camera</word>
+	<a>照相机</a>
+	<b>照片</b>
+	<c>录像</c>
+	<d>电影</d>
+</item>
+<item>
+	<id>1734</id>
+	<word>function</word>
+	<a>仪式</a>
+	<b>公共</b>
+	<c>场地</c>
+	<d>沙滩</d>
+</item>
+<item>
+	<id>1734</id>
+	<word>function</word>
+	<a>功能</a>
+	<b>摩擦</b>
+	<c>小说</c>
+	<d>交叉口</d>
+</item>
+<item>
+	<id>1736</id>
+	<word>inquiry</word>
+	<a>询问</a>
+	<b>质问</b>
+	<c>怀疑</c>
+	<d>测试</d>
+</item>
+<item>
+	<id>1738</id>
+	<word>plastic</word>
+	<a>塑料</a>
+	<b>石膏</b>
+	<c>金属</c>
+	<d>弹性</d>
+</item>
+<item>
+	<id>1738</id>
+	<word>plastic</word>
+	<a>信用卡</a>
+	<b>石膏</b>
+	<c>创可贴</c>
+	<d>站台</d>
+</item>
+<item>
+	<id>1739</id>
+	<word>solution</word>
+	<a>解决方法</a>
+	<b>汽车</b>
+	<c>革新</c>
+	<d>例行公事</d>
+</item>
+<item>
+	<id>1740</id>
+	<word>file</word>
+	<a>档案</a>
+	<b>开火</b>
+	<c>钉子</c>
+	<d>蜗牛</d>
+</item>
+<item>
+	<id>1740</id>
+	<word>file</word>
+	<a>文件箱</a>
+	<b>夹子</b>
+	<c>书架</c>
+	<d>储藏室</d>
+</item>
+<item>
+	<id>1740</id>
+	<word>file</word>
+	<a>档案文件</a>
+	<b>组织</b>
+	<c>书面报告</c>
+	<d>书籍</d>
+</item>
+<item>
+	<id>1741</id>
+	<word>friendly</word>
+	<a>友好的</a>
+	<b>关心的</b>
+	<c>紧密的</c>
+	<d>善良的</d>
+</item>
+<item>
+	<id>1741</id>
+	<word>friendly</word>
+	<a>友善的</a>
+	<b>公开的</b>
+	<c>害羞的</c>
+	<d>大方的</d>
+</item>
+<item>
+	<id>1742</id>
+	<word>quiet</word>
+	<a>安静的</a>
+	<b>冷漠的</b>
+	<c>郁闷的</c>
+	<d>伤心地</d>
+</item>
+<item>
+	<id>1742</id>
+	<word>quiet</word>
+	<a>寂静的</a>
+	<b>沮丧的</b>
+	<c>伤心的</c>
+	<d>失落的</d>
+</item>
+<item>
+	<id>1742</id>
+	<word>quiet</word>
+	<a>沉默的</a>
+	<b>沮丧的</b>
+	<c>失望的</c>
+	<d>伤心的</d>
+</item>
+<item>
+	<id>1744</id>
+	<word>schedule</word>
+	<a>日程表</a>
+	<b>路线图</b>
+	<c>备忘录</c>
+	<d>罗曼史</d>
+</item>
+<item>
+	<id>1744</id>
+	<word>schedule</word>
+	<a>时刻表</a>
+	<b>片段</b>
+	<c>过程</c>
+	<d>中途</d>
+</item>
+<item>
+	<id>1745</id>
+	<word>delight</word>
+	<a>高兴</a>
+	<b>需求</b>
+	<c>打败</c>
+	<d>佳肴</d>
+</item>
+<item>
+	<id>1745</id>
+	<word>delight</word>
+	<a>使人高兴的事</a>
+	<b>使人烦恼的事</b>
+	<c>使人伤心的事</c>
+	<d>使人成名的事</d>
+</item>
+<item>
+	<id>1746</id>
+	<word>defend</word>
+	<a>保护</a>
+	<b>后代</b>
+	<c>打败</c>
+	<d>缺陷</d>
+</item>
+<item>
+	<id>1746</id>
+	<word>defend</word>
+	<a>捍卫</a>
+	<b>删除</b>
+	<c>装饰</c>
+	<d>认为</d>
+</item>
+<item>
+	<id>1747</id>
+	<word>steal</word>
+	<a>悄悄地移动</a>
+	<b>飞翔</b>
+	<c>重视</c>
+	<d>分离</d>
+</item>
+<item>
+	<id>1747</id>
+	<word>steal</word>
+	<a>偷</a>
+	<b>蒸汽</b>
+	<c>茎</c>
+	<d>逗留</d>
+</item>
+<item>
+	<id>1748</id>
+	<word>climb</word>
+	<a>攀登</a>
+	<b>跛行</b>
+	<c>扭曲</c>
+	<d>逗留</d>
+</item>
+<item>
+	<id>1748</id>
+	<word>climb</word>
+	<a>爬</a>
+	<b>卧</b>
+	<c>蜷</c>
+	<d>动</d>
+</item>
+<item>
+	<id>1748</id>
+	<word>climb</word>
+	<a>爬山</a>
+	<b>爬行</b>
+	<c>蠕动</c>
+	<d>爬竿</d>
+</item>
+<item>
+	<id>1748</id>
+	<word>climb</word>
+	<a>徐徐上升</a>
+	<b>突飞猛进</b>
+	<c>日新月异</c>
+	<d>缓缓而行</d>
+</item>
+<item>
+	<id>1748</id>
+	<word>climb</word>
+	<a>攀缘而上</a>
+	<b>拍手</b>
+	<c>夹住</c>
+	<d>瞥见</d>
+</item>
+<item>
+	<id>1748</id>
+	<word>climb</word>
+	<a>上涨</a>
+	<b>下跌</b>
+	<c>膨胀</c>
+	<d>萎缩</d>
+</item>
+<item>
+	<id>1749</id>
+	<word>bright</word>
+	<a>闪光的</a>
+	<b>彩色的</b>
+	<c>宽阔的</c>
+	<d>细致的</d>
+</item>
+<item>
+	<id>1749</id>
+	<word>bright</word>
+	<a>聪颖的</a>
+	<b>认真的</b>
+	<c>拘谨的</c>
+	<d>细心的</d>
+</item>
+<item>
+	<id>1751</id>
+	<word>palace</word>
+	<a>皇宫</a>
+	<b>厨房</b>
+	<c>庙宇</c>
+	<d>厅堂</d>
+</item>
+<item>
+	<id>1753</id>
+	<word>jail</word>
+	<a>监狱</a>
+	<b>大厅</b>
+	<c>翡翠</c>
+	<d>果酱</d>
+</item>
+<item>
+	<id>1756</id>
+	<word>circumstance</word>
+	<a>情况</a>
+	<b>感情</b>
+	<c>情景</c>
+	<d>真情</d>
+</item>
+<item>
+	<id>1759</id>
+	<word>lovely</word>
+	<a>可爱的</a>
+	<b>生动的</b>
+	<c>友好的</c>
+	<d>和蔼的</d>
+</item>
+<item>
+	<id>1764</id>
+	<word>appearance</word>
+	<a>出现</a>
+	<b>离开</b>
+	<c>飞翔</c>
+	<d>仪器</d>
+</item>
+<item>
+	<id>1764</id>
+	<word>appearance</word>
+	<a>外表</a>
+	<b>航空</b>
+	<c>魅力</c>
+	<d>消失</d>
+</item>
+<item>
+	<id>1765</id>
+	<word>attractive</word>
+	<a>有魅力的</a>
+	<b>有动力的</b>
+	<c>有活力的</c>
+	<d>有创造力的</d>
+</item>
+<item>
+	<id>1766</id>
+	<word>cycle</word>
+	<a>循环</a>
+	<b>圆圈</b>
+	<c>周转</c>
+	<d>旋风</d>
+</item>
+<item>
+	<id>1766</id>
+	<word>cycle</word>
+	<a>摩托车</a>
+	<b>轮子</b>
+	<c>海峡</c>
+	<d>愤世嫉俗者</d>
+</item>
+<item>
+	<id>1767</id>
+	<word>concentrate</word>
+	<a>使清楚地思考</a>
+	<b>集中于一点</b>
+	<c>堆积</c>
+	<d>加强</d>
+</item>
+<item>
+	<id>1767</id>
+	<word>concentrate</word>
+	<a>集中注意力</a>
+	<b>做礼拜</b>
+	<c>集体演奏</c>
+	<d>示威游行</d>
+</item>
+<item>
+	<id>1771</id>
+	<word>painting</word>
+	<a>图画</a>
+	<b>描绘</b>
+	<c>油漆</c>
+	<d>美术</d>
+</item>
+<item>
+	<id>1772</id>
+	<word>shift</word>
+	<a>改变（意见，信仰）</a>
+	<b>调整</b>
+	<c>转化</c>
+	<d>调节</d>
+</item>
+<item>
+	<id>1772</id>
+	<word>shift</word>
+	<a>除去</a>
+	<b>消灭</b>
+	<c>排查</c>
+	<d>拆除</d>
+</item>
+<item>
+	<id>1772</id>
+	<word>shift</word>
+	<a>转嫁，转给</a>
+	<b>摔倒</b>
+	<c>滑翔</c>
+	<d>启动</d>
+</item>
+<item>
+	<id>1772</id>
+	<word>shift</word>
+	<a>转移</a>
+	<b>糟糕</b>
+	<c>滑行</c>
+	<d>隐藏</d>
+</item>
+<item>
+	<id>1774</id>
+	<word>rush</word>
+	<a>猛冲</a>
+	<b>前进</b>
+	<c>快速</c>
+	<d>冲锋</d>
+</item>
+<item>
+	<id>1774</id>
+	<word>rush</word>
+	<a>仓促行事</a>
+	<b>耐心等待</b>
+	<c>勇敢面对</c>
+	<d>积极行事</d>
+</item>
+<item>
+	<id>1774</id>
+	<word>rush</word>
+	<a>急送</a>
+	<b>急救</b>
+	<c>急急忙忙</c>
+	<d>繁忙</d>
+</item>
+<item>
+	<id>1774</id>
+	<word>rush</word>
+	<a>催促</a>
+	<b>鼓励</b>
+	<c>强迫</c>
+	<d>促进</d>
+</item>
+<item>
+	<id>1774</id>
+	<word>rush</word>
+	<a>突然袭击</a>
+	<b>打击</b>
+	<c>拳击</c>
+	<d>长期斗争</d>
+</item>
+<item>
+	<id>1774</id>
+	<word>rush</word>
+	<a>招收</a>
+	<b>招募</b>
+	<c>招手</c>
+	<d>召唤</d>
+</item>
+<item>
+	<id>1775</id>
+	<word>data</word>
+	<a>数据</a>
+	<b>头昏眼花</b>
+	<c>破晓</c>
+	<d>日期</d>
+</item>
+<item>
+	<id>1776</id>
+	<word>domestic</word>
+	<a>家庭的</a>
+	<b>亲戚的</b>
+	<c>主人的</c>
+	<d>可疑的</d>
+</item>
+<item>
+	<id>1776</id>
+	<word>domestic</word>
+	<a>国内的</a>
+	<b>简单的</b>
+	<c>内部的</c>
+	<d>支配的</d>
+</item>
+<item>
+	<id>1777</id>
+	<word>obvious</word>
+	<a>明显的</a>
+	<b>费解的</b>
+	<c>健忘的</c>
+	<d>客观的</d>
+</item>
+<item>
+	<id>1778</id>
+	<word>employee</word>
+	<a>雇员</a>
+	<b>雇主</b>
+	<c>雇佣</c>
+	<d>就业</d>
+</item>
+<item>
+	<id>1779</id>
+	<word>lion</word>
+	<a>狮子</a>
+	<b>豹</b>
+	<c>老虎</c>
+	<d>狼</d>
+</item>
+<item>
+	<id>1779</id>
+	<word>lion</word>
+	<a>要人</a>
+	<b>明星</b>
+	<c>先驱</c>
+	<d>巨人</d>
+</item>
+<item>
+	<id>1780</id>
+	<word>oppose</word>
+	<a>反对</a>
+	<b>压迫</b>
+	<c>妨碍</c>
+	<d>劝告</d>
+</item>
+<item>
+	<id>1784</id>
+	<word>status</word>
+	<a>身份</a>
+	<b>稳定</b>
+	<c>开创</c>
+	<d>牛棚</d>
+</item>
+<item>
+	<id>1784</id>
+	<word>status</word>
+	<a>状态</a>
+	<b>欺骗</b>
+	<c>简历</c>
+	<d>发送</d>
+</item>
+<item>
+	<id>1785</id>
+	<word>vary</word>
+	<a>相异</a>
+	<b>尝试</b>
+	<c>变量</c>
+	<d>种类</d>
+</item>
+<item>
+	<id>1787</id>
+	<word>saving</word>
+	<a>积蓄</a>
+	<b>危险</b>
+	<c>损失</c>
+	<d>伤害</d>
+</item>
+<item>
+	<id>1790</id>
+	<word>impossible</word>
+	<a>不可能的</a>
+	<b>不重要的</b>
+	<c>吓人的</c>
+	<d>骗人的</d>
+</item>
+<item>
+	<id>1792</id>
+	<word>deputy</word>
+	<a>副职</a>
+	<b>侦探</b>
+	<c>主任</c>
+	<d>部长</d>
+</item>
+<item>
+	<id>1793</id>
+	<word>emotional</word>
+	<a>令人激动的</a>
+	<b>多愁善感的</b>
+	<c>详尽的</c>
+	<d>古怪的</d>
+</item>
+<item>
+	<id>1793</id>
+	<word>emotional</word>
+	<a>情绪激动的</a>
+	<b>紧张的</b>
+	<c>好奇的</c>
+	<d>不可思议的</d>
+</item>
+<item>
+	<id>1794</id>
+	<word>fuel</word>
+	<a>火上浇油的东西</a>
+	<b>柴火</b>
+	<c>樵夫</c>
+	<d>工具</d>
+</item>
+<item>
+	<id>1794</id>
+	<word>fuel</word>
+	<a>燃料</a>
+	<b>气体</b>
+	<c>汽车</c>
+	<d>发动机</d>
+</item>
+<item>
+	<id>1795</id>
+	<word>stretch</word>
+	<a>伸开</a>
+	<b>发射</b>
+	<c>揭露</c>
+	<d>保留</d>
+</item>
+<item>
+	<id>1795</id>
+	<word>stretch</word>
+	<a>拉紧</a>
+	<b>收缩</b>
+	<c>否认</c>
+	<d>攻击</d>
+</item>
+<item>
+	<id>1795</id>
+	<word>stretch</word>
+	<a>变大</a>
+	<b>膨胀</b>
+	<c>打孔</c>
+	<d>删除</d>
+</item>
+<item>
+	<id>1795</id>
+	<word>stretch</word>
+	<a>延伸</a>
+	<b>怀疑</b>
+	<c>悬挂</c>
+	<d>检查</d>
+</item>
+<item>
+	<id>1795</id>
+	<word>stretch</word>
+	<a>延续</a>
+	<b>选择</b>
+	<c>罢工</c>
+	<d>限制</d>
+</item>
+<item>
+	<id>1795</id>
+	<word>stretch</word>
+	<a>放宽</a>
+	<b>解释</b>
+	<c>限定</c>
+	<d>发展</d>
+</item>
+<item>
+	<id>1796</id>
+	<word>map</word>
+	<a>地图</a>
+	<b>搭配</b>
+	<c>映射</c>
+	<d>枫树</d>
+</item>
+<item>
+	<id>1797</id>
+	<word>strategy</word>
+	<a>战略</a>
+	<b>悲剧</b>
+	<c>同情</c>
+	<d>怪物</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:14 CST 2009-->

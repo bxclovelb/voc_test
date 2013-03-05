@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>2800</id>
+	<word>stable</word>
+	<a>稳定的</a>
+	<b>条文的</b>
+	<c>正气的</c>
+	<d>罢工</d>
+</item>
+<item>
+	<id>2800</id>
+	<word>stable</word>
+	<a>马厩</a>
+	<b>梯子</b>
+	<c>纷扰</c>
+	<d>孤苦</d>
+</item>
+<item>
+	<id>2802</id>
+	<word>mystery</word>
+	<a>神秘</a>
+	<b>死亡</b>
+	<c>幽灵</c>
+	<d>工艺</d>
+</item>
+<item>
+	<id>2802</id>
+	<word>mystery</word>
+	<a>神秘性</a>
+	<b>掌握</b>
+	<c>关系</c>
+	<d>遮掩</d>
+</item>
+<item>
+	<id>2804</id>
+	<word>sack</word>
+	<a>辞退</a>
+	<b>背负</b>
+	<c>牺牲</c>
+	<d>抢救</d>
+</item>
+<item>
+	<id>2804</id>
+	<word>sack</word>
+	<a>麻袋</a>
+	<b>悲哀</b>
+	<c>牺牲</c>
+	<d>架子</d>
+</item>
+<item>
+	<id>2805</id>
+	<word>luxury</word>
+	<a>奢侈</a>
+	<b>闲暇</b>
+	<c>光明</c>
+	<d>程度</d>
+</item>
+<item>
+	<id>2807</id>
+	<word>flee</word>
+	<a>逃</a>
+	<b>放松</b>
+	<c>符合</c>
+	<d>成形</d>
+</item>
+<item>
+	<id>2809</id>
+	<word>retail</word>
+	<a>零售</a>
+	<b>零件</b>
+	<c>批发</c>
+	<d>零工</d>
+</item>
+<item>
+	<id>2809</id>
+	<word>retail</word>
+	<a>零售价为</a>
+	<b>讨价还价</b>
+	<c>要价</c>
+	<d>给...定价</d>
+</item>
+<item>
+	<id>2811</id>
+	<word>crazy</word>
+	<a>古怪的</a>
+	<b>平淡的</b>
+	<c>陈旧的</c>
+	<d>时尚的</d>
+</item>
+<item>
+	<id>2811</id>
+	<word>crazy</word>
+	<a>生气的</a>
+	<b>勇敢的</b>
+	<c>鲁莽的</c>
+	<d>热情的</d>
+</item>
+<item>
+	<id>2813</id>
+	<word>angel</word>
+	<a>仁慈而美丽的人</a>
+	<b>庄严肃穆的建筑</b>
+	<c>贵族</c>
+	<d>贫民</d>
+</item>
+<item>
+	<id>2813</id>
+	<word>angel</word>
+	<a>天使</a>
+	<b>魔鬼</b>
+	<c>野兽</c>
+	<d>精灵</d>
+</item>
+<item>
+	<id>2815</id>
+	<word>fabric</word>
+	<a>织物</a>
+	<b>编造</b>
+	<c>外表</c>
+	<d>寓言</d>
+</item>
+<item>
+	<id>2817</id>
+	<word>peer</word>
+	<a>同龄人</a>
+	<b>高峰</b>
+	<c>驾驶</c>
+	<d>窥探</d>
+</item>
+<item>
+	<id>2823</id>
+	<word>establishment</word>
+	<a>单位</a>
+	<b>组织</b>
+	<c>目标</c>
+	<d>结构</d>
+</item>
+<item>
+	<id>2824</id>
+	<word>agenda</word>
+	<a>议程</a>
+	<b>意图</b>
+	<c>计划</c>
+	<d>绘画</d>
+</item>
+<item>
+	<id>2825</id>
+	<word>holder</word>
+	<a>持有者</a>
+	<b>制造商</b>
+	<c>研究员</c>
+	<d>冒险家</d>
+</item>
+<item>
+	<id>2826</id>
+	<word>error</word>
+	<a>错误</a>
+	<b>决策</b>
+	<c>意识</c>
+	<d>责备</d>
+</item>
+<item>
+	<id>2829</id>
+	<word>confuse</word>
+	<a>使糊涂，使迷惑</a>
+	<b>拒绝</b>
+	<c>衰退</c>
+	<d>争论</d>
+</item>
+<item>
+	<id>2830</id>
+	<word>reckon</word>
+	<a>认为</a>
+	<b>接受</b>
+	<c>认识</c>
+	<d>修改</d>
+</item>
+<item>
+	<id>2830</id>
+	<word>reckon</word>
+	<a>估算</a>
+	<b>记录</b>
+	<c>安排</c>
+	<d>组织</d>
+</item>
+<item>
+	<id>2832</id>
+	<word>proportion</word>
+	<a>均衡</a>
+	<b>平均</b>
+	<c>计算</c>
+	<d>估计</d>
+</item>
+<item>
+	<id>2832</id>
+	<word>proportion</word>
+	<a>部分</a>
+	<b>立场</b>
+	<c>观点</c>
+	<d>建议</d>
+</item>
+<item>
+	<id>2833</id>
+	<word>apparent</word>
+	<a>显而易见的</a>
+	<b>安排好的</b>
+	<c>脸红红的</c>
+	<d>解释不清的</d>
+</item>
+<item>
+	<id>2834</id>
+	<word>resistance</word>
+	<a>抗拒</a>
+	<b>排斥</b>
+	<c>拒绝</c>
+	<d>保护</d>
+</item>
+<item>
+	<id>2834</id>
+	<word>resistance</word>
+	<a>抵抗</a>
+	<b>进攻</b>
+	<c>撤退</c>
+	<d>隐退</d>
+</item>
+<item>
+	<id>2836</id>
+	<word>disappoint</word>
+	<a>使失望</a>
+	<b>失踪</b>
+	<c>不同意</c>
+	<d>使分离</d>
+</item>
+<item>
+	<id>2838</id>
+	<word>fantasy</word>
+	<a>幻想</a>
+	<b>学院</b>
+	<c>理想</c>
+	<d>事实</d>
+</item>
+<item>
+	<id>2839</id>
+	<word>illegal</word>
+	<a>不合法的</a>
+	<b>不合逻辑的</b>
+	<c>混乱的</c>
+	<d>别扭的</d>
+</item>
+<item>
+	<id>2840</id>
+	<word>pin</word>
+	<a>别针</a>
+	<b>密码</b>
+	<c>节俭</c>
+	<d>针线</d>
+</item>
+<item>
+	<id>2840</id>
+	<word>pin</word>
+	<a>胸针</a>
+	<b>指针</b>
+	<c>针孔</c>
+	<d>针线</d>
+</item>
+<item>
+	<id>2840</id>
+	<word>pin</word>
+	<a>把…别住</a>
+	<b>帮助</b>
+	<c>缝补</c>
+	<d>挣扎</d>
+</item>
+<item>
+	<id>2840</id>
+	<word>pin</word>
+	<a>压住</a>
+	<b>侵略</b>
+	<c>迫害</c>
+	<d>诈骗</d>
+</item>
+<item>
+	<id>2841</id>
+	<word>pile</word>
+	<a>一大堆</a>
+	<b>一盆</b>
+	<c>一盒</c>
+	<d>一起</d>
+</item>
+<item>
+	<id>2841</id>
+	<word>pile</word>
+	<a>堆，叠，摞</a>
+	<b>一张</b>
+	<c>一团</c>
+	<d>别针</d>
+</item>
+<item>
+	<id>2841</id>
+	<word>pile</word>
+	<a>绒面</a>
+	<b>果皮</b>
+	<c>呼吁</c>
+	<d>药丸</d>
+</item>
+<item>
+	<id>2847</id>
+	<word>jazz</word>
+	<a>爵士乐</a>
+	<b>布鲁斯</b>
+	<c>乡村音乐</c>
+	<d>摇滚乐</d>
+</item>
+<item>
+	<id>2854</id>
+	<word>ceremony</word>
+	<a>典礼</a>
+	<b>典型</b>
+	<c>点名</c>
+	<d>电力</d>
+</item>
+<item>
+	<id>2855</id>
+	<word>tap</word>
+	<a>阀门</a>
+	<b>小费</b>
+	<c>插座</c>
+	<d>项链</d>
+</item>
+<item>
+	<id>2855</id>
+	<word>tap</word>
+	<a>塞子</a>
+	<b>扫把</b>
+	<c>帽子</c>
+	<d>钥匙</d>
+</item>
+<item>
+	<id>2855</id>
+	<word>tap</word>
+	<a>轻拍</a>
+	<b>小费</b>
+	<c>帽子</c>
+	<d>地图</d>
+</item>
+<item>
+	<id>2855</id>
+	<word>tap</word>
+	<a>踢踏舞</a>
+	<b>帽子</b>
+	<c>地图</c>
+	<d>小费</d>
+</item>
+<item>
+	<id>2855</id>
+	<word>tap</word>
+	<a>电话窃听</a>
+	<b>小费</b>
+	<c>帽子</c>
+	<d>钥匙</d>
+</item>
+<item>
+	<id>2856</id>
+	<word>actress</word>
+	<a>女演员</a>
+	<b>女服务员</b>
+	<c>女飞行员</c>
+	<d>女教师</d>
+</item>
+<item>
+	<id>2857</id>
+	<word>complicate</word>
+	<a>使……更复杂</a>
+	<b>使……舒服</b>
+	<c>使……痛苦</c>
+	<d>使……感染</d>
+</item>
+<item>
+	<id>2858</id>
+	<word>hint</word>
+	<a>暗示</a>
+	<b>租用</b>
+	<c>雇佣</c>
+	<d>山坡</d>
+</item>
+<item>
+	<id>2858</id>
+	<word>hint</word>
+	<a>微量</a>
+	<b>因素</b>
+	<c>分子</c>
+	<d>碎屑</d>
+</item>
+<item>
+	<id>2860</id>
+	<word>quit</word>
+	<a>辞职</a>
+	<b>非常</b>
+	<c>迅速</c>
+	<d>预测</d>
+</item>
+<item>
+	<id>2864</id>
+	<word>evil</word>
+	<a>非常讨厌的</a>
+	<b>非常兴奋的</b>
+	<c>激动人心的</c>
+	<d>积极向上的</d>
+</item>
+<item>
+	<id>2864</id>
+	<word>evil</word>
+	<a>恶魔的</a>
+	<b>神奇的</b>
+	<c>特殊的</c>
+	<d>强大的</d>
+</item>
+<item>
+	<id>2864</id>
+	<word>evil</word>
+	<a>邪恶的</a>
+	<b>善良的</b>
+	<c>正义的</c>
+	<d>前卫的</d>
+</item>
+<item>
+	<id>2868</id>
+	<word>react</word>
+	<a>作出反应</a>
+	<b>引人注目</b>
+	<c>重新任命</c>
+	<d>相互关联</d>
+</item>
+<item>
+	<id>2869</id>
+	<word>racial</word>
+	<a>种族（关系）的；种族之间的</a>
+	<b>偏见的</b>
+	<c>脸部的</c>
+	<d>比赛的</d>
+</item>
+<item>
+	<id>2870</id>
+	<word>horror</word>
+	<a>惊恐</a>
+	<b>担忧</b>
+	<c>凹陷处</c>
+	<d>神圣</d>
+</item>
+<item>
+	<id>2871</id>
+	<word>cure</word>
+	<a>治疗</a>
+	<b>制造</b>
+	<c>切割</c>
+	<d>改正</d>
+</item>
+<item>
+	<id>2871</id>
+	<word>cure</word>
+	<a>解决</a>
+	<b>保护</b>
+	<c>收集</c>
+	<d>刺激</d>
+</item>
+<item>
+	<id>2871</id>
+	<word>cure</word>
+	<a>治愈</a>
+	<b>卷曲</b>
+	<c>缩减</c>
+	<d>殴打</d>
+</item>
+<item>
+	<id>2873</id>
+	<word>ranger</word>
+	<a>护林员</a>
+	<b>守护神</b>
+	<c>天使</c>
+	<d>怒火</d>
+</item>
+<item>
+	<id>2873</id>
+	<word>ranger</word>
+	<a>巡逻骑警</a>
+	<b>军官</b>
+	<c>士兵</c>
+	<d>守门人</d>
+</item>
+<item>
+	<id>2879</id>
+	<word>resist</word>
+	<a>忍住</a>
+	<b>忍受</b>
+	<c>坚持</c>
+	<d>持续</d>
+</item>
+<item>
+	<id>2879</id>
+	<word>resist</word>
+	<a>抵抗</a>
+	<b>反对</b>
+	<c>挑战</c>
+	<d>战斗</d>
+</item>
+<item>
+	<id>2880</id>
+	<word>emphasis</word>
+	<a>重点</a>
+	<b>沮丧</b>
+	<c>辜负</c>
+	<d>释放</d>
+</item>
+<item>
+	<id>2881</id>
+	<word>intense</word>
+	<a>强烈的</a>
+	<b>强壮的</b>
+	<c>放松的</c>
+	<d>放心的</d>
+</item>
+<item>
+	<id>2882</id>
+	<word>ruin</word>
+	<a>毁坏</a>
+	<b>破坏</b>
+	<c>伤害</c>
+	<d>推翻</d>
+</item>
+<item>
+	<id>2882</id>
+	<word>ruin</word>
+	<a>使破产</a>
+	<b>倒闭</b>
+	<c>阻碍</c>
+	<d>禁止</d>
+</item>
+<item>
+	<id>2885</id>
+	<word>partnership</word>
+	<a>合作关系</a>
+	<b>友谊</b>
+	<c>奖学金</c>
+	<d>崇敬</d>
+</item>
+<item>
+	<id>2887</id>
+	<word>lend</word>
+	<a>贷出</a>
+	<b>登陆</b>
+	<c>出租</c>
+	<d>透镜</d>
+</item>
+<item>
+	<id>2887</id>
+	<word>lend</word>
+	<a>借给</a>
+	<b>租赁</b>
+	<c>左边</c>
+	<d>房租</d>
+</item>
+<item>
+	<id>2887</id>
+	<word>lend</word>
+	<a>给于</a>
+	<b>支持</b>
+	<c>自愿</c>
+	<d>援助</d>
+</item>
+<item>
+	<id>2887</id>
+	<word>lend</word>
+	<a>增添</a>
+	<b>投资</b>
+	<c>储蓄</c>
+	<d>输入</d>
+</item>
+<item>
+	<id>2889</id>
+	<word>controversial</word>
+	<a>有争议的</a>
+	<b>收缩的</b>
+	<c>对比的</c>
+	<d>抵触的</d>
+</item>
+<item>
+	<id>2890</id>
+	<word>federation</word>
+	<a>联盟</a>
+	<b>组织</b>
+	<c>团结</c>
+	<d>人群</d>
+</item>
+<item>
+	<id>2892</id>
+	<word>harm</word>
+	<a>伤害</a>
+	<b>农场</b>
+	<c>安静</c>
+	<d>警告</d>
+</item>
+<item>
+	<id>2893</id>
+	<word>illustrate</word>
+	<a>举例说明</a>
+	<b>幻觉</b>
+	<c>影像</c>
+	<d>照明</d>
+</item>
+<item>
+	<id>2894</id>
+	<word>mixture</word>
+	<a>混合物</a>
+	<b>安装</b>
+	<c>搅拌机</c>
+	<d>灾祸</d>
+</item>
+<item>
+	<id>2895</id>
+	<word>raid</word>
+	<a>搜捕，查抄</a>
+	<b>收获</b>
+	<c>抢夺</c>
+	<d>偷窃</d>
+</item>
+<item>
+	<id>2895</id>
+	<word>raid</word>
+	<a>突袭，袭击</a>
+	<b>占领</b>
+	<c>芦苇</c>
+	<d>丰收</d>
+</item>
+<item>
+	<id>2895</id>
+	<word>raid</word>
+	<a>突击搜查</a>
+	<b>现场访问</b>
+	<c>芦苇</c>
+	<d>道路</d>
+</item>
+<item>
+	<id>2897</id>
+	<word>creation</word>
+	<a>创造物</a>
+	<b>发明</b>
+	<c>发现</c>
+	<d>捏造</d>
+</item>
+<item>
+	<id>2900</id>
+	<word>polish</word>
+	<a>擦亮</a>
+	<b>选举</b>
+	<c>政治</c>
+	<d>礼貌</d>
+</item>
+<item>
+	<id>2900</id>
+	<word>polish</word>
+	<a>上光剂</a>
+	<b>油漆</b>
+	<c>发油</c>
+	<d>保护剂</d>
+</item>
+<item>
+	<id>2905</id>
+	<word>locate</word>
+	<a>确定位置</a>
+	<b>说明原因</b>
+	<c>探索</c>
+	<d>期待</d>
+</item>
+<item>
+	<id>2906</id>
+	<word>departure</word>
+	<a>出发</a>
+	<b>部门</b>
+	<c>公寓</c>
+	<d>区间</d>
+</item>
+<item>
+	<id>2906</id>
+	<word>departure</word>
+	<a>背离</a>
+	<b>赞成</b>
+	<c>分开</c>
+	<d>出现</d>
+</item>
+<item>
+	<id>2907</id>
+	<word>embassy</word>
+	<a>大使馆全体官员</a>
+	<b>海口</b>
+	<c>驻扎部队</c>
+	<d>代表人物</d>
+</item>
+<item>
+	<id>2910</id>
+	<word>stem</word>
+	<a>茎</a>
+	<b>决斗</b>
+	<c>强调</c>
+	<d>导致</d>
+</item>
+<item>
+	<id>2910</id>
+	<word>stem</word>
+	<a>杯颈</a>
+	<b>带子</b>
+	<c>头花</c>
+	<d>领结</d>
+</item>
+<item>
+	<id>2910</id>
+	<word>stem</word>
+	<a>烟斗柄</a>
+	<b>生育</b>
+	<c>等待</c>
+	<d>协助</d>
+</item>
+<item>
+	<id>2911</id>
+	<word>urban</word>
+	<a>城市的</a>
+	<b>农村的</b>
+	<c>郊区的</c>
+	<d>狭隘的</d>
+</item>
+<item>
+	<id>2912</id>
+	<word>alongside</word>
+	<a>在...旁边</a>
+	<b>在...上面</b>
+	<c>延伸</c>
+	<d>并存</d>
+</item>
+<item>
+	<id>2913</id>
+	<word>custom</word>
+	<a>日常习惯</a>
+	<b>性格</b>
+	<c>特点</c>
+	<d>实行</d>
+</item>
+<item>
+	<id>2913</id>
+	<word>custom</word>
+	<a>风俗</a>
+	<b>原则</b>
+	<c>服装</c>
+	<d>监护人</d>
+</item>
+<item>
+	<id>2916</id>
+	<word>consideration</word>
+	<a>须考虑的因素</a>
+	<b>体贴</b>
+	<c>合作</c>
+	<d>满足</d>
+</item>
+<item>
+	<id>2916</id>
+	<word>consideration</word>
+	<a>考虑</a>
+	<b>保守</b>
+	<c>观察</c>
+	<d>谈话</d>
+</item>
+<item>
+	<id>2917</id>
+	<word>discovery</word>
+	<a>发现</a>
+	<b>发明</b>
+	<c>探索</c>
+	<d>证据</d>
+</item>
+<item>
+	<id>2921</id>
+	<word>elderly</word>
+	<a>年老的</a>
+	<b>年轻的</b>
+	<c>年富力强的</c>
+	<d>精力充沛的</d>
+</item>
+<item>
+	<id>2925</id>
+	<word>flag</word>
+	<a>信号旗</a>
+	<b>标记</b>
+	<c>句子</c>
+	<d>成分</d>
+</item>
+<item>
+	<id>2925</id>
+	<word>flag</word>
+	<a>旗帜</a>
+	<b>记号</b>
+	<c>标志</c>
+	<d>品牌</d>
+</item>
+<item>
+	<id>2927</id>
+	<word>yield</word>
+	<a>出产</a>
+	<b>结束</b>
+	<c>选择</c>
+	<d>控制</d>
+</item>
+<item>
+	<id>2927</id>
+	<word>yield</word>
+	<a>得出</a>
+	<b>减去</b>
+	<c>加上</c>
+	<d>重新</d>
+</item>
+<item>
+	<id>2927</id>
+	<word>yield</word>
+	<a>让路</a>
+	<b>向往</b>
+	<c>达到</c>
+	<d>解释</d>
+</item>
+<item>
+	<id>2927</id>
+	<word>yield</word>
+	<a>服从</a>
+	<b>解决</b>
+	<c>应答</c>
+	<d>支持</d>
+</item>
+<item>
+	<id>2928</id>
+	<word>antique</word>
+	<a>古董的</a>
+	<b>遗迹的</b>
+	<c>展览的</c>
+	<d>名胜的</d>
+</item>
+<item>
+	<id>2929</id>
+	<word>justify</word>
+	<a>证明有理</a>
+	<b>发出叮当声</b>
+	<c>仔细检查</c>
+	<d>判断</d>
+</item>
+<item>
+	<id>2930</id>
+	<word>alter</word>
+	<a>改变</a>
+	<b>报警</b>
+	<c>需要</c>
+	<d>领航</d>
+</item>
+<item>
+	<id>2932</id>
+	<word>judgment</word>
+	<a>意见</a>
+	<b>司法权</b>
+	<c>裁判</c>
+	<d>管理</d>
+</item>
+<item>
+	<id>2933</id>
+	<word>rating</word>
+	<a>等级</a>
+	<b>比率</b>
+	<c>进度</c>
+	<d>比赛</d>
+</item>
+<item>
+	<id>2934</id>
+	<word>weekly</word>
+	<a>一周一次的</a>
+	<b>每月的</b>
+	<c>每年的</c>
+	<d>每天的</d>
+</item>
+<item>
+	<id>2937</id>
+	<word>forecast</word>
+	<a>预报</a>
+	<b>广播</b>
+	<c>预感</c>
+	<d>注定</d>
+</item>
+<item>
+	<id>2938</id>
+	<word>sufficient</word>
+	<a>足够的</a>
+	<b>不足的</b>
+	<c>糟糕的</c>
+	<d>优良的</d>
+</item>
+<item>
+	<id>2941</id>
+	<word>kit</word>
+	<a>成套工具</a>
+	<b>钥匙</b>
+	<c>诀窍</c>
+	<d>滑雪</d>
+</item>
+<item>
+	<id>2941</id>
+	<word>kit</word>
+	<a>成套的组合部件</a>
+	<b>设备</b>
+	<c>服装</c>
+	<d>配备</d>
+</item>
+<item>
+	<id>2942</id>
+	<word>transform</word>
+	<a>使变形</a>
+	<b>变迁</b>
+	<c>形成</c>
+	<d>使废除</d>
+</item>
+<item>
+	<id>2943</id>
+	<word>entrance</word>
+	<a>入口</a>
+	<b>出口</b>
+	<c>大厅</c>
+	<d>休息室</d>
+</item>
+<item>
+	<id>2943</id>
+	<word>entrance</word>
+	<a>进入</a>
+	<b>躲避</b>
+	<c>逃跑</c>
+	<d>试验</d>
+</item>
+<item>
+	<id>2947</id>
+	<word>statistic</word>
+	<a>统计数字</a>
+	<b>塑像</b>
+	<c>研究发现</c>
+	<d>社会地位</d>
+</item>
+<item>
+	<id>2947</id>
+	<word>statistic</word>
+	<a>统计学</a>
+	<b>物理学</b>
+	<c>力学</c>
+	<d>数学</d>
+</item>
+<item>
+	<id>2950</id>
+	<word>shower</word>
+	<a>喷头</a>
+	<b>碎片</b>
+	<c>家电</c>
+	<d>商榷</d>
+</item>
+<item>
+	<id>2950</id>
+	<word>shower</word>
+	<a>淋浴</a>
+	<b>洗涤</b>
+	<c>啼哭</c>
+	<d>背离</d>
+</item>
+<item>
+	<id>2950</id>
+	<word>shower</word>
+	<a>降雨</a>
+	<b>风暴</b>
+	<c>高压</c>
+	<d>高原</d>
+</item>
+<item>
+	<id>2950</id>
+	<word>shower</word>
+	<a>大量洒落</a>
+	<b>少许兴致</b>
+	<c>集纳</c>
+	<d>称颂</d>
+</item>
+<item>
+	<id>2951</id>
+	<word>acre</word>
+	<a>英亩</a>
+	<b>公尺</b>
+	<c>英镑</c>
+	<d>公分</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>松的</a>
+	<b>胖的</b>
+	<c>肿的</c>
+	<d>空的</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>宽大的</a>
+	<b>紧身的</b>
+	<c>超短的</c>
+	<d>休闲的</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>无束缚的</a>
+	<b>无限制的</b>
+	<c>靠不住的</c>
+	<d>不确定的</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>未固定的</a>
+	<b>摇动的</b>
+	<c>移动的</c>
+	<d>被发现的</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>不严谨的</a>
+	<b>照字面的</b>
+	<c>准确的</c>
+	<d>非正式的</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>组织不严的</a>
+	<b>结构严谨的</b>
+	<c>前后关联的</c>
+	<d>严密控制的</d>
+</item>
+<item>
+	<id>2953</id>
+	<word>loose</word>
+	<a>未系牢的</a>
+	<b>悬挂着的</b>
+	<c>迟到的</c>
+	<d>不真实的</d>
+</item>
+<item>
+	<id>2954</id>
+	<word>knife</word>
+	<a>刀</a>
+	<b>膝</b>
+	<c>锄头</c>
+	<d>武士</d>
+</item>
+<item>
+	<id>2958</id>
+	<word>comprehensive</word>
+	<a>全面的</a>
+	<b>可压缩的</b>
+	<c>互补的</c>
+	<d>矛盾的</d>
+</item>
+<item>
+	<id>2961</id>
+	<word>fate</word>
+	<a>命运</a>
+	<b>厄运</b>
+	<c>有益</c>
+	<d>昏迷</d>
+</item>
+<item>
+	<id>2963</id>
+	<word>dine</word>
+	<a>就餐</a>
+	<b>喝酒</b>
+	<c>付帐</c>
+	<d>商议</d>
+</item>
+<item>
+	<id>2965</id>
+	<word>forth</word>
+	<a>向前</a>
+	<b>信仰</b>
+	<c>词组</c>
+	<d>成语</d>
+</item>
+<item>
+	<id>2966</id>
+	<word>apple</word>
+	<a>苹果</a>
+	<b>鸭梨</b>
+	<c>葡萄</c>
+	<d>西瓜</d>
+</item>
+<item>
+	<id>2967</id>
+	<word>infection</word>
+	<a>感染</a>
+	<b>爱意</b>
+	<c>影响</c>
+	<d>效果</d>
+</item>
+<item>
+	<id>2968</id>
+	<word>journal</word>
+	<a>杂志</a>
+	<b>旅行</b>
+	<c>新闻</c>
+	<d>记者</d>
+</item>
+<item>
+	<id>2969</id>
+	<word>behave</word>
+	<a>表现</a>
+	<b>拥有</b>
+	<c>值得</c>
+	<d>代表</d>
+</item>
+<item>
+	<id>2970</id>
+	<word>absence</word>
+	<a>缺席，不在</a>
+	<b>流失</b>
+	<c>绝对</c>
+	<d>出现，出席</d>
+</item>
+<item>
+	<id>2977</id>
+	<word>cable</word>
+	<a>缆绳</a>
+	<b>无线通讯</b>
+	<c>有能力的人</c>
+	<d>遥控装置</d>
+</item>
+<item>
+	<id>2977</id>
+	<word>cable</word>
+	<a>电缆</a>
+	<b>橱柜</b>
+	<c>柱子</c>
+	<d>遥控器</d>
+</item>
+<item>
+	<id>2978</id>
+	<word>fancy</word>
+	<a>想要</a>
+	<b>煽动</b>
+	<c>选择</c>
+	<d>成功</d>
+</item>
+<item>
+	<id>2978</id>
+	<word>fancy</word>
+	<a>自以为是</a>
+	<b>自言自语</b>
+	<c>自命清高</c>
+	<d>自抬身价</d>
+</item>
+<item>
+	<id>2978</id>
+	<word>fancy</word>
+	<a>高难度的</a>
+	<b>截然不同的</b>
+	<c>有……倾向的</c>
+	<d>合乎习俗的</d>
+</item>
+<item>
+	<id>2980</id>
+	<word>mature</word>
+	<a>成熟的</a>
+	<b>干净的</b>
+	<c>快速的</c>
+	<d>成长中的</d>
+</item>
+<item>
+	<id>2980</id>
+	<word>mature</word>
+	<a>理智的</a>
+	<b>可能的</b>
+	<c>世故的</c>
+	<d>狡诈的</d>
+</item>
+<item>
+	<id>2980</id>
+	<word>mature</word>
+	<a>酿成的</a>
+	<b>干爽的</b>
+	<c>苦涩的</c>
+	<d>干净的</d>
+</item>
+<item>
+	<id>2980</id>
+	<word>mature</word>
+	<a>中年的</a>
+	<b>古代的</b>
+	<c>过时的</c>
+	<d>朴素的</d>
+</item>
+<item>
+	<id>2981</id>
+	<word>recruit</word>
+	<a>招募</a>
+	<b>回忆</b>
+	<c>覆盖</c>
+	<d>改正</d>
+</item>
+<item>
+	<id>2981</id>
+	<word>recruit</word>
+	<a>组建（新部队）</a>
+	<b>建立（新组织）</b>
+	<c>执行（新计划）</c>
+	<d>设计（新方案）</d>
+</item>
+<item>
+	<id>2981</id>
+	<word>recruit</word>
+	<a>招聘</a>
+	<b>周转</b>
+	<c>校正</c>
+	<d>恢复</d>
+</item>
+<item>
+	<id>2984</id>
+	<word>barrier</word>
+	<a>关卡</a>
+	<b>木桶</b>
+	<c>基础</c>
+	<d>条件</d>
+</item>
+<item>
+	<id>2985</id>
+	<word>output</word>
+	<a>产量</a>
+	<b>透支</b>
+	<c>出口</c>
+	<d>被驱逐者</d>
+</item>
+<item>
+	<id>2987</id>
+	<word>carpet</word>
+	<a>地毯</a>
+	<b>地域</b>
+	<c>地面</c>
+	<d>地貌</d>
+</item>
+<item>
+	<id>2990</id>
+	<word>salary</word>
+	<a>薪金</a>
+	<b>色拉</b>
+	<c>销售</c>
+	<d>沙龙</d>
+</item>
+<item>
+	<id>2996</id>
+	<word>sauce</word>
+	<a>调味汁</a>
+	<b>传奇</b>
+	<c>赞美诗</c>
+	<d>婴儿</d>
+</item>
+<item>
+	<id>2997</id>
+	<word>shine</word>
+	<a>发光</a>
+	<b>照射</b>
+	<c>刺激</c>
+	<d>身份</d>
+</item>
+<item>
+	<id>2997</id>
+	<word>shine</word>
+	<a>闪光</a>
+	<b>攀爬</b>
+	<c>发明</c>
+	<d>讨教</d>
+</item>
+<item>
+	<id>2997</id>
+	<word>shine</word>
+	<a>照射</a>
+	<b>前行</b>
+	<c>欠缺</c>
+	<d>加强</d>
+</item>
+<item>
+	<id>2997</id>
+	<word>shine</word>
+	<a>流露</a>
+	<b>播报</b>
+	<c>喧闹</c>
+	<d>造就</d>
+</item>
+<item>
+	<id>2998</id>
+	<word>medal</word>
+	<a>奖章</a>
+	<b>金属</b>
+	<c>精神</c>
+	<d>回报</d>
+</item>
+<item>
+	<id>2999</id>
+	<word>pose</word>
+	<a>摆好姿势</a>
+	<b>拥有</b>
+	<c>邮寄</c>
+	<d>射杀</d>
+</item>
+<item>
+	<id>2999</id>
+	<word>pose</word>
+	<a>装腔作势</a>
+	<b>放置</b>
+	<c>运转</c>
+	<d>赞美</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:14 CST 2009-->

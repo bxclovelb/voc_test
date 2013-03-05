@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>6202</id>
+	<word>correspondence</word>
+	<a>信件</a>
+	<b>正确</b>
+	<c>相等</c>
+	<d>独立</d>
+</item>
+<item>
+	<id>6205</id>
+	<word>ache</word>
+	<a>作痛</a>
+	<b>停电</b>
+	<c>离开</c>
+	<d>争吵</d>
+</item>
+<item>
+	<id>6206</id>
+	<word>badge</word>
+	<a>徽章</a>
+	<b>绷带</b>
+	<c>乐队</c>
+	<d>强盗</d>
+</item>
+<item>
+	<id>6214</id>
+	<word>wade</word>
+	<a>趟(水),涉(水)</a>
+	<b>犹豫</b>
+	<c>唤醒</c>
+	<d>徘徊</d>
+</item>
+<item>
+	<id>6216</id>
+	<word>applause</word>
+	<a>掌声</a>
+	<b>赞成</b>
+	<c>支持</c>
+	<d>地图</d>
+</item>
+<item>
+	<id>6220</id>
+	<word>fraction</word>
+	<a>一部分</a>
+	<b>可能性</b>
+	<c>性感</c>
+	<d>数量</d>
+</item>
+<item>
+	<id>6223</id>
+	<word>ripe</word>
+	<a>成熟的</a>
+	<b>新鲜的</b>
+	<c>腐烂的</c>
+	<d>合适的</d>
+</item>
+<item>
+	<id>6228</id>
+	<word>certainty</word>
+	<a>确定[确实]的事</a>
+	<b>确认</b>
+	<c>预定</c>
+	<d>同意</d>
+</item>
+<item>
+	<id>6229</id>
+	<word>cruelty</word>
+	<a>虐待</a>
+	<b>忧郁</b>
+	<c>冲突</c>
+	<d>事业</d>
+</item>
+<item>
+	<id>6229</id>
+	<word>cruelty</word>
+	<a>残忍</a>
+	<b>关键</b>
+	<c>拐杖</c>
+	<d>关注</d>
+</item>
+<item>
+	<id>6231</id>
+	<word>mob</word>
+	<a>乌合之众</a>
+	<b>拖把</b>
+	<c>集会</c>
+	<d>宣传活动</d>
+</item>
+<item>
+	<id>6235</id>
+	<word>absurd</word>
+	<a>荒谬的</a>
+	<b>意外的</b>
+	<c>模糊的</c>
+	<d>笼统的</d>
+</item>
+<item>
+	<id>6242</id>
+	<word>scrub</word>
+	<a>擦洗</a>
+	<b>乱涂</b>
+	<c>扭打</c>
+	<d>急促奔走</d>
+</item>
+<item>
+	<id>6248</id>
+	<word>virtual</word>
+	<a>实际上的</a>
+	<b>原始的</b>
+	<c>视觉的</c>
+	<d>激动的</d>
+</item>
+<item>
+	<id>6250</id>
+	<word>epidemic</word>
+	<a>流行病</a>
+	<b>时髦</b>
+	<c>流窜</c>
+	<d>流感</d>
+</item>
+<item>
+	<id>6253</id>
+	<word>intensify</word>
+	<a>加强</a>
+	<b>详细</b>
+	<c>引起</c>
+	<d>凸现</d>
+</item>
+<item>
+	<id>6256</id>
+	<word>rot</word>
+	<a>(使) 腐烂</a>
+	<b>破坏</b>
+	<c>粉碎</c>
+	<d>毁坏</d>
+</item>
+<item>
+	<id>6256</id>
+	<word>rot</word>
+	<a>逐渐憔悴(衰落)</a>
+	<b>腐蚀</b>
+	<c>恶化</c>
+	<d>(使)崩裂</d>
+</item>
+<item>
+	<id>6271</id>
+	<word>equation</word>
+	<a>等式</a>
+	<b>平均数</b>
+	<c>赤道</c>
+	<d>公平</d>
+</item>
+<item>
+	<id>6276</id>
+	<word>foolish</word>
+	<a>愚蠢的</a>
+	<b>干净的</b>
+	<c>空的</c>
+	<d>有益的</d>
+</item>
+<item>
+	<id>6278</id>
+	<word>glue</word>
+	<a>胶水</a>
+	<b>闪耀</b>
+	<c>打击</c>
+	<d>流动</d>
+</item>
+<item>
+	<id>6283</id>
+	<word>curb</word>
+	<a>控制</a>
+	<b>缩减</b>
+	<c>治愈</c>
+	<d>弯曲</d>
+</item>
+<item>
+	<id>6285</id>
+	<word>eyebrow</word>
+	<a>眉毛</a>
+	<b>彩虹</b>
+	<c>毛笔</c>
+	<d>眨眼</d>
+</item>
+<item>
+	<id>6294</id>
+	<word>kidney</word>
+	<a>肾</a>
+	<b>胸</b>
+	<c>肝</c>
+	<d>脾</d>
+</item>
+<item>
+	<id>6295</id>
+	<word>masterpiece</word>
+	<a>杰作</a>
+	<b>作者</b>
+	<c>能手</c>
+	<d>掌握</d>
+</item>
+<item>
+	<id>6298</id>
+	<word>shaft</word>
+	<a>长柄</a>
+	<b>畅通</b>
+	<c>长条</c>
+	<d>木头</d>
+</item>
+<item>
+	<id>6298</id>
+	<word>shaft</word>
+	<a>竖井</a>
+	<b>阳光</b>
+	<c>深度</c>
+	<d>进屋</d>
+</item>
+<item>
+	<id>6303</id>
+	<word>curiosity</word>
+	<a>好奇心</a>
+	<b>古怪</b>
+	<c>愿望</c>
+	<d>琐事</d>
+</item>
+<item>
+	<id>6304</id>
+	<word>eternal</word>
+	<a>永恒的</a>
+	<b>内部的</b>
+	<c>精明的</c>
+	<d>合理的</d>
+</item>
+<item>
+	<id>6308</id>
+	<word>rude</word>
+	<a>粗鲁的</a>
+	<b>轻微的</b>
+	<c>狂野的</c>
+	<d>温柔的</d>
+</item>
+<item>
+	<id>6310</id>
+	<word>backwards</word>
+	<a>倒退地</a>
+	<b>前进地</b>
+	<c>终止地</c>
+	<d>重新地</d>
+</item>
+<item>
+	<id>6315</id>
+	<word>sincere</word>
+	<a>真诚的</a>
+	<b>诚实的</b>
+	<c>邪恶的</c>
+	<d>善良的</d>
+</item>
+<item>
+	<id>6320</id>
+	<word>fume</word>
+	<a>生气</a>
+	<b>打动</b>
+	<c>攻击</c>
+	<d>激动</d>
+</item>
+<item>
+	<id>6324</id>
+	<word>pea</word>
+	<a>豌豆</a>
+	<b>大豆</b>
+	<c>主任</c>
+	<d>牛仔</d>
+</item>
+<item>
+	<id>6331</id>
+	<word>ink</word>
+	<a>墨水</a>
+	<b>时尚</b>
+	<c>联系</c>
+	<d>岛屿</d>
+</item>
+<item>
+	<id>6332</id>
+	<word>intact</word>
+	<a>完好无损的</a>
+	<b>迅速的</b>
+	<c>有目的的</c>
+	<d>相互的</d>
+</item>
+<item>
+	<id>6334</id>
+	<word>tremble</word>
+	<a>颤抖</a>
+	<b>踮着脚走</b>
+	<c>设陷阱捕捉</c>
+	<d>打滚</d>
+</item>
+<item>
+	<id>6334</id>
+	<word>tremble</word>
+	<a>发抖</a>
+	<b>尝试</b>
+	<c>模仿</c>
+	<d>集中</d>
+</item>
+<item>
+	<id>6348</id>
+	<word>downtown</word>
+	<a>在市中心</a>
+	<b>向下的</b>
+	<c>在楼下</c>
+	<d>裁员</d>
+</item>
+<item>
+	<id>6349</id>
+	<word>floral</word>
+	<a>用花装饰的</a>
+	<b>奇妙的</b>
+	<c>面粉做的</c>
+	<d>花枝招展的</d>
+</item>
+<item>
+	<id>6353</id>
+	<word>restraint</word>
+	<a>限制</a>
+	<b>条约</b>
+	<c>合同</c>
+	<d>协议</d>
+</item>
+<item>
+	<id>6353</id>
+	<word>restraint</word>
+	<a>抑制</a>
+	<b>修复</b>
+	<c>援救</c>
+	<d>严厉</d>
+</item>
+<item>
+	<id>6354</id>
+	<word>serial</word>
+	<a>电视连续剧</a>
+	<b>系列</b>
+	<c>串联</c>
+	<d>布道</d>
+</item>
+<item>
+	<id>6362</id>
+	<word>dessert</word>
+	<a>甜食</a>
+	<b>抛弃</b>
+	<c>沙漠</c>
+	<d>演示</d>
+</item>
+<item>
+	<id>6365</id>
+	<word>imaginative</word>
+	<a>想象力丰富的</a>
+	<b>想象的</b>
+	<c>可想象的</c>
+	<d>幻想的</d>
+</item>
+<item>
+	<id>6368</id>
+	<word>rave</word>
+	<a>痛斥</a>
+	<b>发狂</b>
+	<c>狂奔</c>
+	<d>抢夺</d>
+</item>
+<item>
+	<id>6368</id>
+	<word>rave</word>
+	<a>胡言乱语</a>
+	<b>争吵</b>
+	<c>吹拂</c>
+	<d>吹牛</d>
+</item>
+<item>
+	<id>6372</id>
+	<word>galaxy</word>
+	<a>星系</a>
+	<b>展览馆</b>
+	<c>赌博</c>
+	<d>体育馆</d>
+</item>
+<item>
+	<id>6374</id>
+	<word>rational</word>
+	<a>合理的</a>
+	<b>情绪的</b>
+	<c>成比例的</c>
+	<d>忧愁的</d>
+</item>
+<item>
+	<id>6377</id>
+	<word>daylight</word>
+	<a>日光</a>
+	<b>光阴</b>
+	<c>光线</c>
+	<d>节日</d>
+</item>
+<item>
+	<id>6380</id>
+	<word>judicial</word>
+	<a>法庭的</a>
+	<b>明智的</b>
+	<c>陪审团</c>
+	<d>清洁工</d>
+</item>
+<item>
+	<id>6382</id>
+	<word>minimal</word>
+	<a>最小的</a>
+	<b>高级的</b>
+	<c>谦虚的</c>
+	<d>相反的</d>
+</item>
+<item>
+	<id>6386</id>
+	<word>polite</word>
+	<a>有礼貌的</a>
+	<b>政治（上）的</b>
+	<c>明智的</c>
+	<d>卷入政治的</d>
+</item>
+<item>
+	<id>6398</id>
+	<word>bound</word>
+	<a>准备去的</a>
+	<b>包装后的</b>
+	<c>离去的</c>
+	<d>放弃的</d>
+</item>
+<item>
+	<id>6398</id>
+	<word>bound</word>
+	<a>跳跃</a>
+	<b>颠簸</b>
+	<c>清除</c>
+	<d>打磨</d>
+</item>
+<item>
+	<id>6399</id>
+	<word>dazzle</word>
+	<a>使倾倒</a>
+	<b>使茫然</b>
+	<c>使惊讶</c>
+	<d>使包围</d>
+</item>
+<item>
+	<id>6399</id>
+	<word>dazzle</word>
+	<a>使目眩</a>
+	<b>使昏厥</b>
+	<c>使气馁</c>
+	<d>使放弃</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

@@ -1,0 +1,3476 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>400</id>
+	<word>care</word>
+	<a>关注</a>
+	<b>观察</b>
+	<c>观测</c>
+	<d>关怀</d>
+</item>
+<item>
+	<id>400</id>
+	<word>care</word>
+	<a>关怀</a>
+	<b>缅怀</b>
+	<c>怀念</c>
+	<d>关注</d>
+</item>
+<item>
+	<id>401</id>
+	<word>cause</word>
+	<a>原因</a>
+	<b>分句</b>
+	<c>成本</c>
+	<d>箱子</d>
+</item>
+<item>
+	<id>401</id>
+	<word>cause</word>
+	<a>理由</a>
+	<b>思维</b>
+	<c>理论</c>
+	<d>逻辑</d>
+</item>
+<item>
+	<id>402</id>
+	<word>former</word>
+	<a>以前的</a>
+	<b>正规的</b>
+	<c>女性的</c>
+	<d>有缺点的</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>光</a>
+	<b>喜欢</b>
+	<c>躺</c>
+	<d>生命</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>灯</a>
+	<b>台灯</b>
+	<c>羔羊</c>
+	<d>石灰</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>交通信号灯</a>
+	<b>街灯</b>
+	<c>闪电</c>
+	<d>减轻</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>车灯</a>
+	<b>烛光</b>
+	<c>月光</c>
+	<d>油灯</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>点火物</a>
+	<b>灯泡</b>
+	<c>燃烧</c>
+	<d>火焰</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>眼神</a>
+	<b>表情</b>
+	<c>阳光</c>
+	<d>光辉</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>天窗</a>
+	<b>电梯</b>
+	<c>阁楼</c>
+	<d>缝隙</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>光线</a>
+	<b>空间</b>
+	<c>路线</c>
+	<d>权利</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>角度</a>
+	<b>想法</b>
+	<c>分歧</c>
+	<d>立场</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>根据</a>
+	<b>除...之外</b>
+	<c>的确</c>
+	<d>由于...的结果</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>披露</a>
+	<b>泄密</b>
+	<c>揭露</c>
+	<d>宣布</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>使容易理解</a>
+	<b>使...简化</b>
+	<c>把...复杂化</c>
+	<d>减轻...负担</d>
+</item>
+<item>
+	<id>403</id>
+	<word>light</word>
+	<a>杰出人物</a>
+	<b>政治家</b>
+	<c>英雄</c>
+	<d>明星</d>
+</item>
+<item>
+	<id>404</id>
+	<word>international</word>
+	<a>国际的</a>
+	<b>国家的</b>
+	<c>本国的</c>
+	<d>外国的</d>
+</item>
+<item>
+	<id>405</id>
+	<word>read</word>
+	<a>阅读</a>
+	<b>书写</b>
+	<c>画画</c>
+	<d>整理</d>
+</item>
+<item>
+	<id>405</id>
+	<word>read</word>
+	<a>得知</a>
+	<b>告诉</b>
+	<c>感受</c>
+	<d>提醒</d>
+</item>
+<item>
+	<id>405</id>
+	<word>read</word>
+	<a>朗读</a>
+	<b>书写</b>
+	<c>叫喊</c>
+	<d>默示</d>
+</item>
+<item>
+	<id>405</id>
+	<word>read</word>
+	<a>读懂</a>
+	<b>略过</b>
+	<c>书写</c>
+	<d>不知</d>
+</item>
+<item>
+	<id>406</id>
+	<word>himself</word>
+	<a>他自己</a>
+	<b>个人</b>
+	<c>目睹</c>
+	<d>亲自地</d>
+</item>
+<item>
+	<id>406</id>
+	<word>himself</word>
+	<a>他本人</a>
+	<b>相互</b>
+	<c>每个人</c>
+	<d>个别人</d>
+</item>
+<item>
+	<id>407</id>
+	<word>test</word>
+	<a>测验</a>
+	<b>文本</b>
+	<c>取笑</c>
+	<d>纸巾</d>
+</item>
+<item>
+	<id>407</id>
+	<word>test</word>
+	<a>检查</a>
+	<b>根据</b>
+	<c>梯田</c>
+	<d>罚款</d>
+</item>
+<item>
+	<id>407</id>
+	<word>test</word>
+	<a>检验</a>
+	<b>分析</b>
+	<c>尝试</c>
+	<d>发展</d>
+</item>
+<item>
+	<id>407</id>
+	<word>test</word>
+	<a>考验</a>
+	<b>认证</b>
+	<c>标榜</c>
+	<d>锤炼</d>
+</item>
+<item>
+	<id>407</id>
+	<word>test</word>
+	<a>试金石</a>
+	<b>磨刀石</b>
+	<c>标记</c>
+	<d>尺度</d>
+</item>
+<item>
+	<id>408</id>
+	<word>picture</word>
+	<a>图画</a>
+	<b>横幅</b>
+	<c>相框</c>
+	<d>海报</d>
+</item>
+<item>
+	<id>408</id>
+	<word>picture</word>
+	<a>局面</a>
+	<b>远景</b>
+	<c>想象</c>
+	<d>空间</d>
+</item>
+<item>
+	<id>408</id>
+	<word>picture</word>
+	<a>描绘</a>
+	<b>记录</b>
+	<c>讲解</c>
+	<d>幻想</d>
+</item>
+<item>
+	<id>408</id>
+	<word>picture</word>
+	<a>画面</a>
+	<b>效果</b>
+	<c>形状</c>
+	<d>表演</d>
+</item>
+<item>
+	<id>409</id>
+	<word>increase</word>
+	<a>增加</a>
+	<b>停止</b>
+	<c>积累</c>
+	<d>挤压</d>
+</item>
+<item>
+	<id>411</id>
+	<word>union</word>
+	<a>工会</a>
+	<b>齐唱</b>
+	<c>洋葱</c>
+	<d>学生会</d>
+</item>
+<item>
+	<id>411</id>
+	<word>union</word>
+	<a>联邦</a>
+	<b>吸收</b>
+	<c>制服</c>
+	<d>单边</d>
+</item>
+<item>
+	<id>412</id>
+	<word>whole</word>
+	<a>全部的</a>
+	<b>彻底的</b>
+	<c>完全的</c>
+	<d>成功的</d>
+</item>
+<item>
+	<id>412</id>
+	<word>whole</word>
+	<a>完整的</a>
+	<b>充实的</b>
+	<c>满意的</c>
+	<d>光荣的</d>
+</item>
+<item>
+	<id>412</id>
+	<word>whole</word>
+	<a>整个</a>
+	<b>总数</b>
+	<c>复杂</c>
+	<d>绝对</d>
+</item>
+<item>
+	<id>413</id>
+	<word>view</word>
+	<a>观点</a>
+	<b>理想</b>
+	<c>博物馆</c>
+	<d>舞台</d>
+</item>
+<item>
+	<id>413</id>
+	<word>view</word>
+	<a>观念</a>
+	<b>复习</b>
+	<c>机会</c>
+	<d>选择</d>
+</item>
+<item>
+	<id>413</id>
+	<word>view</word>
+	<a>风景</a>
+	<b>营养</b>
+	<c>音乐会</c>
+	<d>剧场</d>
+</item>
+<item>
+	<id>413</id>
+	<word>view</word>
+	<a>视野</a>
+	<b>风气</b>
+	<c>录像机</c>
+	<d>音乐</d>
+</item>
+<item>
+	<id>415</id>
+	<word>community</word>
+	<a>社区归属感</a>
+	<b>兼容性</b>
+	<c>满足</c>
+	<d>合成物</d>
+</item>
+<item>
+	<id>415</id>
+	<word>community</word>
+	<a>社区</a>
+	<b>会议</b>
+	<c>解释</c>
+	<d>交流</d>
+</item>
+<item>
+	<id>416</id>
+	<word>information</word>
+	<a>消息</a>
+	<b>变形</b>
+	<c>改革</c>
+	<d>加剧</d>
+</item>
+<item>
+	<id>417</id>
+	<word>die</word>
+	<a>死亡</a>
+	<b>离开</b>
+	<c>消失</c>
+	<d>停止</d>
+</item>
+<item>
+	<id>418</id>
+	<word>real</word>
+	<a>真正的</a>
+	<b>现实的</b>
+	<c>实际的</c>
+	<d>实在的</d>
+</item>
+<item>
+	<id>418</id>
+	<word>real</word>
+	<a>实际存在的</a>
+	<b>想象的</b>
+	<c>虚拟的</c>
+	<d>重复的</d>
+</item>
+<item>
+	<id>418</id>
+	<word>real</word>
+	<a>实际的</a>
+	<b>现实的</b>
+	<c>重复的</c>
+	<d>实在的</d>
+</item>
+<item>
+	<id>419</id>
+	<word>list</word>
+	<a>名单</a>
+	<b>最少</b>
+	<c>抬起</c>
+	<d>唯恐</d>
+</item>
+<item>
+	<id>419</id>
+	<word>list</word>
+	<a>列举</a>
+	<b>提及</b>
+	<c>举例说明</c>
+	<d>解释</d>
+</item>
+<item>
+	<id>420</id>
+	<word>study</word>
+	<a>书房</a>
+	<b>花房</b>
+	<c>厨房</c>
+	<d>卧室</d>
+</item>
+<item>
+	<id>420</id>
+	<word>study</word>
+	<a>学习</a>
+	<b>邮件</b>
+	<c>松鼠</c>
+	<d>单元</d>
+</item>
+<item>
+	<id>420</id>
+	<word>study</word>
+	<a>试画</a>
+	<b>邮电</b>
+	<c>浪费</c>
+	<d>冲动</d>
+</item>
+<item>
+	<id>420</id>
+	<word>study</word>
+	<a>研究</a>
+	<b>行为</b>
+	<c>花费</c>
+	<d>成绩</d>
+</item>
+<item>
+	<id>421</id>
+	<word>remember</word>
+	<a>记得</a>
+	<b>回忆</b>
+	<c>谈起</c>
+	<d>提醒</d>
+</item>
+<item>
+	<id>421</id>
+	<word>remember</word>
+	<a>想起</a>
+	<b>认识</b>
+	<c>了解</c>
+	<d>遗忘</d>
+</item>
+<item>
+	<id>421</id>
+	<word>remember</word>
+	<a>不忘</a>
+	<b>失去</b>
+	<c>记性</c>
+	<d>学会</d>
+</item>
+<item>
+	<id>425</id>
+	<word>story</word>
+	<a>事迹</a>
+	<b>发达</b>
+	<c>微笑</c>
+	<d>行动</d>
+</item>
+<item>
+	<id>425</id>
+	<word>story</word>
+	<a>新闻报道</a>
+	<b>封面</b>
+	<c>直线</c>
+	<d>关系</d>
+</item>
+<item>
+	<id>425</id>
+	<word>story</word>
+	<a>故事</a>
+	<b>结实</b>
+	<c>报摊</c>
+	<d>停留</d>
+</item>
+<item>
+	<id>426</id>
+	<word>involve</word>
+	<a>涉及</a>
+	<b>旋转</b>
+	<c>援引</c>
+	<d>邀请</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>覆盖</a>
+	<b>侵害</b>
+	<c>腐蚀</c>
+	<d>发泄</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>包含</a>
+	<b>分布</b>
+	<c>依附</c>
+	<d>驱散</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>走完（一段路程）</a>
+	<b>拜访</b>
+	<c>扩展</c>
+	<d>组成</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>涉及</a>
+	<b>放弃</b>
+	<c>提供</c>
+	<d>属于</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>处理</a>
+	<b>帮助</b>
+	<c>保护</c>
+	<d>冒犯</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>报道</a>
+	<b>追求</b>
+	<c>解决</c>
+	<d>喜爱</d>
+</item>
+<item>
+	<id>427</id>
+	<word>cover</word>
+	<a>遮盖</a>
+	<b>毁损</b>
+	<c>削减</c>
+	<d>萦绕</d>
+</item>
+<item>
+	<id>428</id>
+	<word>remain</word>
+	<a>依然</a>
+	<b>持久</b>
+	<c>等待</c>
+	<d>回应</d>
+</item>
+<item>
+	<id>430</id>
+	<word>appear</word>
+	<a>看来</a>
+	<b>观察</b>
+	<c>亮相</c>
+	<d>发表</d>
+</item>
+<item>
+	<id>430</id>
+	<word>appear</word>
+	<a>出现</a>
+	<b>发现</b>
+	<c>出发</c>
+	<d>发展</d>
+</item>
+<item>
+	<id>430</id>
+	<word>appear</word>
+	<a>露面</a>
+	<b>惊讶</b>
+	<c>停止</c>
+	<d>活跃</d>
+</item>
+<item>
+	<id>430</id>
+	<word>appear</word>
+	<a>刊登</a>
+	<b>抢夺</b>
+	<c>毕业</c>
+	<d>统一</d>
+</item>
+<item>
+	<id>432</id>
+	<word>sound</word>
+	<a>声音</a>
+	<b>障碍</b>
+	<c>灵魂</c>
+	<d>蜘蛛</d>
+</item>
+<item>
+	<id>432</id>
+	<word>sound</word>
+	<a>声音</a>
+	<b>灵魂</b>
+	<c>铁锹</c>
+	<d>态度</d>
+</item>
+<item>
+	<id>432</id>
+	<word>sound</word>
+	<a>听起来</a>
+	<b>怀疑</b>
+	<c>感冒</c>
+	<d>增加</d>
+</item>
+<item>
+	<id>432</id>
+	<word>sound</word>
+	<a>听起来</a>
+	<b>打扫</b>
+	<c>看上去</c>
+	<d>摸上去</d>
+</item>
+<item>
+	<id>432</id>
+	<word>sound</word>
+	<a>发出响声</a>
+	<b>得到回报</b>
+	<c>发行</c>
+	<d>播出</d>
+</item>
+<item>
+	<id>432</id>
+	<word>sound</word>
+	<a>明智的</a>
+	<b>羡慕的</b>
+	<c>部队的</c>
+	<d>检查的</d>
+</item>
+<item>
+	<id>433</id>
+	<word>sell</word>
+	<a>销售</a>
+	<b>生存</b>
+	<c>生产</c>
+	<d>明确</d>
+</item>
+<item>
+	<id>433</id>
+	<word>sell</word>
+	<a>出售</a>
+	<b>截取</b>
+	<c>借钱</c>
+	<d>掀起</d>
+</item>
+<item>
+	<id>433</id>
+	<word>sell</word>
+	<a>使畅销</a>
+	<b>买完</b>
+	<c>清仓</c>
+	<d>自称</d>
+</item>
+<item>
+	<id>434</id>
+	<word>act</word>
+	<a>行为</a>
+	<b>世纪</b>
+	<c>机制</c>
+	<d>聪明</d>
+</item>
+<item>
+	<id>434</id>
+	<word>act</word>
+	<a>法令</a>
+	<b>口诀</b>
+	<c>密码</c>
+	<d>条款</d>
+</item>
+<item>
+	<id>434</id>
+	<word>act</word>
+	<a>装模作样</a>
+	<b>流光溢彩</b>
+	<c>模范作用</c>
+	<d>领袖魅力</d>
+</item>
+<item>
+	<id>434</id>
+	<word>act</word>
+	<a>一幕</a>
+	<b>舞台</b>
+	<c>布景</c>
+	<d>席位</d>
+</item>
+<item>
+	<id>435</id>
+	<word>father</word>
+	<a>神父</a>
+	<b>先生</b>
+	<c>教会</c>
+	<d>牧师</d>
+</item>
+<item>
+	<id>435</id>
+	<word>father</word>
+	<a>祖先</a>
+	<b>家人</b>
+	<c>命运</c>
+	<d>家族</d>
+</item>
+<item>
+	<id>435</id>
+	<word>father</word>
+	<a>父亲</a>
+	<b>母亲</b>
+	<c>兄弟</c>
+	<d>古人</d>
+</item>
+<item>
+	<id>436</id>
+	<word>mark</word>
+	<a>标示位置</a>
+	<b>同意</b>
+	<c>制作</c>
+	<d>坐标</d>
+</item>
+<item>
+	<id>436</id>
+	<word>mark</word>
+	<a>庆祝</a>
+	<b>关心</b>
+	<c>清洗</c>
+	<d>打扫</d>
+</item>
+<item>
+	<id>436</id>
+	<word>mark</word>
+	<a>留下痕迹</a>
+	<b>弄脏</b>
+	<c>弄坏</c>
+	<d>画画</d>
+</item>
+<item>
+	<id>436</id>
+	<word>mark</word>
+	<a>标志</a>
+	<b>图画</b>
+	<c>计划</c>
+	<d>出租</d>
+</item>
+<item>
+	<id>436</id>
+	<word>mark</word>
+	<a>打分数</a>
+	<b>批改</b>
+	<c>找到</c>
+	<d>查明</d>
+</item>
+<item>
+	<id>437</id>
+	<word>parent</word>
+	<a>父母</a>
+	<b>责任</b>
+	<c>亲人</c>
+	<d>甜点</d>
+</item>
+<item>
+	<id>438</id>
+	<word>perhaps</word>
+	<a>也许</a>
+	<b>因为</b>
+	<c>竟然</c>
+	<d>此外</d>
+</item>
+<item>
+	<id>438</id>
+	<word>perhaps</word>
+	<a>可能</a>
+	<b>甚至</b>
+	<c>肯定</c>
+	<d>然而</d>
+</item>
+<item>
+	<id>439</id>
+	<word>final</word>
+	<a>决定性的</a>
+	<b>空档的</b>
+	<c>虚空的</c>
+	<d>起初的</d>
+</item>
+<item>
+	<id>439</id>
+	<word>final</word>
+	<a>最后的</a>
+	<b>关系的</b>
+	<c>紧密的</c>
+	<d>空白的</d>
+</item>
+<item>
+	<id>439</id>
+	<word>final</word>
+	<a>决定性的</a>
+	<b>空白的</b>
+	<c>决定的</c>
+	<d>信任的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>听得清的</a>
+	<b>模糊</b>
+	<c>迷糊</c>
+	<d>处理</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>清楚的</a>
+	<b>混乱的</b>
+	<c>狡猾的</c>
+	<d>脆的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>无可置疑的</a>
+	<b>值得怀疑的</b>
+	<c>有物证的</c>
+	<d>针锋相对的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>确定的</a>
+	<b>怀疑的</b>
+	<c>有错的</c>
+	<d>假冒的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>透明的</a>
+	<b>透风的</b>
+	<c>渗透的</c>
+	<d>逐步的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>清澈的</a>
+	<b>直接的</b>
+	<c>尖锐的</c>
+	<d>清凉的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>明亮的</a>
+	<b>坦白的</b>
+	<c>宽敞的</c>
+	<d>详细的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>光洁的</a>
+	<b>整齐的</b>
+	<c>深切的</c>
+	<d>模糊的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>易看清的</a>
+	<b>容易的</b>
+	<c>狡辩的</c>
+	<d>捉摸不定的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>净得的</a>
+	<b>额外的</b>
+	<c>平均的</c>
+	<d>税前的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>无阻碍的</a>
+	<b>有风险的</b>
+	<c>暴露的</c>
+	<d>堵塞的</d>
+</item>
+<item>
+	<id>441</id>
+	<word>clear</word>
+	<a>空闲的</a>
+	<b>闲置不用的</b>
+	<c>懒惰的</c>
+	<d>视觉的</d>
+</item>
+<item>
+	<id>442</id>
+	<word>learn</word>
+	<a>学习</a>
+	<b>倾斜</b>
+	<c>跳跃</c>
+	<d>离开</d>
+</item>
+<item>
+	<id>442</id>
+	<word>learn</word>
+	<a>获悉</a>
+	<b>理解</b>
+	<c>获得</c>
+	<d>研究</d>
+</item>
+<item>
+	<id>442</id>
+	<word>learn</word>
+	<a>熟记</a>
+	<b>提醒</b>
+	<c>回忆</c>
+	<d>死记</d>
+</item>
+<item>
+	<id>443</id>
+	<word>moment</word>
+	<a>某一时刻</a>
+	<b>时间</b>
+	<c>历史</c>
+	<d>时期</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>拿</a>
+	<b>走</b>
+	<c>跑</c>
+	<d>握</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>运送</a>
+	<b>运输</b>
+	<c>运动</c>
+	<d>运算</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>输送</a>
+	<b>挨饿</b>
+	<c>流产</c>
+	<d>雕刻</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>传播</a>
+	<b>传递</b>
+	<c>传达</c>
+	<d>传染</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>携带</a>
+	<b>排列</b>
+	<c>带领</c>
+	<d>代理</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>备有[货物]供销售</a>
+	<b>备有衣物供选购</b>
+	<c>备有医院供使用</c>
+	<d>备有专机接送</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>支撑</a>
+	<b>资助</b>
+	<c>制裁</c>
+	<d>制定</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>怀[胎]</a>
+	<b>怀疑</b>
+	<c>叫喊</c>
+	<d>雕刻</d>
+</item>
+<item>
+	<id>444</id>
+	<word>carry</word>
+	<a>报道</a>
+	<b>登陆</b>
+	<c>驯服</c>
+	<d>紧握</d>
+</item>
+<item>
+	<id>445</id>
+	<word>air</word>
+	<a>空气</a>
+	<b>食物</b>
+	<c>中心</c>
+	<d>气球</d>
+</item>
+<item>
+	<id>445</id>
+	<word>air</word>
+	<a>空中</a>
+	<b>处罚</b>
+	<c>学生</c>
+	<d>广告</d>
+</item>
+<item>
+	<id>445</id>
+	<word>air</word>
+	<a>飞行</a>
+	<b>课文</b>
+	<c>网球</c>
+	<d>湿度</d>
+</item>
+<item>
+	<id>445</id>
+	<word>air</word>
+	<a>神态</a>
+	<b>地球</b>
+	<c>边缘</c>
+	<d>鸡蛋</d>
+</item>
+<item>
+	<id>447</id>
+	<word>attack</word>
+	<a>打斗</a>
+	<b>先驱</b>
+	<c>抨击</c>
+	<d>堆积</d>
+</item>
+<item>
+	<id>447</id>
+	<word>attack</word>
+	<a>进攻</a>
+	<b>体积</b>
+	<c>发行</c>
+	<d>广播</d>
+</item>
+<item>
+	<id>447</id>
+	<word>attack</word>
+	<a>非难</a>
+	<b>总统</b>
+	<c>准备</c>
+	<d>优惠</d>
+</item>
+<item>
+	<id>447</id>
+	<word>attack</word>
+	<a>处理</a>
+	<b>火化</b>
+	<c>源泉</c>
+	<d>声音</d>
+</item>
+<item>
+	<id>447</id>
+	<word>attack</word>
+	<a>突然发作</a>
+	<b>猛然跳起</b>
+	<c>猛烈抨击</c>
+	<d>积极进攻</d>
+</item>
+<item>
+	<id>447</id>
+	<word>attack</word>
+	<a>进攻（体育）</a>
+	<b>防守（体育）</b>
+	<c>后卫（体育）</c>
+	<d>前锋（体育）</d>
+</item>
+<item>
+	<id>448</id>
+	<word>reason</word>
+	<a>理由</a>
+	<b>救赎</b>
+	<c>叛国</c>
+	<d>契约</d>
+</item>
+<item>
+	<id>448</id>
+	<word>reason</word>
+	<a>理由</a>
+	<b>事实</b>
+	<c>真相</c>
+	<d>真理</d>
+</item>
+<item>
+	<id>448</id>
+	<word>reason</word>
+	<a>道理</a>
+	<b>感情</b>
+	<c>情商</c>
+	<d>冷静</d>
+</item>
+<item>
+	<id>449</id>
+	<word>law</word>
+	<a>法律</a>
+	<b>首饰</b>
+	<c>衣橱</c>
+	<d>床垫</d>
+</item>
+<item>
+	<id>449</id>
+	<word>law</word>
+	<a>法令</a>
+	<b>规划</b>
+	<c>裙子</c>
+	<d>绳索</d>
+</item>
+<item>
+	<id>450</id>
+	<word>third</word>
+	<a>第三</a>
+	<b>十三</b>
+	<c>三十</c>
+	<d>渴望</d>
+</item>
+<item>
+	<id>451</id>
+	<word>visit</word>
+	<a>参观</a>
+	<b>检查</b>
+	<c>冒险</c>
+	<d>观看</d>
+</item>
+<item>
+	<id>451</id>
+	<word>visit</word>
+	<a>就诊</a>
+	<b>检查</b>
+	<c>考验</c>
+	<d>分析</d>
+</item>
+<item>
+	<id>451</id>
+	<word>visit</word>
+	<a>视察</a>
+	<b>跟踪</b>
+	<c>确信</c>
+	<d>理解</d>
+</item>
+<item>
+	<id>453</id>
+	<word>health</word>
+	<a>健康</a>
+	<b>疗效</b>
+	<c>热量</c>
+	<d>标题</d>
+</item>
+<item>
+	<id>453</id>
+	<word>health</word>
+	<a>健康</a>
+	<b>事件</b>
+	<c>土地</c>
+	<d>真相</d>
+</item>
+<item>
+	<id>454</id>
+	<word>official</word>
+	<a>官员</a>
+	<b>小偷</b>
+	<c>反叛者</c>
+	<d>侍卫</d>
+</item>
+<item>
+	<id>454</id>
+	<word>official</word>
+	<a>官方的</a>
+	<b>礼貌的</b>
+	<c>杰出的</c>
+	<d>胜利的</d>
+</item>
+<item>
+	<id>454</id>
+	<word>official</word>
+	<a>公职的</a>
+	<b>真正的</b>
+	<c>精神上的</c>
+	<d>主动的</d>
+</item>
+<item>
+	<id>456</id>
+	<word>watch</word>
+	<a>观看</a>
+	<b>清洗</b>
+	<c>愿望</c>
+	<d>比赛</d>
+</item>
+<item>
+	<id>456</id>
+	<word>watch</word>
+	<a>当心</a>
+	<b>用心</b>
+	<c>利用</c>
+	<d>警惕</d>
+</item>
+<item>
+	<id>456</id>
+	<word>watch</word>
+	<a>照顾</a>
+	<b>处理</b>
+	<c>替补</c>
+	<d>关心</d>
+</item>
+<item>
+	<id>456</id>
+	<word>watch</word>
+	<a>监视</a>
+	<b>视察</b>
+	<c>接触</c>
+	<d>观察</d>
+</item>
+<item>
+	<id>457</id>
+	<word>film</word>
+	<a>电影制作</a>
+	<b>电影院</b>
+	<c>电影广告</c>
+	<d>影视欣赏</d>
+</item>
+<item>
+	<id>457</id>
+	<word>film</word>
+	<a>电影</a>
+	<b>空档</b>
+	<c>书籍</c>
+	<d>文档</d>
+</item>
+<item>
+	<id>459</id>
+	<word>stay</word>
+	<a>停留</a>
+	<b>放弃</b>
+	<c>努力</c>
+	<d>浪费</d>
+</item>
+<item>
+	<id>459</id>
+	<word>stay</word>
+	<a>保持</a>
+	<b>重新</b>
+	<c>暂停</c>
+	<d>冲刷</d>
+</item>
+<item>
+	<id>459</id>
+	<word>stay</word>
+	<a>留宿</a>
+	<b>回头</b>
+	<c>游说</c>
+	<d>必须</d>
+</item>
+<item>
+	<id>460</id>
+	<word>front</word>
+	<a>前边</a>
+	<b>部分</b>
+	<c>边侧</c>
+	<d>后面</d>
+</item>
+<item>
+	<id>460</id>
+	<word>front</word>
+	<a>正面</a>
+	<b>后边</b>
+	<c>反面</c>
+	<d>里面</d>
+</item>
+<item>
+	<id>460</id>
+	<word>front</word>
+	<a>正面（建筑）</a>
+	<b>蓝图</b>
+	<c>图纸</c>
+	<d>方案</d>
+</item>
+<item>
+	<id>460</id>
+	<word>front</word>
+	<a>锋（天气术语）</a>
+	<b>云团</b>
+	<c>天气</c>
+	<d>气流</d>
+</item>
+<item>
+	<id>460</id>
+	<word>front</word>
+	<a>前面</a>
+	<b>管理</b>
+	<c>组织</c>
+	<d>部分</d>
+</item>
+<item>
+	<id>462</id>
+	<word>decide</word>
+	<a>决定</a>
+	<b>腐烂</b>
+	<c>分开</c>
+	<d>欺骗</d>
+</item>
+<item>
+	<id>462</id>
+	<word>decide</word>
+	<a>使决定</a>
+	<b>使下降</b>
+	<c>使缺损</c>
+	<d>使出错</d>
+</item>
+<item>
+	<id>463</id>
+	<word>available</word>
+	<a>可获得的</a>
+	<b>易弯曲的</b>
+	<c>有希望的</c>
+	<d>难进入的</d>
+</item>
+<item>
+	<id>464</id>
+	<word>consider</word>
+	<a>认为</a>
+	<b>评价</b>
+	<c>接近</c>
+	<d>调制</d>
+</item>
+<item>
+	<id>464</id>
+	<word>consider</word>
+	<a>仔细考虑</a>
+	<b>相信</b>
+	<c>尊重</c>
+	<d>反映</d>
+</item>
+<item>
+	<id>464</id>
+	<word>consider</word>
+	<a>考虑</a>
+	<b>承认</b>
+	<c>保存</c>
+	<d>关注</d>
+</item>
+<item>
+	<id>465</id>
+	<word>letter</word>
+	<a>书信</a>
+	<b>梯子</b>
+	<c>演讲</c>
+	<d>废弃物</d>
+</item>
+<item>
+	<id>465</id>
+	<word>letter</word>
+	<a>字母</a>
+	<b>单词</b>
+	<c>字母表</c>
+	<d>大写 字母</d>
+</item>
+<item>
+	<id>465</id>
+	<word>letter</word>
+	<a>严格按照文字</a>
+	<b>原则上</b>
+	<c>字里行间</c>
+	<d>逐句地</d>
+</item>
+<item>
+	<id>466</id>
+	<word>special</word>
+	<a>特殊的</a>
+	<b>前沿的</b>
+	<c>犹豫的</c>
+	<d>果断的</d>
+</item>
+<item>
+	<id>466</id>
+	<word>special</word>
+	<a>特别亲密的</a>
+	<b>过分的</b>
+	<c>多余的</c>
+	<d>补充的</d>
+</item>
+<item>
+	<id>468</id>
+	<word>news</word>
+	<a>消息</a>
+	<b>报纸</b>
+	<c>杂志</c>
+	<d>事件</d>
+</item>
+<item>
+	<id>470</id>
+	<word>food</word>
+	<a>食物</a>
+	<b>帮助</b>
+	<c>原料</c>
+	<d>工程</d>
+</item>
+<item>
+	<id>471</id>
+	<word>large</word>
+	<a>巨大的</a>
+	<b>火热的</b>
+	<c>沸腾的</c>
+	<d>勇敢的</d>
+</item>
+<item>
+	<id>472</id>
+	<word>matter</word>
+	<a>事情</a>
+	<b>问题</b>
+	<c>状况</c>
+	<d>细节</d>
+</item>
+<item>
+	<id>472</id>
+	<word>matter</word>
+	<a>事态</a>
+	<b>问题</b>
+	<c>关系</c>
+	<d>理念</d>
+</item>
+<item>
+	<id>472</id>
+	<word>matter</word>
+	<a>问题</a>
+	<b>情况</b>
+	<c>外交</c>
+	<d>果实</d>
+</item>
+<item>
+	<id>472</id>
+	<word>matter</word>
+	<a>无论</a>
+	<b>虽然</b>
+	<c>但是</c>
+	<d>关系</d>
+</item>
+<item>
+	<id>473</id>
+	<word>death</word>
+	<a>死亡</a>
+	<b>缺乏</b>
+	<c>欠债</c>
+	<d>敲打</d>
+</item>
+<item>
+	<id>473</id>
+	<word>death</word>
+	<a>死亡的事例</a>
+	<b>最高峰</b>
+	<c>泄漏</c>
+	<d>成员</d>
+</item>
+<item>
+	<id>473</id>
+	<word>death</word>
+	<a>死神</a>
+	<b>月神</b>
+	<c>撒旦</c>
+	<d>天使</d>
+</item>
+<item>
+	<id>474</id>
+	<word>receive</word>
+	<a>收到</a>
+	<b>收获</b>
+	<c>回收</c>
+	<d>验收</d>
+</item>
+<item>
+	<id>474</id>
+	<word>receive</word>
+	<a>接到</a>
+	<b>截获</b>
+	<c>感应</c>
+	<d>感觉</d>
+</item>
+<item>
+	<id>475</id>
+	<word>build</word>
+	<a>建筑</a>
+	<b>拆迁</b>
+	<c>打乱</c>
+	<d>监督</d>
+</item>
+<item>
+	<id>475</id>
+	<word>build</word>
+	<a>建立</a>
+	<b>捣乱</b>
+	<c>打乱</c>
+	<d>监理</d>
+</item>
+<item>
+	<id>476</id>
+	<word>match</word>
+	<a>比赛</a>
+	<b>活动</b>
+	<c>会议</c>
+	<d>项目</d>
+</item>
+<item>
+	<id>476</id>
+	<word>match</word>
+	<a>相配之物</a>
+	<b>行军</b>
+	<c>三月</c>
+	<d>试验</d>
+</item>
+<item>
+	<id>476</id>
+	<word>match</word>
+	<a>匹配</a>
+	<b>补充</b>
+	<c>装饰</c>
+	<d>头饰</d>
+</item>
+<item>
+	<id>476</id>
+	<word>match</word>
+	<a>与……相配</a>
+	<b>调整</b>
+	<c>计划</c>
+	<d>照顾</d>
+</item>
+<item>
+	<id>476</id>
+	<word>match</word>
+	<a>火柴</a>
+	<b>干柴</b>
+	<c>树木</c>
+	<d>树枝</d>
+</item>
+<item>
+	<id>478</id>
+	<word>everything</word>
+	<a>每件事情</a>
+	<b>任何事情</b>
+	<c>没有事情</c>
+	<d>某些事情</d>
+</item>
+<item>
+	<id>479</id>
+	<word>concern</word>
+	<a>关心</a>
+	<b>打搅</b>
+	<c>调节</c>
+	<d>刺激</d>
+</item>
+<item>
+	<id>479</id>
+	<word>concern</word>
+	<a>忧虑</a>
+	<b>信心</b>
+	<c>意识</c>
+	<d>良心</d>
+</item>
+<item>
+	<id>479</id>
+	<word>concern</word>
+	<a>关切的事</a>
+	<b>祝贺</b>
+	<c>受伤</c>
+	<d>界限</d>
+</item>
+<item>
+	<id>480</id>
+	<word>further</word>
+	<a>更远</a>
+	<b>快速</b>
+	<c>极其</c>
+	<d>甚至</d>
+</item>
+<item>
+	<id>480</id>
+	<word>further</word>
+	<a>时间上更远</a>
+	<b>更快</b>
+	<c>降下</c>
+	<d>前方</d>
+</item>
+<item>
+	<id>480</id>
+	<word>further</word>
+	<a>更多地</a>
+	<b>羽毛</b>
+	<c>毛皮</c>
+	<d>更大地</d>
+</item>
+<item>
+	<id>482</id>
+	<word>season</word>
+	<a>季节</a>
+	<b>气候</b>
+	<c>周期</c>
+	<d>节日</d>
+</item>
+<item>
+	<id>482</id>
+	<word>season</word>
+	<a>季节</a>
+	<b>生机</b>
+	<c>经历</c>
+	<d>搬迁</d>
+</item>
+<item>
+	<id>482</id>
+	<word>season</word>
+	<a>时装节</a>
+	<b>风景</b>
+	<c>殿堂</c>
+	<d>电台</d>
+</item>
+<item>
+	<id>483</id>
+	<word>several</word>
+	<a>数个</a>
+	<b>七</b>
+	<c>一对</c>
+	<d>一打</d>
+</item>
+<item>
+	<id>484</id>
+	<word>behind</word>
+	<a>在...后面</a>
+	<b>在...上面</b>
+	<c>在...下面</c>
+	<d>在...里面</d>
+</item>
+<item>
+	<id>484</id>
+	<word>behind</word>
+	<a>落后</a>
+	<b>隐藏</b>
+	<c>欺骗</c>
+	<d>相信</d>
+</item>
+<item>
+	<id>484</id>
+	<word>behind</word>
+	<a>支持</a>
+	<b>投资</b>
+	<c>祝福</c>
+	<d>表现</d>
+</item>
+<item>
+	<id>484</id>
+	<word>behind</word>
+	<a>对...负责</a>
+	<b>对...有影响</b>
+	<c>欠...人情</c>
+	<d>欠...钱</d>
+</item>
+<item>
+	<id>485</id>
+	<word>example</word>
+	<a>例子</a>
+	<b>例外</b>
+	<c>证明</c>
+	<d>标明</d>
+</item>
+<item>
+	<id>485</id>
+	<word>example</word>
+	<a>榜样</a>
+	<b>样子</b>
+	<c>免除</c>
+	<d>考试</d>
+</item>
+<item>
+	<id>486</id>
+	<word>social</word>
+	<a>社会的</a>
+	<b>组织的</b>
+	<c>公众的</c>
+	<d>立体的</d>
+</item>
+<item>
+	<id>486</id>
+	<word>social</word>
+	<a>社会的</a>
+	<b>祖国的</b>
+	<c>人民的</c>
+	<d>社会</d>
+</item>
+<item>
+	<id>487</id>
+	<word>sense</word>
+	<a>感觉</a>
+	<b>情景</b>
+	<c>炫耀</c>
+	<d>闪光</d>
+</item>
+<item>
+	<id>487</id>
+	<word>sense</word>
+	<a>判断力</a>
+	<b>亲和力</b>
+	<c>阅历</c>
+	<d>明智</d>
+</item>
+<item>
+	<id>487</id>
+	<word>sense</word>
+	<a>感官</a>
+	<b>眉目</b>
+	<c>金融</c>
+	<d>刺激</d>
+</item>
+<item>
+	<id>488</id>
+	<word>society</word>
+	<a>某类社会</a>
+	<b>等级社会</b>
+	<c>封建社会</c>
+	<d>阶级社会</d>
+</item>
+<item>
+	<id>488</id>
+	<word>society</word>
+	<a>社会</a>
+	<b>花园</b>
+	<c>家居</c>
+	<d>团伙</d>
+</item>
+<item>
+	<id>490</id>
+	<word>possible</word>
+	<a>可能做成的</a>
+	<b>可想象的</b>
+	<c>似是而非的</c>
+	<d>实际的</d>
+</item>
+<item>
+	<id>492</id>
+	<word>sign</word>
+	<a>迹象</a>
+	<b>破鞋</b>
+	<c>信号</c>
+	<d>阶级</d>
+</item>
+<item>
+	<id>492</id>
+	<word>sign</word>
+	<a>信号</a>
+	<b>信息</b>
+	<c>暗示</c>
+	<d>阶段</d>
+</item>
+<item>
+	<id>492</id>
+	<word>sign</word>
+	<a>标志</a>
+	<b>标准</b>
+	<c>情节</c>
+	<d>协定</d>
+</item>
+<item>
+	<id>492</id>
+	<word>sign</word>
+	<a>符号</a>
+	<b>图腾</b>
+	<c>伤疤</c>
+	<d>口袋</d>
+</item>
+<item>
+	<id>492</id>
+	<word>sign</word>
+	<a>星座</a>
+	<b>结局</b>
+	<c>协定</c>
+	<d>信息</d>
+</item>
+<item>
+	<id>493</id>
+	<word>economic</word>
+	<a>经济的</a>
+	<b>有意义的</b>
+	<c>每年的</c>
+	<d>难以置信的</d>
+</item>
+<item>
+	<id>494</id>
+	<word>seven</word>
+	<a>七</a>
+	<b>八</b>
+	<c>九</c>
+	<d>六</d>
+</item>
+<item>
+	<id>495</id>
+	<word>east</word>
+	<a>东方</a>
+	<b>西方</b>
+	<c>南方</c>
+	<d>北方</d>
+</item>
+<item>
+	<id>496</id>
+	<word>action</word>
+	<a>行动</a>
+	<b>焦虑</b>
+	<c>假装</c>
+	<d>反应</d>
+</item>
+<item>
+	<id>496</id>
+	<word>action</word>
+	<a>行为</a>
+	<b>瞬间</b>
+	<c>道德</c>
+	<d>使命</d>
+</item>
+<item>
+	<id>496</id>
+	<word>action</word>
+	<a>诉讼</a>
+	<b>条款</b>
+	<c>问题</c>
+	<d>存活</d>
+</item>
+<item>
+	<id>496</id>
+	<word>action</word>
+	<a>战斗</a>
+	<b>收集</b>
+	<c>训练</c>
+	<d>反应</d>
+</item>
+<item>
+	<id>496</id>
+	<word>action</word>
+	<a>活动</a>
+	<b>奇迹</b>
+	<c>力量</c>
+	<d>方法</d>
+</item>
+<item>
+	<id>500</id>
+	<word>among</word>
+	<a>在...当中</a>
+	<b>在...两边</b>
+	<c>在...外面</c>
+	<d>在...过后</d>
+</item>
+<item>
+	<id>500</id>
+	<word>among</word>
+	<a>在人群中间</a>
+	<b>被人群包围</b>
+	<c>在大雨之中</c>
+	<d>在楼梯之上</d>
+</item>
+<item>
+	<id>500</id>
+	<word>among</word>
+	<a>穿过</a>
+	<b>离去</b>
+	<c>进入</c>
+	<d>闯入</d>
+</item>
+<item>
+	<id>502</id>
+	<word>policy</word>
+	<a>政策</a>
+	<b>礼貌</b>
+	<c>党派</c>
+	<d>选举</d>
+</item>
+<item>
+	<id>503</id>
+	<word>decision</word>
+	<a>决定</a>
+	<b>小数</b>
+	<c>装饰</c>
+	<d>降低</d>
+</item>
+<item>
+	<id>504</id>
+	<word>thank</word>
+	<a>感谢</a>
+	<b>思考</b>
+	<c>比</c>
+	<d>瘦的</d>
+</item>
+<item>
+	<id>505</id>
+	<word>else</word>
+	<a>另外</a>
+	<b>额外</b>
+	<c>外加</c>
+	<d>补充</d>
+</item>
+<item>
+	<id>506</id>
+	<word>design</word>
+	<a>设计</a>
+	<b>退休</b>
+	<c>安置</c>
+	<d>图案</d>
+</item>
+<item>
+	<id>506</id>
+	<word>design</word>
+	<a>图样</a>
+	<b>花边</b>
+	<c>安排</c>
+	<d>安置</d>
+</item>
+<item>
+	<id>506</id>
+	<word>design</word>
+	<a>图形安排</a>
+	<b>图画</b>
+	<c>风景</c>
+	<d>安置</d>
+</item>
+<item>
+	<id>507</id>
+	<word>trade</word>
+	<a>贸易</a>
+	<b>轨迹</b>
+	<c>旅行</c>
+	<d>交通</d>
+</item>
+<item>
+	<id>507</id>
+	<word>trade</word>
+	<a>交易</a>
+	<b>股份</b>
+	<c>出售</c>
+	<d>交换</d>
+</item>
+<item>
+	<id>507</id>
+	<word>trade</word>
+	<a>行业</a>
+	<b>专业</b>
+	<c>小径</c>
+	<d>陷阱</d>
+</item>
+<item>
+	<id>508</id>
+	<word>kill</word>
+	<a>杀死</a>
+	<b>结束</b>
+	<c>破坏</c>
+	<d>牺牲</d>
+</item>
+<item>
+	<id>508</id>
+	<word>kill</word>
+	<a>使停止</a>
+	<b>转移</b>
+	<c>阻挡</c>
+	<d>阻碍</d>
+</item>
+<item>
+	<id>508</id>
+	<word>kill</word>
+	<a>对［某人］大发雷霆</a>
+	<b>敷衍</b>
+	<c>打发</c>
+	<d>使失败</d>
+</item>
+<item>
+	<id>508</id>
+	<word>kill</word>
+	<a>使极度疲倦［难过等］</a>
+	<b>打发</b>
+	<c>使停止</c>
+	<d>使生气</d>
+</item>
+<item>
+	<id>509</id>
+	<word>please</word>
+	<a>请</a>
+	<b>对不起</b>
+	<c>不然</c>
+	<d>唉</d>
+</item>
+<item>
+	<id>509</id>
+	<word>please</word>
+	<a>好吗</a>
+	<b>可以</b>
+	<c>不必</c>
+	<d>麻烦</d>
+</item>
+<item>
+	<id>510</id>
+	<word>along</word>
+	<a>向前</a>
+	<b>独自</b>
+	<c>向后</c>
+	<d>一起</d>
+</item>
+<item>
+	<id>510</id>
+	<word>along</word>
+	<a>沿着</a>
+	<b>接近</b>
+	<c>倒退</c>
+	<d>居后</d>
+</item>
+<item>
+	<id>511</id>
+	<word>development</word>
+	<a>发展</a>
+	<b>发现</b>
+	<c>变化</c>
+	<d>出发</d>
+</item>
+<item>
+	<id>512</id>
+	<word>rise</word>
+	<a>增长</a>
+	<b>使升高</b>
+	<c>纠正</c>
+	<d>评价</d>
+</item>
+<item>
+	<id>512</id>
+	<word>rise</word>
+	<a>上升</a>
+	<b>前进</b>
+	<c>发展</c>
+	<d>提高</d>
+</item>
+<item>
+	<id>512</id>
+	<word>rise</word>
+	<a>发迹</a>
+	<b>成功</b>
+	<c>培养</c>
+	<d>锻炼</d>
+</item>
+<item>
+	<id>512</id>
+	<word>rise</word>
+	<a>(声音) 变响</a>
+	<b>鸣响</b>
+	<c>回响</c>
+	<d>听起来</d>
+</item>
+<item>
+	<id>512</id>
+	<word>rise</word>
+	<a>变得激烈</a>
+	<b>变得严重</b>
+	<c>变得模糊</c>
+	<d>变得成熟</d>
+</item>
+<item>
+	<id>512</id>
+	<word>rise</word>
+	<a>耸立</a>
+	<b>发射</b>
+	<c>进攻</c>
+	<d>证实</d>
+</item>
+<item>
+	<id>513</id>
+	<word>understand</word>
+	<a>理解</a>
+	<b>开始</b>
+	<c>破坏</c>
+	<d>坐下</d>
+</item>
+<item>
+	<id>515</id>
+	<word>reach</word>
+	<a>到达</a>
+	<b>离开</b>
+	<c>返回</c>
+	<d>得到</d>
+</item>
+<item>
+	<id>515</id>
+	<word>reach</word>
+	<a>拿</a>
+	<b>闻</b>
+	<c>看</c>
+	<d>踢</d>
+</item>
+<item>
+	<id>515</id>
+	<word>reach</word>
+	<a>达到</a>
+	<b>离开</b>
+	<c>渴望</c>
+	<d>返回</d>
+</item>
+<item>
+	<id>515</id>
+	<word>reach</word>
+	<a>实现</a>
+	<b>渴望</b>
+	<c>离开</c>
+	<d>返回</d>
+</item>
+<item>
+	<id>517</id>
+	<word>short</word>
+	<a>矮的</a>
+	<b>胖的</b>
+	<c>瘦的</c>
+	<d>长的</d>
+</item>
+<item>
+	<id>517</id>
+	<word>short</word>
+	<a>短暂的</a>
+	<b>短小的</b>
+	<c>矮小的</c>
+	<d>停止的</d>
+</item>
+<item>
+	<id>517</id>
+	<word>short</word>
+	<a>短的</a>
+	<b>圆的</b>
+	<c>方的</c>
+	<d>亮的</d>
+</item>
+<item>
+	<id>518</id>
+	<word>future</word>
+	<a>将来时的</a>
+	<b>过去时的</b>
+	<c>现在时的</c>
+	<d>进行时的</d>
+</item>
+<item>
+	<id>518</id>
+	<word>future</word>
+	<a>将来的</a>
+	<b>从前的</b>
+	<c>必要的</c>
+	<d>理解的</d>
+</item>
+<item>
+	<id>519</id>
+	<word>detail</word>
+	<a>细节</a>
+	<b>文件</b>
+	<c>裁缝</c>
+	<d>零售</d>
+</item>
+<item>
+	<id>521</id>
+	<word>park</word>
+	<a>庭园</a>
+	<b>地下室</b>
+	<c>车站</c>
+	<d>谈判</d>
+</item>
+<item>
+	<id>521</id>
+	<word>park</word>
+	<a>棒球场</a>
+	<b>会谈</b>
+	<c>站点</c>
+	<d>页面</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>越过</a>
+	<b>打击</b>
+	<c>分开</c>
+	<d>经历</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>穿过</a>
+	<b>游行</b>
+	<c>旅游</c>
+	<d>干扰</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>经过</a>
+	<b>流动</b>
+	<c>追踪</c>
+	<d>调节</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>（时间）流逝</a>
+	<b>消失</b>
+	<c>远行</c>
+	<d>放弃</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>度过</a>
+	<b>完成</b>
+	<c>弥补</c>
+	<d>超出</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>通过考试</a>
+	<b>解决问题</b>
+	<c>度过</c>
+	<d>认识</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>让（某人）通过考试</a>
+	<b>排除</b>
+	<c>加入</c>
+	<d>研究</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>通过(法律,提案)</a>
+	<b>提议</b>
+	<c>理解</c>
+	<d>完成任务</d>
+</item>
+<item>
+	<id>522</id>
+	<word>pass</word>
+	<a>传递</a>
+	<b>了解</b>
+	<c>帮助</c>
+	<d>跨越</d>
+</item>
+<item>
+	<id>523</id>
+	<word>stage</word>
+	<a>时期</a>
+	<b>方向</b>
+	<c>提问</c>
+	<d>解释</d>
+</item>
+<item>
+	<id>523</id>
+	<word>stage</word>
+	<a>舞台</a>
+	<b>表演</b>
+	<c>时装</c>
+	<d>反馈</d>
+</item>
+<item>
+	<id>524</id>
+	<word>fire</word>
+	<a>火灾</a>
+	<b>水灾</b>
+	<c>地震</c>
+	<d>灾害</d>
+</item>
+<item>
+	<id>524</id>
+	<word>fire</word>
+	<a>灶火</a>
+	<b>燃气</b>
+	<c>控制</c>
+	<d>顶撞</d>
+</item>
+<item>
+	<id>524</id>
+	<word>fire</word>
+	<a>炮火</a>
+	<b>灶头</b>
+	<c>武器</c>
+	<d>枪弹</d>
+</item>
+<item>
+	<id>524</id>
+	<word>fire</word>
+	<a>暖气</a>
+	<b>炉子</b>
+	<c>温度</c>
+	<d>设备</d>
+</item>
+<item>
+	<id>524</id>
+	<word>fire</word>
+	<a>火</a>
+	<b>行星</b>
+	<c>热情</c>
+	<d>气体</d>
+</item>
+<item>
+	<id>526</id>
+	<word>bill</word>
+	<a>帐单</a>
+	<b>支票</b>
+	<c>信用卡</c>
+	<d>现金</d>
+</item>
+<item>
+	<id>526</id>
+	<word>bill</word>
+	<a>议案</a>
+	<b>舞会</b>
+	<c>珠子</c>
+	<d>休息</d>
+</item>
+<item>
+	<id>526</id>
+	<word>bill</word>
+	<a>纸币</a>
+	<b>硬币</b>
+	<c>现金</c>
+	<d>信用证</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>打或击</a>
+	<b>躲藏</b>
+	<c>暗示</c>
+	<d>跳跃</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>撞击</a>
+	<b>设计</b>
+	<c>影响</c>
+	<d>反射</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>使(身体某部位)撞(碰)着</a>
+	<b>使感兴趣</b>
+	<c>使发泄</c>
+	<d>使意识到</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>用(球拍等)击打球</a>
+	<b>发射</b>
+	<c>泄露</c>
+	<d>扑灭</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>击球得分</a>
+	<b>发球</b>
+	<c>滑坡</c>
+	<d>倾斜</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>按或摁</a>
+	<b>印刷</b>
+	<c>控制</c>
+	<d>掌握</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>打(伤)</a>
+	<b>射击</b>
+	<c>透支</c>
+	<d>贷款</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>击伤或击毁</a>
+	<b>变形</b>
+	<c>检查</c>
+	<d>意识到</d>
+</item>
+<item>
+	<id>527</id>
+	<word>hit</word>
+	<a>袭击</a>
+	<b>颁布</b>
+	<c>实施</c>
+	<d>惩罚</d>
+</item>
+<item>
+	<id>530</id>
+	<word>across</word>
+	<a>穿过</a>
+	<b>靠近</b>
+	<c>挤出</c>
+	<d>挨着</d>
+</item>
+<item>
+	<id>530</id>
+	<word>across</word>
+	<a>从一边到另一边</a>
+	<b>从南到北</b>
+	<c>从头到脚</c>
+	<d>从中间到两边</d>
+</item>
+<item>
+	<id>530</id>
+	<word>across</word>
+	<a>在对面</a>
+	<b>在东面</b>
+	<c>在墙角</c>
+	<d>在马上</d>
+</item>
+<item>
+	<id>532</id>
+	<word>university</word>
+	<a>大学</a>
+	<b>宇宙</b>
+	<c>对话</c>
+	<d>单位</d>
+</item>
+<item>
+	<id>534</id>
+	<word>chance</word>
+	<a>机会</a>
+	<b>机智</b>
+	<c>机器</c>
+	<d>机车</d>
+</item>
+<item>
+	<id>534</id>
+	<word>chance</word>
+	<a>成功的机率</a>
+	<b>提升</b>
+	<c>提起</c>
+	<d>提货</d>
+</item>
+<item>
+	<id>534</id>
+	<word>chance</word>
+	<a>有利时机</a>
+	<b>飞机</b>
+	<c>机舱</c>
+	<d>鸡蛋</d>
+</item>
+<item>
+	<id>534</id>
+	<word>chance</word>
+	<a>冒险</a>
+	<b>冒烟</b>
+	<c>感冒</c>
+	<d>帽子</d>
+</item>
+<item>
+	<id>535</id>
+	<word>effect</word>
+	<a>效果</a>
+	<b>意义</b>
+	<c>重要性</c>
+	<d>损害</d>
+</item>
+<item>
+	<id>535</id>
+	<word>effect</word>
+	<a>感受</a>
+	<b>情绪</b>
+	<c>刺激</c>
+	<d>回忆</d>
+</item>
+<item>
+	<id>537</id>
+	<word>couple</word>
+	<a>一些</a>
+	<b>极少</b>
+	<c>微小</c>
+	<d>二十个</d>
+</item>
+<item>
+	<id>537</id>
+	<word>couple</word>
+	<a>一对</a>
+	<b>优惠券</b>
+	<c>很少</c>
+	<d>大量</d>
+</item>
+<item>
+	<id>539</id>
+	<word>either</word>
+	<a>或是</a>
+	<b>也不</b>
+	<c>完全</c>
+	<d>两者都</d>
+</item>
+<item>
+	<id>539</id>
+	<word>either</word>
+	<a>要么</a>
+	<b>也不</b>
+	<c>没有谁</c>
+	<d>所有</d>
+</item>
+<item>
+	<id>539</id>
+	<word>either</word>
+	<a>任一的</a>
+	<b>两个都</b>
+	<c>都不</c>
+	<d>也不</d>
+</item>
+<item>
+	<id>541</id>
+	<word>figure</word>
+	<a>金额</a>
+	<b>控制</b>
+	<c>质量</c>
+	<d>手指</d>
+</item>
+<item>
+	<id>541</id>
+	<word>figure</word>
+	<a>体型</a>
+	<b>比例</b>
+	<c>高度</c>
+	<d>规格</d>
+</item>
+<item>
+	<id>541</id>
+	<word>figure</word>
+	<a>人物</a>
+	<b>头部</b>
+	<c>标准</c>
+	<d>手指</d>
+</item>
+<item>
+	<id>541</id>
+	<word>figure</word>
+	<a>数字</a>
+	<b>整理</b>
+	<c>帮助</c>
+	<d>新闻</d>
+</item>
+<item>
+	<id>542</id>
+	<word>arm</word>
+	<a>手臂</a>
+	<b>上方</b>
+	<c>扶手</c>
+	<d>橄榄</d>
+</item>
+<item>
+	<id>542</id>
+	<word>arm</word>
+	<a>武器</a>
+	<b>膳食</b>
+	<c>材料</c>
+	<d>分支</d>
+</item>
+<item>
+	<id>542</id>
+	<word>arm</word>
+	<a>扶手</a>
+	<b>订单</b>
+	<c>袖子</c>
+	<d>佣人</d>
+</item>
+<item>
+	<id>542</id>
+	<word>arm</word>
+	<a>袖子</a>
+	<b>贵族</b>
+	<c>道路</c>
+	<d>满族</d>
+</item>
+<item>
+	<id>543</id>
+	<word>miss</word>
+	<a>未赶上</a>
+	<b>丢失</b>
+	<c>放弃</c>
+	<d>判断</d>
+</item>
+<item>
+	<id>543</id>
+	<word>miss</word>
+	<a>因没有……而难过</a>
+	<b>生存</b>
+	<c>抚养</c>
+	<d>见面</d>
+</item>
+<item>
+	<id>543</id>
+	<word>miss</word>
+	<a>不注意</a>
+	<b>躲避</b>
+	<c>离开</c>
+	<d>脱离</d>
+</item>
+<item>
+	<id>543</id>
+	<word>miss</word>
+	<a>避免</a>
+	<b>脱离</b>
+	<c>离开</c>
+	<d>除去</d>
+</item>
+<item>
+	<id>543</id>
+	<word>miss</word>
+	<a>不做某事</a>
+	<b>坚持</b>
+	<c>决定</c>
+	<d>放弃</d>
+</item>
+<item>
+	<id>546</id>
+	<word>wait</word>
+	<a>等候</a>
+	<b>问候</b>
+	<c>进行</c>
+	<d>守护</d>
+</item>
+<item>
+	<id>547</id>
+	<word>eight</word>
+	<a>八</a>
+	<b>八十</b>
+	<c>十八</c>
+	<d>第八</d>
+</item>
+<item>
+	<id>549</id>
+	<word>develop</word>
+	<a>发展</a>
+	<b>发现</b>
+	<c>开办</c>
+	<d>出现</d>
+</item>
+<item>
+	<id>549</id>
+	<word>develop</word>
+	<a>萌生</a>
+	<b>启发</b>
+	<c>养育</c>
+	<d>研制</d>
+</item>
+<item>
+	<id>552</id>
+	<word>nation</word>
+	<a>国家</a>
+	<b>区域</b>
+	<c>级别</c>
+	<d>范围</d>
+</item>
+<item>
+	<id>553</id>
+	<word>range</word>
+	<a>某一类产品</a>
+	<b>某一片场地</b>
+	<c>某一处房子</c>
+	<d>某一段回忆</d>
+</item>
+<item>
+	<id>553</id>
+	<word>range</word>
+	<a>批，组，类</a>
+	<b>单位</b>
+	<c>筹码</c>
+	<d>属</d>
+</item>
+<item>
+	<id>553</id>
+	<word>range</word>
+	<a>距离</a>
+	<b>愤怒</b>
+	<c>绑带</c>
+	<d>吊索</d>
+</item>
+<item>
+	<id>553</id>
+	<word>range</word>
+	<a>[人或组织的权力、责任或活动的]范围</a>
+	<b>影响</b>
+	<c>实力</c>
+	<d>帮派</d>
+</item>
+<item>
+	<id>553</id>
+	<word>range</word>
+	<a>变动范围</a>
+	<b>休息室</b>
+	<c>果园</c>
+	<d>河段</d>
+</item>
+<item>
+	<id>554</id>
+	<word>fight</word>
+	<a>打架</a>
+	<b>攻击</b>
+	<c>批评</c>
+	<d>调查</d>
+</item>
+<item>
+	<id>554</id>
+	<word>fight</word>
+	<a>争斗</a>
+	<b>保存</b>
+	<c>珍惜</c>
+	<d>抵制</d>
+</item>
+<item>
+	<id>554</id>
+	<word>fight</word>
+	<a>争论</a>
+	<b>打击</b>
+	<c>排除</c>
+	<d>争取</d>
+</item>
+<item>
+	<id>554</id>
+	<word>fight</word>
+	<a>参加拳击比赛</a>
+	<b>无视</b>
+	<c>丢弃</c>
+	<d>运动</d>
+</item>
+<item>
+	<id>554</id>
+	<word>fight</word>
+	<a>克制</a>
+	<b>抵制</b>
+	<c>排除</c>
+	<d>批发</d>
+</item>
+<item>
+	<id>554</id>
+	<word>fight</word>
+	<a>打仗</a>
+	<b>批评</b>
+	<c>折叠</c>
+	<d>收拾</d>
+</item>
+<item>
+	<id>555</id>
+	<word>agree</word>
+	<a>同意</a>
+	<b>答复</b>
+	<c>反对</c>
+	<d>争取</d>
+</item>
+<item>
+	<id>555</id>
+	<word>agree</word>
+	<a>商定</a>
+	<b>负担</b>
+	<c>反对</c>
+	<d>提出</d>
+</item>
+<item>
+	<id>556</id>
+	<word>draw</word>
+	<a>绘画</a>
+	<b>欣赏</b>
+	<c>设计</c>
+	<d>草稿</d>
+</item>
+<item>
+	<id>556</id>
+	<word>draw</word>
+	<a>稳步移动</a>
+	<b>走进</b>
+	<c>靠近</c>
+	<d>驾驶</d>
+</item>
+<item>
+	<id>556</id>
+	<word>draw</word>
+	<a>获得</a>
+	<b>训练</b>
+	<c>梦想</c>
+	<d>爬行</d>
+</item>
+<item>
+	<id>556</id>
+	<word>draw</word>
+	<a>进行对照(对比)</a>
+	<b>做实验</b>
+	<c>从事研究</c>
+	<d>动手术</d>
+</item>
+<item>
+	<id>556</id>
+	<word>draw</word>
+	<a>使...注意...</a>
+	<b>使激动</b>
+	<c>硬拽</c>
+	<d>使排出</d>
+</item>
+<item>
+	<id>556</id>
+	<word>draw</word>
+	<a>吸引 (某人)</a>
+	<b>恐惧</b>
+	<c>撤退</c>
+	<d>感动</d>
+</item>
+<item>
+	<id>557</id>
+	<word>hospital</word>
+	<a>医院</a>
+	<b>好客的</b>
+	<c>敌对的</c>
+	<d>招待所</d>
+</item>
+<item>
+	<id>558</id>
+	<word>race</word>
+	<a>赛跑；赛车；速度比赛</a>
+	<b>剑术比赛</b>
+	<c>举重比赛</c>
+	<d>象棋比赛</d>
+</item>
+<item>
+	<id>558</id>
+	<word>race</word>
+	<a>种族</a>
+	<b>少数民族</b>
+	<c>国籍</c>
+	<d>有色人种</d>
+</item>
+<item>
+	<id>558</id>
+	<word>race</word>
+	<a>竞赛，争夺，抢先</a>
+	<b>跑步</b>
+	<c>冲突</c>
+	<d>比率</d>
+</item>
+<item>
+	<id>560</id>
+	<word>model</word>
+	<a>模范</a>
+	<b>例子</b>
+	<c>助手</c>
+	<d>现代</d>
+</item>
+<item>
+	<id>560</id>
+	<word>model</word>
+	<a>模范</a>
+	<b>现代</b>
+	<c>描述</c>
+	<d>图画</d>
+</item>
+<item>
+	<id>560</id>
+	<word>model</word>
+	<a>模型</a>
+	<b>玩具</b>
+	<c>机器</c>
+	<d>设备</d>
+</item>
+<item>
+	<id>560</id>
+	<word>model</word>
+	<a>型号</a>
+	<b>式样</b>
+	<c>尺码</c>
+	<d>材料</d>
+</item>
+<item>
+	<id>560</id>
+	<word>model</word>
+	<a>模型</a>
+	<b>机器</b>
+	<c>玩具</c>
+	<d>亲戚</d>
+</item>
+<item>
+	<id>561</id>
+	<word>history</word>
+	<a>历史学</a>
+	<b>传记</b>
+	<c>传说</c>
+	<d>报道</d>
+</item>
+<item>
+	<id>561</id>
+	<word>history</word>
+	<a>发展史</a>
+	<b>进化</b>
+	<c>过程</c>
+	<d>创造</d>
+</item>
+<item>
+	<id>561</id>
+	<word>history</word>
+	<a>历史</a>
+	<b>经历</b>
+	<c>纪录</c>
+	<d>自传</d>
+</item>
+<item>
+	<id>562</id>
+	<word>election</word>
+	<a>选举</a>
+	<b>表演</b>
+	<c>保证</c>
+	<d>面试</d>
+</item>
+<item>
+	<id>564</id>
+	<word>land</word>
+	<a>陆地</a>
+	<b>海洋</b>
+	<c>天空</c>
+	<d>小溪</d>
+</item>
+<item>
+	<id>564</id>
+	<word>land</word>
+	<a>土地</a>
+	<b>庭院</b>
+	<c>解答</c>
+	<d>天空</d>
+</item>
+<item>
+	<id>564</id>
+	<word>land</word>
+	<a>国土</a>
+	<b>地界</b>
+	<c>连接</c>
+	<d>结果</d>
+</item>
+<item>
+	<id>564</id>
+	<word>land</word>
+	<a>着陆</a>
+	<b>发现</b>
+	<c>说明</c>
+	<d>解释</d>
+</item>
+<item>
+	<id>565</id>
+	<word>single</word>
+	<a>单一的，非双重的</a>
+	<b>一条一条的</b>
+	<c>对立的</c>
+	<d>奢侈的</d>
+</item>
+<item>
+	<id>565</id>
+	<word>single</word>
+	<a>单程的</a>
+	<b>独自的</b>
+	<c>孤立的</c>
+	<d>呆呆的</d>
+</item>
+<item>
+	<id>565</id>
+	<word>single</word>
+	<a>单一的，单个的</a>
+	<b>独立</b>
+	<c>自主</c>
+	<d>自治</d>
+</item>
+<item>
+	<id>565</id>
+	<word>single</word>
+	<a>个别的，单独的</a>
+	<b>特殊的</b>
+	<c>怪异的</c>
+	<d>荒诞的</d>
+</item>
+<item>
+	<id>565</id>
+	<word>single</word>
+	<a>未婚的</a>
+	<b>独立的</b>
+	<c>困惑的</c>
+	<d>缺少的</d>
+</item>
+<item>
+	<id>566</id>
+	<word>fund</word>
+	<a>基金</a>
+	<b>基础</b>
+	<c>目标</c>
+	<d>资本</d>
+</item>
+<item>
+	<id>567</id>
+	<word>red</word>
+	<a>红色的</a>
+	<b>绿色的</b>
+	<c>黄色的</c>
+	<d>紫色的</d>
+</item>
+<item>
+	<id>567</id>
+	<word>red</word>
+	<a>褐红色的</a>
+	<b>银色的</b>
+	<c>橙色的</c>
+	<d>灰色的</d>
+</item>
+<item>
+	<id>567</id>
+	<word>red</word>
+	<a>粉红色的</a>
+	<b>粉绿色的</b>
+	<c>暖色的</c>
+	<d>冷色调的</d>
+</item>
+<item>
+	<id>569</id>
+	<word>foot</word>
+	<a>英尺</a>
+	<b>距离</b>
+	<c>尺寸</c>
+	<d>帮助</d>
+</item>
+<item>
+	<id>569</id>
+	<word>foot</word>
+	<a>脚</a>
+	<b>手</b>
+	<c>头</c>
+	<d>脑</d>
+</item>
+<item>
+	<id>573</id>
+	<word>self</word>
+	<a>自身</a>
+	<b>前提</b>
+	<c>谨慎</c>
+	<d>封闭</d>
+</item>
+<item>
+	<id>573</id>
+	<word>self</word>
+	<a>本质(或性质)</a>
+	<b>成分</b>
+	<c>核心</c>
+	<d>任务</d>
+</item>
+<item>
+	<id>574</id>
+	<word>difficult</word>
+	<a>困难的</a>
+	<b>简单的</b>
+	<c>分散的</c>
+	<d>麻烦的</d>
+</item>
+<item>
+	<id>575</id>
+	<word>answer</word>
+	<a>回答</a>
+	<b>笔记</b>
+	<c>注释</c>
+	<d>政务</d>
+</item>
+<item>
+	<id>575</id>
+	<word>answer</word>
+	<a>答案</a>
+	<b>经历</b>
+	<c>疑问</c>
+	<d>屏风</d>
+</item>
+<item>
+	<id>575</id>
+	<word>answer</word>
+	<a>回函</a>
+	<b>律师</b>
+	<c>态度</c>
+	<d>制片</d>
+</item>
+<item>
+	<id>575</id>
+	<word>answer</word>
+	<a>解决办法</a>
+	<b>答案说明</b>
+	<c>涉及方案</c>
+	<d>回答内容</d>
+</item>
+<item>
+	<id>575</id>
+	<word>answer</word>
+	<a>回答</a>
+	<b>否定</b>
+	<c>答应</c>
+	<d>领航</d>
+</item>
+<item>
+	<id>575</id>
+	<word>answer</word>
+	<a>作出解释</a>
+	<b>发布命令</b>
+	<c>消灭敌人</c>
+	<d>获得胜利</d>
+</item>
+<item>
+	<id>576</id>
+	<word>near</word>
+	<a>接近</a>
+	<b>离开</b>
+	<c>外面</c>
+	<d>里面</d>
+</item>
+<item>
+	<id>576</id>
+	<word>near</word>
+	<a>接近</a>
+	<b>远离</b>
+	<c>上面</c>
+	<d>下面</d>
+</item>
+<item>
+	<id>576</id>
+	<word>near</word>
+	<a>接近的</a>
+	<b>远离的</b>
+	<c>上面的</c>
+	<d>下面的</d>
+</item>
+<item>
+	<id>577</id>
+	<word>ground</word>
+	<a>地面</a>
+	<b>地板</b>
+	<c>比赛</c>
+	<d>植物</d>
+</item>
+<item>
+	<id>577</id>
+	<word>ground</word>
+	<a>地方</a>
+	<b>比赛</b>
+	<c>天堂</c>
+	<d>地球</d>
+</item>
+<item>
+	<id>577</id>
+	<word>ground</word>
+	<a>主题</a>
+	<b>闪烁</b>
+	<c>荣誉</c>
+	<d>文明</d>
+</item>
+<item>
+	<id>577</id>
+	<word>ground</word>
+	<a>观点</a>
+	<b>洞穴</b>
+	<c>阁楼</c>
+	<d>峡谷</d>
+</item>
+<item>
+	<id>577</id>
+	<word>ground</word>
+	<a>理由</a>
+	<b>现场</b>
+	<c>田野</c>
+	<d>地点</d>
+</item>
+<item>
+	<id>578</id>
+	<word>bad</word>
+	<a>糟糕的</a>
+	<b>幸福的</b>
+	<c>多嘴的</c>
+	<d>出生的</d>
+</item>
+<item>
+	<id>578</id>
+	<word>bad</word>
+	<a>劣质的</a>
+	<b>高度的</b>
+	<c>赞扬的</c>
+	<d>优秀的</d>
+</item>
+<item>
+	<id>578</id>
+	<word>bad</word>
+	<a>邪恶的</a>
+	<b>妥协的</b>
+	<c>天才的</c>
+	<d>手工的</d>
+</item>
+<item>
+	<id>579</id>
+	<word>late</word>
+	<a>晚的</a>
+	<b>抱歉的</b>
+	<c>缺乏的</c>
+	<d>用完的</d>
+</item>
+<item>
+	<id>579</id>
+	<word>late</word>
+	<a>晚的</a>
+	<b>前面的</b>
+	<c>昨天的</c>
+	<d>后面的</d>
+</item>
+<item>
+	<id>579</id>
+	<word>late</word>
+	<a>晚期的</a>
+	<b>期待的</b>
+	<c>持续的</c>
+	<d>后续的</d>
+</item>
+<item>
+	<id>580</id>
+	<word>join</word>
+	<a>联结</a>
+	<b>胶水</b>
+	<c>关节</c>
+	<d>颠簸</d>
+</item>
+<item>
+	<id>580</id>
+	<word>join</word>
+	<a>加入</a>
+	<b>组织</b>
+	<c>创立</c>
+	<d>开创</d>
+</item>
+<item>
+	<id>581</id>
+	<word>foreign</word>
+	<a>外国的</a>
+	<b>上等的</b>
+	<c>开心的</c>
+	<d>开发的</d>
+</item>
+<item>
+	<id>582</id>
+	<word>manager</word>
+	<a>经理</a>
+	<b>命令</b>
+	<c>能力</c>
+	<d>操纵</d>
+</item>
+<item>
+	<id>584</id>
+	<word>address</word>
+	<a>地址</a>
+	<b>地方</b>
+	<c>位置</c>
+	<d>方位</d>
+</item>
+<item>
+	<id>584</id>
+	<word>address</word>
+	<a>演说</a>
+	<b>服装</b>
+	<c>位置</c>
+	<d>说话</d>
+</item>
+<item>
+	<id>584</id>
+	<word>address</word>
+	<a>写姓名地址</a>
+	<b>发表错误的讲话</b>
+	<c>搞错方位</c>
+	<d>邮寄失败</d>
+</item>
+<item>
+	<id>586</id>
+	<word>create</word>
+	<a>发明</a>
+	<b>完成</b>
+	<c>投资</c>
+	<d>剥削</d>
+</item>
+<item>
+	<id>586</id>
+	<word>create</word>
+	<a>创造</a>
+	<b>建立</b>
+	<c>开拓</c>
+	<d>开发</d>
+</item>
+<item>
+	<id>587</id>
+	<word>sometimes</word>
+	<a>有时</a>
+	<b>一点儿</b>
+	<c>突然</c>
+	<d>不久</d>
+</item>
+<item>
+	<id>588</id>
+	<word>value</word>
+	<a>价值</a>
+	<b>资格</b>
+	<c>身份</c>
+	<d>阀门</d>
+</item>
+<item>
+	<id>588</id>
+	<word>value</word>
+	<a>用处</a>
+	<b>经济</b>
+	<c>奖励</c>
+	<d>游行</d>
+</item>
+<item>
+	<id>588</id>
+	<word>value</word>
+	<a>准则</a>
+	<b>发明</b>
+	<c>根据</c>
+	<d>基础</d>
+</item>
+<item>
+	<id>589</id>
+	<word>step</word>
+	<a>步骤</a>
+	<b>注意</b>
+	<c>典型</c>
+	<d>认真</d>
+</item>
+<item>
+	<id>589</id>
+	<word>step</word>
+	<a>梯级</a>
+	<b>上升</b>
+	<c>顶端</c>
+	<d>房屋</d>
+</item>
+<item>
+	<id>589</id>
+	<word>step</word>
+	<a>阶段</a>
+	<b>手册</b>
+	<c>面膜</c>
+	<d>手指</d>
+</item>
+<item>
+	<id>589</id>
+	<word>step</word>
+	<a>舞步</a>
+	<b>歌曲</b>
+	<c>邀请</c>
+	<d>盛大</d>
+</item>
+<item>
+	<id>589</id>
+	<word>step</word>
+	<a>脚步声</a>
+	<b>目标</b>
+	<c>木材</c>
+	<d>接近</d>
+</item>
+<item>
+	<id>589</id>
+	<word>step</word>
+	<a>脚步</a>
+	<b>来回</b>
+	<c>凳子</c>
+	<d>手掌</d>
+</item>
+<item>
+	<id>590</id>
+	<word>staff</word>
+	<a>手杖</a>
+	<b>标杆</b>
+	<c>测量</c>
+	<d>手段</d>
+</item>
+<item>
+	<id>590</id>
+	<word>staff</word>
+	<a>职员</a>
+	<b>奖品</b>
+	<c>方案</c>
+	<d>东西</d>
+</item>
+<item>
+	<id>593</id>
+	<word>league</word>
+	<a>运动联合会</a>
+	<b>叶子</b>
+	<c>标准</c>
+	<d>领导</d>
+</item>
+<item>
+	<id>593</id>
+	<word>league</word>
+	<a>联盟</a>
+	<b>飞跃</b>
+	<c>租契</c>
+	<d>离开</d>
+</item>
+<item>
+	<id>594</id>
+	<word>security</word>
+	<a>安全</a>
+	<b>自由</b>
+	<c>平安</c>
+	<d>得意</d>
+</item>
+<item>
+	<id>594</id>
+	<word>security</word>
+	<a>保安</a>
+	<b>紧急</b>
+	<c>松开</c>
+	<d>措施</d>
+</item>
+<item>
+	<id>597</id>
+	<word>drug</word>
+	<a>毒品</a>
+	<b>救济品</b>
+	<c>危险品</c>
+	<d>护理品</d>
+</item>
+<item>
+	<id>597</id>
+	<word>drug</word>
+	<a>药物</a>
+	<b>纱布</b>
+	<c>绷带</c>
+	<d>胶布</d>
+</item>
+<item>
+	<id>599</id>
+	<word>choose</word>
+	<a>选择</a>
+	<b>选举</b>
+	<c>宣判</c>
+	<d>选拔</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:13 CST 2009-->

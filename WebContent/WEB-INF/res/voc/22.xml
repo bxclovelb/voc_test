@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>4200</id>
+	<word>explosive</word>
+	<a>会爆炸的</a>
+	<b>易破碎的</b>
+	<c>危险的</c>
+	<d>探险的</d>
+</item>
+<item>
+	<id>4200</id>
+	<word>explosive</word>
+	<a>一触即发的</a>
+	<b>容易暴露的</b>
+	<c>沉着镇定的</c>
+	<d>筋疲力尽的</d>
+</item>
+<item>
+	<id>4200</id>
+	<word>explosive</word>
+	<a>引起激烈争论的</a>
+	<b>轰动的</b>
+	<c>强制的</c>
+	<d>详细解释的</d>
+</item>
+<item>
+	<id>4204</id>
+	<word>ratio</word>
+	<a>比例，比率</a>
+	<b>比赛</b>
+	<c>配给</c>
+	<d>合理</d>
+</item>
+<item>
+	<id>4207</id>
+	<word>calendar</word>
+	<a>日历</a>
+	<b>卡片</b>
+	<c>年纪</c>
+	<d>日记</d>
+</item>
+<item>
+	<id>4207</id>
+	<word>calendar</word>
+	<a>记事簿</a>
+	<b>练习本</b>
+	<c>备课本</c>
+	<d>作业本</d>
+</item>
+<item>
+	<id>4211</id>
+	<word>insert</word>
+	<a>加进</a>
+	<b>放置</b>
+	<c>倒置</c>
+	<d>嵌入</d>
+</item>
+<item>
+	<id>4211</id>
+	<word>insert</word>
+	<a>插入</a>
+	<b>包含</b>
+	<c>倒置</c>
+	<d>放置</d>
+</item>
+<item>
+	<id>4218</id>
+	<word>repeatedly</word>
+	<a>多次地</a>
+	<b>不再</b>
+	<c>不寻常地</c>
+	<d>据报道</d>
+</item>
+<item>
+	<id>4220</id>
+	<word>dull</word>
+	<a>乏味的</a>
+	<b>有趣的</b>
+	<c>玩耍的</c>
+	<d>预期的</d>
+</item>
+<item>
+	<id>4220</id>
+	<word>dull</word>
+	<a>暗淡的</a>
+	<b>鲜艳的</b>
+	<c>明白的</c>
+	<d>单调的</d>
+</item>
+<item>
+	<id>4220</id>
+	<word>dull</word>
+	<a>沉闷的</a>
+	<b>丰富的</b>
+	<c>单调的</c>
+	<d>期待的</d>
+</item>
+<item>
+	<id>4222</id>
+	<word>isle</word>
+	<a>岛</a>
+	<b>常春藤</b>
+	<c>发行</c>
+	<d>物品</d>
+</item>
+<item>
+	<id>4223</id>
+	<word>entertain</word>
+	<a>招待</a>
+	<b>诱惑</b>
+	<c>计划</c>
+	<d>登记</d>
+</item>
+<item>
+	<id>4226</id>
+	<word>despair</word>
+	<a>绝望</a>
+	<b>渴望</b>
+	<c>哲学</c>
+	<d>修理</d>
+</item>
+<item>
+	<id>4232</id>
+	<word>campus</word>
+	<a>校园</a>
+	<b>教室</b>
+	<c>帐篷</c>
+	<d>宿舍</d>
+</item>
+<item>
+	<id>4235</id>
+	<word>passport</word>
+	<a>护照</a>
+	<b>签证</b>
+	<c>证件</c>
+	<d>绿卡</d>
+</item>
+<item>
+	<id>4240</id>
+	<word>fortunately</word>
+	<a>幸运地</a>
+	<b>开心地</b>
+	<c>临时地</c>
+	<d>偶然地</d>
+</item>
+<item>
+	<id>4252</id>
+	<word>dominant</word>
+	<a>支配的</a>
+	<b>有压力的</b>
+	<c>诊断的</c>
+	<d>同源的</d>
+</item>
+<item>
+	<id>4253</id>
+	<word>exotic</word>
+	<a>外来的</a>
+	<b>奇怪的</b>
+	<c>外部的</c>
+	<d>外貌的</d>
+</item>
+<item>
+	<id>4257</id>
+	<word>ambulance</word>
+	<a>救护车</a>
+	<b>消防车</b>
+	<c>危机</c>
+	<d>诊所</d>
+</item>
+<item>
+	<id>4263</id>
+	<word>differ</word>
+	<a>不同于</a>
+	<b>相同</b>
+	<c>相似</c>
+	<d>同意</d>
+</item>
+<item>
+	<id>4264</id>
+	<word>cheat</word>
+	<a>作弊</a>
+	<b>假装</b>
+	<c>雕刻</c>
+	<d>承认</d>
+</item>
+<item>
+	<id>4265</id>
+	<word>furious</word>
+	<a>狂怒的</a>
+	<b>皮毛的</b>
+	<c>可行的</c>
+	<d>凄凉的</d>
+</item>
+<item>
+	<id>4274</id>
+	<word>enforce</word>
+	<a>实施</a>
+	<b>拥抱</b>
+	<c>压迫</c>
+	<d>说服</d>
+</item>
+<item>
+	<id>4275</id>
+	<word>intensive</word>
+	<a>集中的</a>
+	<b>计划的</b>
+	<c>内部的</c>
+	<d>可理解的</d>
+</item>
+<item>
+	<id>4278</id>
+	<word>drought</word>
+	<a>干燥</a>
+	<b>药品</b>
+	<c>困倦</c>
+	<d>怀疑</d>
+</item>
+<item>
+	<id>4282</id>
+	<word>manual</word>
+	<a>用手的，手工做的</a>
+	<b>男人的</b>
+	<c>每年的</c>
+	<d>粪肥</d>
+</item>
+<item>
+	<id>4287</id>
+	<word>salmon</word>
+	<a>三文鱼</a>
+	<b>鲤鱼</b>
+	<c>沙龙</c>
+	<d>酒馆</d>
+</item>
+<item>
+	<id>4288</id>
+	<word>virtue</word>
+	<a>美德</a>
+	<b>病毒</b>
+	<c>雕塑</c>
+	<d>经验</d>
+</item>
+<item>
+	<id>4290</id>
+	<word>canyon</word>
+	<a>峡谷</a>
+	<b>水渠</b>
+	<c>山涧</c>
+	<d>瀑布</d>
+</item>
+<item>
+	<id>4294</id>
+	<word>splendid</word>
+	<a>极好的</a>
+	<b>极差的</b>
+	<c>极臭的</c>
+	<d>极烂的</d>
+</item>
+<item>
+	<id>4297</id>
+	<word>medieval</word>
+	<a>中古的，中世纪的</a>
+	<b>中间的，中等的</b>
+	<c>高级的</c>
+	<d>远古的</d>
+</item>
+<item>
+	<id>4299</id>
+	<word>caution</word>
+	<a>警告</a>
+	<b>超越</b>
+	<c>减轻</c>
+	<d>离别</d>
+</item>
+<item>
+	<id>4299</id>
+	<word>caution</word>
+	<a>小心</a>
+	<b>大意</b>
+	<c>喧哗</c>
+	<d>仔细</d>
+</item>
+<item>
+	<id>4304</id>
+	<word>ugly</word>
+	<a>丑陋的</a>
+	<b>生气的</b>
+	<c>刺激的</c>
+	<d>奇怪的</d>
+</item>
+<item>
+	<id>4307</id>
+	<word>multiple</word>
+	<a>多种的</a>
+	<b>单一的</b>
+	<c>复杂的</c>
+	<d>减缓的</d>
+</item>
+<item>
+	<id>4311</id>
+	<word>applicant</word>
+	<a>申请人</a>
+	<b>被捕者</b>
+	<c>建筑师</c>
+	<d>评估师</d>
+</item>
+<item>
+	<id>4314</id>
+	<word>derive</word>
+	<a>取得</a>
+	<b>驾驶</b>
+	<c>拒绝</c>
+	<d>飞行</d>
+</item>
+<item>
+	<id>4315</id>
+	<word>jungle</word>
+	<a>丛林</a>
+	<b>杂物</b>
+	<c>树林</c>
+	<d>灌木</d>
+</item>
+<item>
+	<id>4316</id>
+	<word>lyric</word>
+	<a>抒情的</a>
+	<b>修辞的</b>
+	<c>抒情诗人</c>
+	<d>热情奔放的</d>
+</item>
+<item>
+	<id>4323</id>
+	<word>packet</word>
+	<a>小包</a>
+	<b>容器</b>
+	<c>邮件</c>
+	<d>框子</d>
+</item>
+<item>
+	<id>4329</id>
+	<word>mild</word>
+	<a>暖和的</a>
+	<b>潮湿的</b>
+	<c>炎热的</c>
+	<d>晴朗的</d>
+</item>
+<item>
+	<id>4329</id>
+	<word>mild</word>
+	<a>轻微的</a>
+	<b>温柔的</b>
+	<c>可爱的</c>
+	<d>尖刻的</d>
+</item>
+<item>
+	<id>4329</id>
+	<word>mild</word>
+	<a>淡的</a>
+	<b>浓的</b>
+	<c>轻的</c>
+	<d>重的</d>
+</item>
+<item>
+	<id>4331</id>
+	<word>disagree</word>
+	<a>有分歧</a>
+	<b>不喜欢</b>
+	<c>不满意</c>
+	<d>有区别</d>
+</item>
+<item>
+	<id>4338</id>
+	<word>drown</word>
+	<a>淹死</a>
+	<b>减少</b>
+	<c>失去</c>
+	<d>落下</d>
+</item>
+<item>
+	<id>4343</id>
+	<word>verse</word>
+	<a>一节歌词</a>
+	<b>一首曲子</b>
+	<c>一艘军舰</c>
+	<d>一段录音</d>
+</item>
+<item>
+	<id>4343</id>
+	<word>verse</word>
+	<a>诗节</a>
+	<b>声音</b>
+	<c>权利</c>
+	<d>条款</d>
+</item>
+<item>
+	<id>4345</id>
+	<word>refund</word>
+	<a>退款</a>
+	<b>基金</b>
+	<c>合成</c>
+	<d>定义</d>
+</item>
+<item>
+	<id>4349</id>
+	<word>punish</word>
+	<a>惩罚</a>
+	<b>购买</b>
+	<c>批判</c>
+	<d>打孔</d>
+</item>
+<item>
+	<id>4353</id>
+	<word>lump</word>
+	<a>疙瘩</a>
+	<b>泵</b>
+	<c>垃圾场</c>
+	<d>肺部</d>
+</item>
+<item>
+	<id>4353</id>
+	<word>lump</word>
+	<a>肿块</a>
+	<b>手掌</b>
+	<c>残骸</c>
+	<d>膨胀</d>
+</item>
+<item>
+	<id>4353</id>
+	<word>lump</word>
+	<a>小方糖</a>
+	<b>水果糖</b>
+	<c>甜食</c>
+	<d>果汁</d>
+</item>
+<item>
+	<id>4355</id>
+	<word>motivate</word>
+	<a>激发</a>
+	<b>避开</b>
+	<c>集中</c>
+	<d>努力</d>
+</item>
+<item>
+	<id>4366</id>
+	<word>remedy</word>
+	<a>补救办法</a>
+	<b>喜剧演出</b>
+	<c>提醒物</c>
+	<d>重新塑造</d>
+</item>
+<item>
+	<id>4372</id>
+	<word>forthcoming</word>
+	<a>即将来到的</a>
+	<b>危险的</b>
+	<c>大的</c>
+	<d>容易的</d>
+</item>
+<item>
+	<id>4376</id>
+	<word>portion</word>
+	<a>一份</a>
+	<b>分配</b>
+	<c>食物</c>
+	<d>布局</d>
+</item>
+<item>
+	<id>4376</id>
+	<word>portion</word>
+	<a>部分</a>
+	<b>进口</b>
+	<c>比率</c>
+	<d>比例</d>
+</item>
+<item>
+	<id>4378</id>
+	<word>tag</word>
+	<a>标签</a>
+	<b>书包</b>
+	<c>传真</c>
+	<d>理论</d>
+</item>
+<item>
+	<id>4378</id>
+	<word>tag</word>
+	<a>捉人游戏</a>
+	<b>尾巴</b>
+	<c>车票</c>
+	<d>便条</d>
+</item>
+<item>
+	<id>4380</id>
+	<word>feminist</word>
+	<a>女权主义者</a>
+	<b>女性的</b>
+	<c>雌的</c>
+	<d>有女性特征的</d>
+</item>
+<item>
+	<id>4382</id>
+	<word>jewellery</word>
+	<a>珠宝</a>
+	<b>犹太人</b>
+	<c>快艇</c>
+	<d>码头</d>
+</item>
+<item>
+	<id>4383</id>
+	<word>painter</word>
+	<a>画家</a>
+	<b>绘画</b>
+	<c>彩绘</c>
+	<d>肖像</d>
+</item>
+<item>
+	<id>4385</id>
+	<word>candle</word>
+	<a>蜡烛</a>
+	<b>帐篷</b>
+	<c>屋顶</c>
+	<d>管道</d>
+</item>
+<item>
+	<id>4388</id>
+	<word>genetic</word>
+	<a>遗传的</a>
+	<b>性别的</b>
+	<c>性格的</c>
+	<d>遗忘的</d>
+</item>
+<item>
+	<id>4390</id>
+	<word>adequate</word>
+	<a>适当的</a>
+	<b>完全的</b>
+	<c>不足的</c>
+	<d>胜任的</d>
+</item>
+<item>
+	<id>4393</id>
+	<word>fabulous</word>
+	<a>极好的</a>
+	<b>怪诞的</b>
+	<c>顺利的</c>
+	<d>无意义的</d>
+</item>
+<item>
+	<id>4397</id>
+	<word>cage</word>
+	<a>笼子</a>
+	<b>老虎</b>
+	<c>算盘</c>
+	<d>台灯</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

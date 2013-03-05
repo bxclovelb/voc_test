@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>5603</id>
+	<word>dilemma</word>
+	<a>困境</a>
+	<b>惊慌</b>
+	<c>安宁</c>
+	<d>混乱</d>
+</item>
+<item>
+	<id>5607</id>
+	<word>denounce</word>
+	<a>谴责</a>
+	<b>意思是</b>
+	<c>启程</c>
+	<d>否认</d>
+</item>
+<item>
+	<id>5611</id>
+	<word>accelerate</word>
+	<a>加快</a>
+	<b>减少</b>
+	<c>扩大</c>
+	<d>抬高</d>
+</item>
+<item>
+	<id>5613</id>
+	<word>inspect</word>
+	<a>检验</a>
+	<b>坚持</b>
+	<c>卷入</c>
+	<d>激励</d>
+</item>
+<item>
+	<id>5637</id>
+	<word>peculiar</word>
+	<a>特有的</a>
+	<b>陌生的</b>
+	<c>细节的</c>
+	<d>荒谬的</d>
+</item>
+<item>
+	<id>5646</id>
+	<word>immune</word>
+	<a>免疫的</a>
+	<b>防御的</b>
+	<c>传染的</c>
+	<d>柔弱的</d>
+</item>
+<item>
+	<id>5648</id>
+	<word>nurture</word>
+	<a>培育</a>
+	<b>保护</b>
+	<c>照料</c>
+	<d>欣赏</d>
+</item>
+<item>
+	<id>5650</id>
+	<word>bait</word>
+	<a>引诱物</a>
+	<b>邀请书</b>
+	<c>电脑包</c>
+	<d>箭状物</d>
+</item>
+<item>
+	<id>5650</id>
+	<word>bait</word>
+	<a>诱饵</a>
+	<b>饲料</b>
+	<c>干草</c>
+	<d>饮料</d>
+</item>
+<item>
+	<id>5651</id>
+	<word>foam</word>
+	<a>泡沫剂</a>
+	<b>洗衣粉</b>
+	<c>事故</c>
+	<d>计量</d>
+</item>
+<item>
+	<id>5651</id>
+	<word>foam</word>
+	<a>泡沫</a>
+	<b>浮尘</b>
+	<c>空气</c>
+	<d>气泡</d>
+</item>
+<item>
+	<id>5653</id>
+	<word>inland</word>
+	<a>内陆的</a>
+	<b>大陆的</b>
+	<c>陆地的</c>
+	<d>内心的</d>
+</item>
+<item>
+	<id>5655</id>
+	<word>mechanic</word>
+	<a>技工</a>
+	<b>传媒</b>
+	<c>中世纪</c>
+	<d>机械</d>
+</item>
+<item>
+	<id>5656</id>
+	<word>bias</word>
+	<a>偏见</a>
+	<b>建议</b>
+	<c>合同</c>
+	<d>病毒</d>
+</item>
+<item>
+	<id>5660</id>
+	<word>grind</word>
+	<a>磨碎</a>
+	<b>检查</b>
+	<c>积压</c>
+	<d>准备</d>
+</item>
+<item>
+	<id>5660</id>
+	<word>grind</word>
+	<a>磨光</a>
+	<b>检查</b>
+	<c>消灭</c>
+	<d>结束</d>
+</item>
+<item>
+	<id>5668</id>
+	<word>decree</word>
+	<a>法令</a>
+	<b>呼吸</b>
+	<c>解散</c>
+	<d>缩小</d>
+</item>
+<item>
+	<id>5668</id>
+	<word>decree</word>
+	<a>判决</a>
+	<b>认为</b>
+	<c>程度</c>
+	<d>请求</d>
+</item>
+<item>
+	<id>5669</id>
+	<word>humble</word>
+	<a>低下的</a>
+	<b>有益的</b>
+	<c>适合的</c>
+	<d>无助的</d>
+</item>
+<item>
+	<id>5669</id>
+	<word>humble</word>
+	<a>谦虚的</a>
+	<b>含蓄的</b>
+	<c>害羞的</c>
+	<d>胆怯的</d>
+</item>
+<item>
+	<id>5670</id>
+	<word>invisible</word>
+	<a>看不见的</a>
+	<b>全球性的</b>
+	<c>外科的</c>
+	<d>不可想象的</d>
+</item>
+<item>
+	<id>5689</id>
+	<word>deer</word>
+	<a>鹿</a>
+	<b>啤酒</b>
+	<c>亲爱的</c>
+	<d>承受</d>
+</item>
+<item>
+	<id>5690</id>
+	<word>designate</word>
+	<a>指定</a>
+	<b>值得</b>
+	<c>计划</c>
+	<d>描述</d>
+</item>
+<item>
+	<id>5692</id>
+	<word>invariably</word>
+	<a>始终不变地</a>
+	<b>不可避免地</b>
+	<c>基本地</c>
+	<d>必然地</d>
+</item>
+<item>
+	<id>5693</id>
+	<word>linger</word>
+	<a>持续</a>
+	<b>光线</b>
+	<c>线性</c>
+	<d>有限</d>
+</item>
+<item>
+	<id>5693</id>
+	<word>linger</word>
+	<a>逗留</a>
+	<b>闲逛</b>
+	<c>期待</c>
+	<d>推迟</d>
+</item>
+<item>
+	<id>5696</id>
+	<word>waiter</word>
+	<a>服务员</a>
+	<b>销售员</b>
+	<c>领导者</c>
+	<d>客户</d>
+</item>
+<item>
+	<id>5700</id>
+	<word>arouse</word>
+	<a>引起</a>
+	<b>连续</b>
+	<c>提高</c>
+	<d>升起</d>
+</item>
+<item>
+	<id>5700</id>
+	<word>arouse</word>
+	<a>激起</a>
+	<b>飞行</b>
+	<c>暴动</c>
+	<d>援助</d>
+</item>
+<item>
+	<id>5701</id>
+	<word>commodity</word>
+	<a>商品</a>
+	<b>命令</b>
+	<c>评价</c>
+	<d>竞争</d>
+</item>
+<item>
+	<id>5704</id>
+	<word>resistant</word>
+	<a>对... 有抵抗力的;</a>
+	<b>对...负责的</b>
+	<c>代表... 的</c>
+	<d>与...相似</d>
+</item>
+<item>
+	<id>5708</id>
+	<word>dioxide</word>
+	<a>二氧化物</a>
+	<b>双倍</b>
+	<c>两轮车</c>
+	<d>重叠</d>
+</item>
+<item>
+	<id>5712</id>
+	<word>pact</word>
+	<a>条约</a>
+	<b>约定</b>
+	<c>包裹</c>
+	<d>实践</d>
+</item>
+<item>
+	<id>5720</id>
+	<word>questionnaire</word>
+	<a>问卷</a>
+	<b>考试</b>
+	<c>疑问句</c>
+	<d>感叹句</d>
+</item>
+<item>
+	<id>5724</id>
+	<word>mainland</word>
+	<a>大陆</a>
+	<b>主线</b>
+	<c>主要</c>
+	<d>保持</d>
+</item>
+<item>
+	<id>5727</id>
+	<word>uncover</word>
+	<a>揭露</a>
+	<b>描绘</b>
+	<c>保留</c>
+	<d>出版</d>
+</item>
+<item>
+	<id>5732</id>
+	<word>keyboard</word>
+	<a>键盘</a>
+	<b>条形码</b>
+	<c>密码盘</c>
+	<d>答案板</d>
+</item>
+<item>
+	<id>5733</id>
+	<word>salvation</word>
+	<a>对灵魂的拯救</a>
+	<b>毁灭</b>
+	<c>惩罚</c>
+	<d>邪恶</d>
+</item>
+<item>
+	<id>5741</id>
+	<word>dentist</word>
+	<a>牙医</a>
+	<b>否定者</b>
+	<c>说明者</c>
+	<d>贡献者</d>
+</item>
+<item>
+	<id>5743</id>
+	<word>embargo</word>
+	<a>禁运</a>
+	<b>通行</b>
+	<c>让路</c>
+	<d>撞击</d>
+</item>
+<item>
+	<id>5744</id>
+	<word>fling</word>
+	<a>扑向</a>
+	<b>转向</b>
+	<c>打击</c>
+	<d>欺骗</d>
+</item>
+<item>
+	<id>5744</id>
+	<word>fling</word>
+	<a>扔</a>
+	<b>放弃</b>
+	<c>转移</c>
+	<d>制作</d>
+</item>
+<item>
+	<id>5745</id>
+	<word>fur</word>
+	<a>毛皮</a>
+	<b>皮肤</b>
+	<c>动物</c>
+	<d>衣物</d>
+</item>
+<item>
+	<id>5745</id>
+	<word>fur</word>
+	<a>软毛</a>
+	<b>大衣</b>
+	<c>皮肤</c>
+	<d>贸易</d>
+</item>
+<item>
+	<id>5765</id>
+	<word>shark</word>
+	<a>鲨鱼</a>
+	<b>半升音</b>
+	<c>绵羊</c>
+	<d>剃刀</d>
+</item>
+<item>
+	<id>5768</id>
+	<word>destructive</word>
+	<a>破坏性的</a>
+	<b>绝望的</b>
+	<c>不景气的</c>
+	<d>分心的</d>
+</item>
+<item>
+	<id>5770</id>
+	<word>feminine</word>
+	<a>女性的</a>
+	<b>男性的</b>
+	<c>中性的</c>
+	<d>兽性的</d>
+</item>
+<item>
+	<id>5780</id>
+	<word>erupt</word>
+	<a>喷发</a>
+	<b>腐蚀</b>
+	<c>腐败</c>
+	<d>发掘</d>
+</item>
+<item>
+	<id>5782</id>
+	<word>respectively</word>
+	<a>各自地</a>
+	<b>孤立地</b>
+	<c>独立地</c>
+	<d>分开地</d>
+</item>
+<item>
+	<id>5784</id>
+	<word>tailor</word>
+	<a>裁缝</a>
+	<b>尾巴</b>
+	<c>金属</c>
+	<d>机敏</d>
+</item>
+<item>
+	<id>5787</id>
+	<word>dairy</word>
+	<a>乳品场</a>
+	<b>日记</b>
+	<c>日用品</c>
+	<d>海豚</d>
+</item>
+<item>
+	<id>5788</id>
+	<word>diesel</word>
+	<a>柴油</a>
+	<b>汽油</b>
+	<c>煤油</c>
+	<d>气体</d>
+</item>
+<item>
+	<id>5790</id>
+	<word>fragile</word>
+	<a>易受伤害的</a>
+	<b>易疲劳的</b>
+	<c>虚弱的</c>
+	<d>芬芳的</d>
+</item>
+<item>
+	<id>5790</id>
+	<word>fragile</word>
+	<a>纤弱的</a>
+	<b>可爱的</b>
+	<c>霸道的</c>
+	<d>气愤的</d>
+</item>
+<item>
+	<id>5791</id>
+	<word>majesty</word>
+	<a>陛下</a>
+	<b>主流</b>
+	<c>正义</c>
+	<d>多数</d>
+</item>
+<item>
+	<id>5793</id>
+	<word>peasant</word>
+	<a>农民</a>
+	<b>乞丐</b>
+	<c>渔民</c>
+	<d>挑山工</d>
+</item>
+<item>
+	<id>5795</id>
+	<word>refuge</word>
+	<a>庇护所</a>
+	<b>难民</b>
+	<c>凹陷处</c>
+	<d>拒绝</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

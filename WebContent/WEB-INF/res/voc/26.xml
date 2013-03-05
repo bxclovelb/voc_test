@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>5000</id>
+	<word>merge</word>
+	<a>合并</a>
+	<b>出现</b>
+	<c>仁慈</c>
+	<d>敦促</d>
+</item>
+<item>
+	<id>5004</id>
+	<word>revise</word>
+	<a>修改</a>
+	<b>复原</b>
+	<c>逆转</c>
+	<d>反叛</d>
+</item>
+<item>
+	<id>5010</id>
+	<word>thread</word>
+	<a>细线</a>
+	<b>弦</b>
+	<c>恐吓</c>
+	<d>思考</d>
+</item>
+<item>
+	<id>5010</id>
+	<word>thread</word>
+	<a>思路</a>
+	<b>计谋</b>
+	<c>政策</c>
+	<d>作为</d>
+</item>
+<item>
+	<id>5010</id>
+	<word>thread</word>
+	<a>线一样细长的东西</a>
+	<b>绸带</b>
+	<c>尾巴</c>
+	<d>飞翼</d>
+</item>
+<item>
+	<id>5015</id>
+	<word>interval</word>
+	<a>间隔</a>
+	<b>隐性的</b>
+	<c>内涵</c>
+	<d>延续</d>
+</item>
+<item>
+	<id>5016</id>
+	<word>marble</word>
+	<a>大理石</a>
+	<b>弹子游戏</b>
+	<c>行军</c>
+	<d>花岗岩</d>
+</item>
+<item>
+	<id>5021</id>
+	<word>modify</word>
+	<a>修改</a>
+	<b>表明</b>
+	<c>回忆</c>
+	<d>使…联系起来</d>
+</item>
+<item>
+	<id>5027</id>
+	<word>dragon</word>
+	<a>龙</a>
+	<b>拖沓</b>
+	<c>大船</c>
+	<d>天庭</d>
+</item>
+<item>
+	<id>5028</id>
+	<word>following</word>
+	<a>下一个</a>
+	<b>继续的</b>
+	<c>从前的</c>
+	<d>过去的</d>
+</item>
+<item>
+	<id>5032</id>
+	<word>insect</word>
+	<a>昆虫</a>
+	<b>鸸鹋</b>
+	<c>飞蛾</c>
+	<d>蝗虫</d>
+</item>
+<item>
+	<id>5033</id>
+	<word>mansion</word>
+	<a>大厦</a>
+	<b>提到</b>
+	<c>怪物</c>
+	<d>书房</d>
+</item>
+<item>
+	<id>5036</id>
+	<word>forbid</word>
+	<a>禁止</a>
+	<b>审查</b>
+	<c>申请</c>
+	<d>预测</d>
+</item>
+<item>
+	<id>5042</id>
+	<word>waist</word>
+	<a>腰部</a>
+	<b>浪费</b>
+	<c>钱包</c>
+	<d>像皮</d>
+</item>
+<item>
+	<id>5044</id>
+	<word>dual</word>
+	<a>双重的</a>
+	<b>决斗的</b>
+	<c>进行的</c>
+	<d>纯真的</d>
+</item>
+<item>
+	<id>5046</id>
+	<word>scar</word>
+	<a>(伤)疤</a>
+	<b>甲虫</b>
+	<c>风景</c>
+	<d>长围巾</d>
+</item>
+<item>
+	<id>5046</id>
+	<word>scar</word>
+	<a>创伤</a>
+	<b>恐惧</b>
+	<c>皮肤</c>
+	<d>计划</d>
+</item>
+<item>
+	<id>5047</id>
+	<word>upgrade</word>
+	<a>升级</a>
+	<b>提出</b>
+	<c>申请</c>
+	<d>滑翔</d>
+</item>
+<item>
+	<id>5051</id>
+	<word>loom</word>
+	<a>隐约出现</a>
+	<b>模糊</b>
+	<c>障碍</c>
+	<d>显露</d>
+</item>
+<item>
+	<id>5051</id>
+	<word>loom</word>
+	<a>临近</a>
+	<b>接近</b>
+	<c>进入</c>
+	<d>接触</d>
+</item>
+<item>
+	<id>5052</id>
+	<word>plague</word>
+	<a>瘟疫</a>
+	<b>塞子</b>
+	<c>插头</c>
+	<d>平原</d>
+</item>
+<item>
+	<id>5052</id>
+	<word>plague</word>
+	<a>鼠疫</a>
+	<b>广场</b>
+	<c>行星</c>
+	<d>盘子</d>
+</item>
+<item>
+	<id>5056</id>
+	<word>hood</word>
+	<a>汽车发动机罩</a>
+	<b>屋顶</b>
+	<c>钩子</c>
+	<d>冰球</d>
+</item>
+<item>
+	<id>5058</id>
+	<word>receipt</word>
+	<a>收据</a>
+	<b>接受</b>
+	<c>欺骗</c>
+	<d>自负</d>
+</item>
+<item>
+	<id>5060</id>
+	<word>alcoholic</word>
+	<a>含酒精的</a>
+	<b>不明显的</b>
+	<c>痛苦的</c>
+	<d>电子的</d>
+</item>
+<item>
+	<id>5063</id>
+	<word>objection</word>
+	<a>反对</a>
+	<b>弃权</b>
+	<c>客观</c>
+	<d>固执</d>
+</item>
+<item>
+	<id>5065</id>
+	<word>aide</word>
+	<a>助理</a>
+	<b>正版</b>
+	<c>名单</c>
+	<d>权威</d>
+</item>
+<item>
+	<id>5066</id>
+	<word>betray</word>
+	<a>背叛</a>
+	<b>描写</b>
+	<c>比喻</c>
+	<d>曲解</d>
+</item>
+<item>
+	<id>5078</id>
+	<word>swell</word>
+	<a>增加</a>
+	<b>摇荡</b>
+	<c>摆动</c>
+	<d>转向</d>
+</item>
+<item>
+	<id>5078</id>
+	<word>swell</word>
+	<a>增强</a>
+	<b>加速</b>
+	<c>迈出</c>
+	<d>期待</d>
+</item>
+<item>
+	<id>5078</id>
+	<word>swell</word>
+	<a>鼓起</a>
+	<b>花费</b>
+	<c>滑行</c>
+	<d>踮脚</d>
+</item>
+<item>
+	<id>5078</id>
+	<word>swell</word>
+	<a>波涛汹涌</a>
+	<b>翻滚</b>
+	<c>犹豫</c>
+	<d>退色</d>
+</item>
+<item>
+	<id>5078</id>
+	<word>swell</word>
+	<a>肿胀</a>
+	<b>缩小</b>
+	<c>褪色</c>
+	<d>退出</d>
+</item>
+<item>
+	<id>5094</id>
+	<word>defy</word>
+	<a>公然违抗</a>
+	<b>公开否认</b>
+	<c>一致否决</c>
+	<d>全然拒绝</d>
+</item>
+<item>
+	<id>5095</id>
+	<word>elaborate</word>
+	<a>详尽而复杂的</a>
+	<b>简单扼要的</b>
+	<c>微言大义的</c>
+	<d>词丰意满的</d>
+</item>
+<item>
+	<id>5098</id>
+	<word>necessity</word>
+	<a>必需品</a>
+	<b>补充物</b>
+	<c>储备物</c>
+	<d>设施</d>
+</item>
+<item>
+	<id>5098</id>
+	<word>necessity</word>
+	<a>必要</a>
+	<b>可能</b>
+	<c>实现</c>
+	<d>可信</d>
+</item>
+<item>
+	<id>5099</id>
+	<word>persist</word>
+	<a>坚持</a>
+	<b>延长</b>
+	<c>奉献</c>
+	<d>决定</d>
+</item>
+<item>
+	<id>5100</id>
+	<word>scan</word>
+	<a>细察</a>
+	<b>惊吓</b>
+	<c>缺乏</c>
+	<d>伤痕</d>
+</item>
+<item>
+	<id>5100</id>
+	<word>scan</word>
+	<a>扫描</a>
+	<b>扫除</b>
+	<c>描述</c>
+	<d>临摹</d>
+</item>
+<item>
+	<id>5100</id>
+	<word>scan</word>
+	<a>浏览</a>
+	<b>精读</b>
+	<c>描摹</c>
+	<d>默读</d>
+</item>
+<item>
+	<id>5103</id>
+	<word>conscience</word>
+	<a>良心</a>
+	<b>意识</b>
+	<c>意义</c>
+	<d>感情</d>
+</item>
+<item>
+	<id>5110</id>
+	<word>artificial</word>
+	<a>人工的</a>
+	<b>艺术的</b>
+	<c>编辑的</c>
+	<d>制作的</d>
+</item>
+<item>
+	<id>5111</id>
+	<word>awkward</word>
+	<a>不方便的</a>
+	<b>很奇怪的</b>
+	<c>不尴尬的</c>
+	<d>很笨拙的</d>
+</item>
+<item>
+	<id>5111</id>
+	<word>awkward</word>
+	<a>尴尬的</a>
+	<b>可怕的</b>
+	<c>惊醒的</c>
+	<d>反对的</d>
+</item>
+<item>
+	<id>5121</id>
+	<word>irony</word>
+	<a>反语</a>
+	<b>熨斗</b>
+	<c>肖像</c>
+	<d>铁器</d>
+</item>
+<item>
+	<id>5122</id>
+	<word>metropolitan</word>
+	<a>大都市，大城市</a>
+	<b>乡村的</b>
+	<c>小城市的</c>
+	<d>深山里的</d>
+</item>
+<item>
+	<id>5127</id>
+	<word>canvas</word>
+	<a>帆布</a>
+	<b>罐头</b>
+	<c>鲨鱼</c>
+	<d>马戏团</d>
+</item>
+<item>
+	<id>5129</id>
+	<word>deprive</word>
+	<a>剥夺</a>
+	<b>认出</b>
+	<c>构想</c>
+	<d>畅谈</d>
+</item>
+<item>
+	<id>5135</id>
+	<word>criticize</word>
+	<a>批评</a>
+	<b>抱怨</b>
+	<c>下结论</c>
+	<d>赞成</d>
+</item>
+<item>
+	<id>5136</id>
+	<word>damp</word>
+	<a>潮湿的</a>
+	<b>大坝</b>
+	<c>破坏</c>
+	<d>该死的</d>
+</item>
+<item>
+	<id>5136</id>
+	<word>damp</word>
+	<a>潮湿的地方</a>
+	<b>雾气</b>
+	<c>霜</c>
+	<d>丢弃</d>
+</item>
+<item>
+	<id>5142</id>
+	<word>flick</word>
+	<a>晃动</a>
+	<b>迷茫</b>
+	<c>制作</c>
+	<d>设计</d>
+</item>
+<item>
+	<id>5142</id>
+	<word>flick</word>
+	<a>弹去</a>
+	<b>计算</b>
+	<c>摆脱</c>
+	<d>释放</d>
+</item>
+<item>
+	<id>5146</id>
+	<word>coincide</word>
+	<a>巧合</a>
+	<b>错过　　</b>
+	<c>合作</c>
+	<d>碰撞</d>
+</item>
+<item>
+	<id>5148</id>
+	<word>legitimate</word>
+	<a>合法的</a>
+	<b>服从的</b>
+	<c>行政的</c>
+	<d>权威的</d>
+</item>
+<item>
+	<id>5149</id>
+	<word>meantime</word>
+	<a>期间</a>
+	<b>重大意义</b>
+	<c>贫穷时期</c>
+	<d>平均数</d>
+</item>
+<item>
+	<id>5152</id>
+	<word>awake</word>
+	<a>醒着的</a>
+	<b>安静的</b>
+	<c>熟睡的</c>
+	<d>吵闹的</d>
+</item>
+<item>
+	<id>5152</id>
+	<word>awake</word>
+	<a>意识到的</a>
+	<b>承认</b>
+	<c>告戒</c>
+	<d>被说服</d>
+</item>
+<item>
+	<id>5153</id>
+	<word>bacon</word>
+	<a>熏猪肉</a>
+	<b>海滩</b>
+	<c>玉米</c>
+	<d>请求</d>
+</item>
+<item>
+	<id>5154</id>
+	<word>depict</word>
+	<a>描写</a>
+	<b>定金</b>
+	<c>赤字</c>
+	<d>打败</d>
+</item>
+<item>
+	<id>5156</id>
+	<word>hunger</word>
+	<a>饥饿</a>
+	<b>怒气</b>
+	<c>老虎</c>
+	<d>雷声</d>
+</item>
+<item>
+	<id>5156</id>
+	<word>hunger</word>
+	<a>饥饿感</a>
+	<b>痛苦感</b>
+	<c>快感</c>
+	<d>幸福感</d>
+</item>
+<item>
+	<id>5158</id>
+	<word>contemplate</word>
+	<a>打算</a>
+	<b>构造</b>
+	<c>扩展</c>
+	<d>解释</d>
+</item>
+<item>
+	<id>5161</id>
+	<word>denial</word>
+	<a>否认</a>
+	<b>凹陷</b>
+	<c>谴责</c>
+	<d>离开</d>
+</item>
+<item>
+	<id>5162</id>
+	<word>dignity</word>
+	<a>尊严</a>
+	<b>气质</b>
+	<c>严肃</c>
+	<d>成功</d>
+</item>
+<item>
+	<id>5163</id>
+	<word>expel</word>
+	<a>开除</a>
+	<b>支出</b>
+	<c>离去</c>
+	<d>强迫</d>
+</item>
+<item>
+	<id>5166</id>
+	<word>incline</word>
+	<a>倾向于做</a>
+	<b>拒绝</b>
+	<c>弯曲</c>
+	<d>包括</d>
+</item>
+<item>
+	<id>5166</id>
+	<word>incline</word>
+	<a>使倾向于</a>
+	<b>拒绝</b>
+	<c>弯曲</c>
+	<d>包含</d>
+</item>
+<item>
+	<id>5170</id>
+	<word>rattle</word>
+	<a>(使)格格作响</a>
+	<b>争吵</b>
+	<c>海龟</c>
+	<d>牛群</d>
+</item>
+<item>
+	<id>5170</id>
+	<word>rattle</word>
+	<a>嘎啦嘎啦地快速移动</a>
+	<b>爬行</b>
+	<c>徒步</c>
+	<d>发疯</d>
+</item>
+<item>
+	<id>5170</id>
+	<word>rattle</word>
+	<a>使慌张</a>
+	<b>使害怕</b>
+	<c>使发怒</c>
+	<d>使消沉</d>
+</item>
+<item>
+	<id>5173</id>
+	<word>jar</word>
+	<a>广口瓶</a>
+	<b>果酱</b>
+	<c>行话</c>
+	<d>门房</d>
+</item>
+<item>
+	<id>5173</id>
+	<word>jar</word>
+	<a>一瓶</a>
+	<b>监狱</b>
+	<c>信心</c>
+	<d>面粉</d>
+</item>
+<item>
+	<id>5173</id>
+	<word>jar</word>
+	<a>撞击</a>
+	<b>堵塞</b>
+	<c>传递</c>
+	<d>封锁</d>
+</item>
+<item>
+	<id>5173</id>
+	<word>jar</word>
+	<a>一杯啤酒</a>
+	<b>急拉</b>
+	<c>首领</c>
+	<d>梨</d>
+</item>
+<item>
+	<id>5175</id>
+	<word>protective</word>
+	<a>保护的</a>
+	<b>监视着的</b>
+	<c>小心翼翼的</c>
+	<d>受限制的</d>
+</item>
+<item>
+	<id>5181</id>
+	<word>invade</word>
+	<a>侵略</a>
+	<b>袭击</b>
+	<c>投资</c>
+	<d>失效</d>
+</item>
+<item>
+	<id>5182</id>
+	<word>scent</word>
+	<a>香味</a>
+	<b>电影</b>
+	<c>风景</c>
+	<d>骗局</d>
+</item>
+<item>
+	<id>5182</id>
+	<word>scent</word>
+	<a>臭迹</a>
+	<b>情景</b>
+	<c>悬崖</c>
+	<d>风光</d>
+</item>
+<item>
+	<id>5183</id>
+	<word>stitch</word>
+	<a>一针</a>
+	<b>袖子</b>
+	<c>工具</c>
+	<d>服务</d>
+</item>
+<item>
+	<id>5183</id>
+	<word>stitch</word>
+	<a>缝法</a>
+	<b>珍惜</b>
+	<c>热浪</c>
+	<d>收藏</d>
+</item>
+<item>
+	<id>5183</id>
+	<word>stitch</word>
+	<a>一针</a>
+	<b>制裁</b>
+	<c>起诉</c>
+	<d>窒息</d>
+</item>
+<item>
+	<id>5185</id>
+	<word>allocate</word>
+	<a>分配</a>
+	<b>解放</b>
+	<c>分解</c>
+	<d>处罚</d>
+</item>
+<item>
+	<id>5193</id>
+	<word>hesitate</word>
+	<a>犹豫</a>
+	<b>忧郁</b>
+	<c>界限</c>
+	<d>追逐</d>
+</item>
+<item>
+	<id>5195</id>
+	<word>engagement</word>
+	<a>订婚</a>
+	<b>谜语</b>
+	<c>占有</c>
+	<d>典当</d>
+</item>
+<item>
+	<id>5198</id>
+	<word>integrity</word>
+	<a>正直</a>
+	<b>庆祝</b>
+	<c>才智</c>
+	<d>整数</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

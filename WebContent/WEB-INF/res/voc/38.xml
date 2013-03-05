@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>7400</id>
+	<word>hardship</word>
+	<a>艰难</a>
+	<b>坚强</b>
+	<c>灾难</c>
+	<d>不幸</d>
+</item>
+<item>
+	<id>7403</id>
+	<word>loot</word>
+	<a>抢劫</a>
+	<b>绑架</b>
+	<c>伏击</c>
+	<d>偷窃</d>
+</item>
+<item>
+	<id>7403</id>
+	<word>loot</word>
+	<a>赃物</a>
+	<b>货物</b>
+	<c>商品</c>
+	<d>杂物</d>
+</item>
+<item>
+	<id>7413</id>
+	<word>rake</word>
+	<a>耙子</a>
+	<b>扫帚</b>
+	<c>犁</c>
+	<d>车闸</d>
+</item>
+<item>
+	<id>7413</id>
+	<word>rake</word>
+	<a>坡度，倾角</a>
+	<b>跨度</b>
+	<c>幅度</c>
+	<d>程度</d>
+</item>
+<item>
+	<id>7419</id>
+	<word>brink</word>
+	<a>在...的边缘</a>
+	<b>悬崖</b>
+	<c>刹车</c>
+	<d>在...的西面</d>
+</item>
+<item>
+	<id>7421</id>
+	<word>flicker</word>
+	<a>闪烁</a>
+	<b>斗争</b>
+	<c>夸张</c>
+	<d>积极</d>
+</item>
+<item>
+	<id>7421</id>
+	<word>flicker</word>
+	<a>闪现</a>
+	<b>斗争</b>
+	<c>计算</c>
+	<d>弹跳</d>
+</item>
+<item>
+	<id>7432</id>
+	<word>mislead</word>
+	<a>误导</a>
+	<b>放任</b>
+	<c>犯错</c>
+	<d>错过</d>
+</item>
+<item>
+	<id>7442</id>
+	<word>daunt</word>
+	<a>使害怕</a>
+	<b>伸出鬼没</b>
+	<c>喷泉</c>
+	<d>解冻</d>
+</item>
+<item>
+	<id>7444</id>
+	<word>fireman</word>
+	<a>司炉工</a>
+	<b>开枪人</b>
+	<c>劈柴人</c>
+	<d>着火的人</d>
+</item>
+<item>
+	<id>7450</id>
+	<word>reconciliation</word>
+	<a>和解</a>
+	<b>联盟</b>
+	<c>消亡</c>
+	<d>巩固</d>
+</item>
+<item>
+	<id>7469</id>
+	<word>earring</word>
+	<a>耳环</a>
+	<b>收入</b>
+	<c>耳塞</c>
+	<d>耳套</d>
+</item>
+<item>
+	<id>7473</id>
+	<word>merry</word>
+	<a>（圣诞）快乐</a>
+	<b>（新年）好</b>
+	<c>隆重的</c>
+	<d>结婚</d>
+</item>
+<item>
+	<id>7486</id>
+	<word>congratulate</word>
+	<a>祝贺</a>
+	<b>聚集</b>
+	<c>使联盟</c>
+	<d>指派</d>
+</item>
+<item>
+	<id>7489</id>
+	<word>disgusting</word>
+	<a>令人厌恶的</a>
+	<b>令人失望的</b>
+	<c>令人费解的</c>
+	<d>令人担心的</d>
+</item>
+<item>
+	<id>7505</id>
+	<word>veil</word>
+	<a>掩盖</a>
+	<b>编织</b>
+	<c>证明</c>
+	<d>困惑</d>
+</item>
+<item>
+	<id>7510</id>
+	<word>lust</word>
+	<a>淫欲</a>
+	<b>徒劳</b>
+	<c>渴望</c>
+	<d>欲望</d>
+</item>
+<item>
+	<id>7510</id>
+	<word>lust</word>
+	<a>强烈的欲望</a>
+	<b>抱负</b>
+	<c>坚定的决心</c>
+	<d>贪婪</d>
+</item>
+<item>
+	<id>7515</id>
+	<word>adverse</word>
+	<a>不利的</a>
+	<b>广告的</b>
+	<c>正规的</c>
+	<d>正面的</d>
+</item>
+<item>
+	<id>7528</id>
+	<word>bachelor</word>
+	<a>单身汉</a>
+	<b>流浪汉</b>
+	<c>舞女</c>
+	<d>酒保</d>
+</item>
+<item>
+	<id>7530</id>
+	<word>cardboard</word>
+	<a>卡纸板</a>
+	<b>厚纸板</b>
+	<c>薄纸板</c>
+	<d>卡片纸</d>
+</item>
+<item>
+	<id>7531</id>
+	<word>conform</word>
+	<a>像大多数人那样行事</a>
+	<b>确定</b>
+	<c>消费</c>
+	<d>迷惑</d>
+</item>
+<item>
+	<id>7533</id>
+	<word>eclipse</word>
+	<a>日蚀</a>
+	<b>极昼</b>
+	<c>宇宙</c>
+	<d>天体</d>
+</item>
+<item>
+	<id>7533</id>
+	<word>eclipse</word>
+	<a>黯然失色</a>
+	<b>伤心欲绝</b>
+	<c>自叹不如</c>
+	<d>欢欣雀跃</d>
+</item>
+<item>
+	<id>7535</id>
+	<word>generator</word>
+	<a>发电机</a>
+	<b>遗传学</b>
+	<c>总代理</c>
+	<d>仿生仪</d>
+</item>
+<item>
+	<id>7537</id>
+	<word>ignorant</word>
+	<a>无知的</a>
+	<b>可耻的</b>
+	<c>芳香的</c>
+	<d>骄傲的</d>
+</item>
+<item>
+	<id>7543</id>
+	<word>seam</word>
+	<a>线缝</a>
+	<b>缝补</b>
+	<c>间隙</c>
+	<d>海洋</d>
+</item>
+<item>
+	<id>7544</id>
+	<word>terminate</word>
+	<a>终止</a>
+	<b>检查</b>
+	<c>定义</c>
+	<d>腐蚀</d>
+</item>
+<item>
+	<id>7551</id>
+	<word>ensue</word>
+	<a>随之发生</a>
+	<b>赋予</b>
+	<c>告诫</c>
+	<d>确保</d>
+</item>
+<item>
+	<id>7552</id>
+	<word>feat</word>
+	<a>功绩</a>
+	<b>宴会</b>
+	<c>脚</c>
+	<d>热气</d>
+</item>
+<item>
+	<id>7566</id>
+	<word>paste</word>
+	<a>肉酱</a>
+	<b>酱油</b>
+	<c>年糕</c>
+	<d>粘膏</d>
+</item>
+<item>
+	<id>7566</id>
+	<word>paste</word>
+	<a>糊状物</a>
+	<b>浆糊</b>
+	<c>过道</c>
+	<d>面食</d>
+</item>
+<item>
+	<id>7566</id>
+	<word>paste</word>
+	<a>浆糊</a>
+	<b>江湖</b>
+	<c>糕点</c>
+	<d>通过</d>
+</item>
+<item>
+	<id>7572</id>
+	<word>escalate</word>
+	<a>恶化</a>
+	<b>劝告</b>
+	<c>同意</c>
+	<d>问候</d>
+</item>
+<item>
+	<id>7573</id>
+	<word>fuse</word>
+	<a>保险丝</a>
+	<b>小题大做</b>
+	<c>烟</c>
+	<d>燃料</d>
+</item>
+<item>
+	<id>7573</id>
+	<word>fuse</word>
+	<a>导火索</a>
+	<b>菜单</b>
+	<c>幽默</c>
+	<d>色彩</d>
+</item>
+<item>
+	<id>7573</id>
+	<word>fuse</word>
+	<a>结合</a>
+	<b>解决</b>
+	<c>使成合金</c>
+	<d>解散</d>
+</item>
+<item>
+	<id>7582</id>
+	<word>ample</word>
+	<a>充足的</a>
+	<b>漫步的</b>
+	<c>扩大的</c>
+	<d>有趣的</d>
+</item>
+<item>
+	<id>7587</id>
+	<word>illuminate</word>
+	<a>照亮</a>
+	<b>照顾</b>
+	<c>提名</c>
+	<d>决定</d>
+</item>
+<item>
+	<id>7587</id>
+	<word>illuminate</word>
+	<a>阐明</a>
+	<b>想象</b>
+	<c>仿效</c>
+	<d>忽视</d>
+</item>
+<item>
+	<id>7589</id>
+	<word>linguistic</word>
+	<a>语言的</a>
+	<b>语音的</b>
+	<c>语义的</c>
+	<d>语法的</d>
+</item>
+<item>
+	<id>7590</id>
+	<word>pyramid</word>
+	<a>金字塔</a>
+	<b>大峡谷</b>
+	<c>运河</c>
+	<d>草原</d>
+</item>
+<item>
+	<id>7592</id>
+	<word>sorrow</word>
+	<a>悲痛</a>
+	<b>源头</b>
+	<c>健康</c>
+	<d>灵魂</d>
+</item>
+<item>
+	<id>7598</id>
+	<word>dove</word>
+	<a>鸽子</a>
+	<b>燕子</b>
+	<c>蝴蝶</c>
+	<d>蜻蜓</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->

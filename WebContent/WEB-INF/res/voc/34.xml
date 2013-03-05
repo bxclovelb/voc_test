@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+<item>
+	<id>6603</id>
+	<word>transit</word>
+	<a>运输</a>
+	<b>赤道</b>
+	<c>货运</c>
+	<d>飞行</d>
+</item>
+<item>
+	<id>6604</id>
+	<word>balcony</word>
+	<a>阳台</a>
+	<b>平台</b>
+	<c>海岸</c>
+	<d>沙滩</d>
+</item>
+<item>
+	<id>6607</id>
+	<word>fascinate</word>
+	<a>迷住</a>
+	<b>困惑</b>
+	<c>阻挡</c>
+	<d>陷入</d>
+</item>
+<item>
+	<id>6609</id>
+	<word>intrigue</word>
+	<a>施诡计</a>
+	<b>引诱</b>
+	<c>鼓舞人心</c>
+	<d>引导</d>
+</item>
+<item>
+	<id>6609</id>
+	<word>intrigue</word>
+	<a>引起好奇心</a>
+	<b>复杂化</b>
+	<c>扳动</c>
+	<d>引发</d>
+</item>
+<item>
+	<id>6610</id>
+	<word>motorcycle</word>
+	<a>摩托车</a>
+	<b>自行车</b>
+	<c>卡车</c>
+	<d>三轮车</d>
+</item>
+<item>
+	<id>6612</id>
+	<word>realm</word>
+	<a>领域</a>
+	<b>统治</b>
+	<c>真实</c>
+	<d>科幻</d>
+</item>
+<item>
+	<id>6622</id>
+	<word>inhabitant</word>
+	<a>居民</a>
+	<b>移民</b>
+	<c>习惯</c>
+	<d>传统</d>
+</item>
+<item>
+	<id>6624</id>
+	<word>renown</word>
+	<a>名望</a>
+	<b>贵族</b>
+	<c>名人</c>
+	<d>尊严</d>
+</item>
+<item>
+	<id>6636</id>
+	<word>cheerful</word>
+	<a>快乐的</a>
+	<b>沮丧的</b>
+	<c>悲哀的</c>
+	<d>迷人的</d>
+</item>
+<item>
+	<id>6636</id>
+	<word>cheerful</word>
+	<a>令人愉快的</a>
+	<b>使人感到沮丧的</b>
+	<c>使人感到悲哀的</c>
+	<d>使人感到愤恨的</d>
+</item>
+<item>
+	<id>6639</id>
+	<word>fiscal</word>
+	<a>国库的</a>
+	<b>经济的</b>
+	<c>物理的</c>
+	<d>体力的</d>
+</item>
+<item>
+	<id>6640</id>
+	<word>harden</word>
+	<a>使变硬</a>
+	<b>使成功</b>
+	<c>使变坏</c>
+	<d>使持久</d>
+</item>
+<item>
+	<id>6641</id>
+	<word>likelihood</word>
+	<a>可能性</a>
+	<b>喜欢</b>
+	<c>或许</c>
+	<d>相似</d>
+</item>
+<item>
+	<id>6643</id>
+	<word>shampoo</word>
+	<a>洗发剂</a>
+	<b>袋鼠</b>
+	<c>香槟</c>
+	<d>相扑</d>
+</item>
+<item>
+	<id>6643</id>
+	<word>shampoo</word>
+	<a>清洁剂</a>
+	<b>外型</b>
+	<c>肥皂泡</c>
+	<d>肥皂</d>
+</item>
+<item>
+	<id>6647</id>
+	<word>cargo</word>
+	<a>货物</a>
+	<b>货舱</b>
+	<c>货架</c>
+	<d>货船</d>
+</item>
+<item>
+	<id>6659</id>
+	<word>umbrella</word>
+	<a>雨伞</a>
+	<b>蘑菇</b>
+	<c>扫帚</c>
+	<d>垃圾</d>
+</item>
+<item>
+	<id>6660</id>
+	<word>ancestor</word>
+	<a>祖先</a>
+	<b>后代</b>
+	<c>起锚</c>
+	<d>支柱</d>
+</item>
+<item>
+	<id>6662</id>
+	<word>canoe</word>
+	<a>独木舟</a>
+	<b>加农炮</b>
+	<c>收获</c>
+	<d>弹弓</d>
+</item>
+<item>
+	<id>6669</id>
+	<word>ranch</word>
+	<a>大牧场</a>
+	<b>长椅</b>
+	<c>范围</c>
+	<d>河段</d>
+</item>
+<item>
+	<id>6676</id>
+	<word>limp</word>
+	<a>缓慢行驶</a>
+	<b>演变</b>
+	<c>维持</c>
+	<d>渐进</d>
+</item>
+<item>
+	<id>6676</id>
+	<word>limp</word>
+	<a>跛行</a>
+	<b>划线</b>
+	<c>联系</c>
+	<d>留恋</d>
+</item>
+<item>
+	<id>6677</id>
+	<word>manuscript</word>
+	<a>手稿</a>
+	<b>手工</b>
+	<c>菜单</c>
+	<d>草稿</d>
+</item>
+<item>
+	<id>6679</id>
+	<word>quota</word>
+	<a>定额，限额</a>
+	<b>引用，引证</b>
+	<c>战栗，发抖</c>
+	<d>商，商数</d>
+</item>
+<item>
+	<id>6687</id>
+	<word>energetic</word>
+	<a>充满活力的</a>
+	<b>一丝不苟的</b>
+	<c>热情好客的</c>
+	<d>臭名昭著的</d>
+</item>
+<item>
+	<id>6688</id>
+	<word>jerk</word>
+	<a>猛拉</a>
+	<b>玉石</b>
+	<c>监狱</c>
+	<d>果冻</d>
+</item>
+<item>
+	<id>6688</id>
+	<word>jerk</word>
+	<a>使前进</a>
+	<b>走私</b>
+	<c>捐献</c>
+	<d>成形</d>
+</item>
+<item>
+	<id>6698</id>
+	<word>compel</word>
+	<a>强迫</a>
+	<b>竞争</b>
+	<c>促进</c>
+	<d>解决</d>
+</item>
+<item>
+	<id>6700</id>
+	<word>exaggerate</word>
+	<a>夸大</a>
+	<b>强调</b>
+	<c>支持</c>
+	<d>促成</d>
+</item>
+<item>
+	<id>6709</id>
+	<word>ensemble</word>
+	<a>小乐队</a>
+	<b>歌手</b>
+	<c>演员</c>
+	<d>交响乐</d>
+</item>
+<item>
+	<id>6714</id>
+	<word>dental</word>
+	<a>牙齿的</a>
+	<b>致命的</b>
+	<c>杂记的</c>
+	<d>金属的</d>
+</item>
+<item>
+	<id>6715</id>
+	<word>idiot</word>
+	<a>笨蛋</a>
+	<b>偶像</b>
+	<c>闲适</c>
+	<d>主意</d>
+</item>
+<item>
+	<id>6721</id>
+	<word>ecstasy</word>
+	<a>狂喜</a>
+	<b>悲伤</b>
+	<c>消沉</c>
+	<d>幸福</d>
+</item>
+<item>
+	<id>6722</id>
+	<word>flip</word>
+	<a>快速翻动</a>
+	<b>轻轻拍打</b>
+	<c>成群飞跃</c>
+	<d>快速点击</d>
+</item>
+<item>
+	<id>6722</id>
+	<word>flip</word>
+	<a>抛掷</a>
+	<b>放弃</b>
+	<c>追赶</c>
+	<d>搬运</d>
+</item>
+<item>
+	<id>6722</id>
+	<word>flip</word>
+	<a>大发雷霆</a>
+	<b>轻弹</b>
+	<c>拍动</c>
+	<d>如雷贯耳</d>
+</item>
+<item>
+	<id>6732</id>
+	<word>dwarf</word>
+	<a>矮子；侏儒</a>
+	<b>小刀</b>
+	<c>叉子</c>
+	<d>狼</d>
+</item>
+<item>
+	<id>6745</id>
+	<word>contend</word>
+	<a>竞争</a>
+	<b>主张</b>
+	<c>影响</c>
+	<d>创作</d>
+</item>
+<item>
+	<id>6761</id>
+	<word>durable</word>
+	<a>持久的</a>
+	<b>双重的</b>
+	<c>重复的</c>
+	<d>沉重的</d>
+</item>
+<item>
+	<id>6764</id>
+	<word>grieve</word>
+	<a>使伤心</a>
+	<b>减轻</b>
+	<c>过滤</c>
+	<d>抱怨</d>
+</item>
+<item>
+	<id>6765</id>
+	<word>marshal</word>
+	<a>元帅</a>
+	<b>首领</b>
+	<c>组长</c>
+	<d>团长</d>
+</item>
+<item>
+	<id>6765</id>
+	<word>marshal</word>
+	<a>司仪</a>
+	<b>陪同</b>
+	<c>观众</c>
+	<d>祭祀</d>
+</item>
+<item>
+	<id>6770</id>
+	<word>vertical</word>
+	<a>垂直的</a>
+	<b>正确的</b>
+	<c>斜角的</c>
+	<d>平衡的</d>
+</item>
+<item>
+	<id>6776</id>
+	<word>favourable</word>
+	<a>讨人喜欢的</a>
+	<b>正经的</b>
+	<c>精明的</c>
+	<d>冷静的</d>
+</item>
+<item>
+	<id>6776</id>
+	<word>favourable</word>
+	<a>赞许的</a>
+	<b>一致的</b>
+	<c>热烈的</c>
+	<d>冷静的</d>
+</item>
+<item>
+	<id>6789</id>
+	<word>radar</word>
+	<a>雷达</a>
+	<b>蝙蝠</b>
+	<c>辐射</c>
+	<d>网络</d>
+</item>
+<item>
+	<id>6794</id>
+	<word>mist</word>
+	<a>薄雾</a>
+	<b>雨水</b>
+	<c>小溪</c>
+	<d>烟火</d>
+</item>
+<item>
+	<id>6795</id>
+	<word>patent</word>
+	<a>专利</a>
+	<b>发现</b>
+	<c>名气</c>
+	<d>职称</d>
+</item>
+<item>
+	<id>6799</id>
+	<word>accordance</word>
+	<a>按照</a>
+	<b>盼望</b>
+	<c>制度</c>
+	<d>响应</d>
+</item>
+</words>
+<!-- Fri Feb 20 10:57:15 CST 2009-->
