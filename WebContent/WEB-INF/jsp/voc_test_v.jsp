@@ -16,20 +16,20 @@
 	rel="stylesheet">
 <link
 	href="/voc_test/res/css/bootstrap.min.css" rel="stylesheet">
+<link rel="shortcut icon" href="/voc_test/res/images/shortcut.png">
 
 <style type="text/css">
+	.body_body{
+		margin-top:20px;
+		background-color:#a8cbe5;
+	}
 	
 	.body_head div{
 		background:#30adb5;
 	}
 	
-	.body_body div{
-		background:#994cdc;
-		margin-top:20px;
-	}
-	
 	.body_footer div{
-		background:#3b7aed;
+		background:#bff2e8;
 		margin-top:20px;
 	}
 </style>
@@ -174,13 +174,13 @@
 		$("#div_question_body").html("");
 		$("#div_question_footer").html("");
 
-		$("#div_question_head").append("<p style='font-size:25pt;padding:5%;border-bottom:1px solid gray'>完成</p>");
+		$("#div_question_head").append("<p style='font-size:25pt;padding:5%;border-bottom:1px solid gray;'>完成</p>");
 		var divContent = $("<div style='font-size:15pt;margin:15px;'></div>");
 		divContent.append("<span style='font-size:15pt'>恭喜您，您已经完成了"+count+"个单词测试。</span><br/><br/>");
 		divContent.append("<span style='font-size:15pt'>您的词汇量为："+(level*200)+"-"+(level*200+200)+"</span><br/><br/><br/><br/>");
 		divContent.append("<span style='font-size:15pt'>注：注册成为冰果正式用户，可以提交测试结果，冰果英语会根据您的测试结果，自动为您选择最优的学习方案，并根据您在冰果的学习状况动态安排您的学习内容。</span>");
 		$("#div_question_body").append(divContent);
-		var divNext = $("<div align='right' style='padding:10px;margin-top:15px;border-top:1px solid gray'></div>");
+		var divNext = $("<div align='right' style='padding:10px;border-top:1px solid gray'></div>");
 		divNext.append("<button class='btn btn-info' onclick='nextTest();'>继续测试</button>");
 		$("#div_question_footer").append(divNext);
 	}
@@ -324,10 +324,10 @@
 			$("#div_question_body").html("");
 			$("#div_question_footer").html("");
 			
-			$("#div_question_head").append("<p style='font-size:25pt;padding:5%;border-bottom:1px solid gray'>"
+			$("#div_question_head").append("<p style='margin-bottom:0;color:black;font-size:25pt;padding:5%;border-bottom:1px solid gray'>"
 				+no+". <span id='span_head_word'>"+data.question.word+"</span></p>");
 
-			var formRadios = $("<form id='form_radios'></form>");
+			var formRadios = $("<form id='form_radios' style=''></form>");
 			var nos = ["0","1","2","3"];
 			var length = nos.length;
  			for(var i=0;i<length;i++){
@@ -338,25 +338,25 @@
 				nos[i] = item;
 			}
 			for(var i=0;i<length;i++){
-				var divRadio = $("<div id='div_radio_"+i+"' style='font-size:18pt;margin:15px;padding:10px'></div>");
+				var divRadio = $("<div id='div_radio_"+i+"' style='font-size:18pt;margin:25px;padding:10px'></div>");
 				if(i%2 != 0){
-					divRadio.css("background-color","#b680e5");
+					divRadio.css("background-color","#85c1ee");
 					divRadio.hover(
 						function(){
-							$(this).css("background-color","#d6b1f6");
+							$(this).css("background-color","#c8e3f8");
 						},
 						function(){
-							$(this).css("background-color","#b680e5");
+							$(this).css("background-color","#85c1ee");
 						}
 					);
 				}else{
-					divRadio.css("background-color","#ae5df4");
+					divRadio.css("background-color","#5c9ccc");
 					divRadio.hover(
 						function(){
-							$(this).css("background-color","#d6b1f6");
+							$(this).css("background-color","#c8e3f8");
 						},
 						function(){
-							$(this).css("background-color","#ae5df4");
+							$(this).css("background-color","#5c9ccc");
 						}
 						
 					);
@@ -378,15 +378,15 @@
 			}
 			$("#div_question_body").append(formRadios);
 
-			var divNext = $("<div style='padding:10px;margin-top:15px;border-top:1px solid gray;height:30px'></div>");
+			var divNext = $("<div style='padding:10px;border-top:1px solid gray;height:30px'></div>");
 			if(no % 20 != 0){
 				var ifChecked = clickIfChecked;
 				divNext.append("<button class='btn btn-info' onclick='nextQuestion();' style='float:right'>下一题</button>");
 				if(ifChecked == "checked"){
-					divNext.append("<input id='checkbox_click' type='checkbox' onclick='toggleClick();' checked='checked' style='width:30px'><span>单击进入下一题</span>");
+					divNext.append("<input id='checkbox_click' type='checkbox' onclick='toggleClick();' checked='checked' style='width:30px'><span style='color:black'>单击进入下一题</span>");
 					bindclick();
 				}else{
-					divNext.append("<input id='checkbox_click' type='checkbox' onclick='toggleClick();' style='width:30px'><span>单击进入下一题</span>");
+					divNext.append("<input id='checkbox_click' type='checkbox' onclick='toggleClick();' style='width:30px'><span style='color:black'>单击进入下一题</span>");
 				}
 				
 			}else{
@@ -462,11 +462,11 @@
 	<link href="/voc_test/res/css/ie6.min.css" rel="stylesheet">
 <![endif]-->
 </head>
-<body style="background:#320778;color:white;">
+<body style="background:url(/voc_test/res/images/cloudsbg.jpg) repeat-x;">
 	<!-- navbar -->
-	<div class="navbar navbar-fixed-top navbar-inverse">
+	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
-		<img src="/voc_info/res/images/bingo.png" style="float:left">
+		<img src="/voc_test/res/images/bingo.png" style="float:left">
 			<a class="brand" href="###" >冰果英语</a>
 			<ul class="nav">
 				<li><a href="###" onclick="goToVocInfo();">个人词汇信息</a></li>
@@ -478,41 +478,41 @@
 	</div>
 	<!-- navbar end -->
 	
-	<div class="container" style="margin-top:3%">
-		<div align="center" style="color:white;font-size:40pt;background-color: #c01179;padding:5%;height: auto;">
+	<div class="container" style="margin-top:41px">
+		<div align="center" style="color:white;font-size:40pt;background-image: url(/voc_test/res/images/bg_head.jpg);padding:5%;height: auto;">
 			冰果英语词汇量测试
 		</div>
-		<div class="row-fluid" style="margin-top:2%">
-			<div class="span3">
-				<div align="center" style="width:90%;background:#f6a828;font-size:15pt;padding:5%">已测单词</div>
-				<div id="div_cards_left" style="height:606px;border:1px solid #f6a828">
-					<div style="font-size:15pt;color:white;padding:10%;direction: inherit;">想知道自己的词汇量么?快来试试吧~</div>
+		<div class="well row-fluid" style="margin-top:2%;padding:20px 0 20px 0;background-color: #f0f9fe">
+			<div class="span3" style="margin-left:10px">
+				<div align="center" style="width:90%;background:#ecd95f;font-size:15pt;padding:5%">已测单词</div>
+				<div id="div_cards_left" style="height:606px;border:1px solid #ecd95f">
+					<div style="font-size:15pt;color:black;padding:10%;direction: inherit;">想知道自己的词汇量么?快来试试吧~</div>
 				</div>
 			</div>
-    		<div class="span6" style="margin-left:20px">
+    		<div class="span6" style="margin-left:10px">
     			<div class="body_head">
-    				<div id="div_body_head" style="padding:3%;font-size:15pt;" align="center"></div>
+    				<div id="div_body_head" style="height:20px;padding:20px;font-size:15pt;" align="center"></div>
     			</div>
     			
-	    		<div class="body_body" style="height:400px">
-		    		<div id="div_body_body">
+	    		<div class="body_body" style="">
+		    		<div id="div_body_body" style="">
 		    			<div id="div_question_head"></div>
-		    			<div id="div_question_body" style="height:250px"></div>
+		    			<div id="div_question_body" style=""></div>
 		    			<div id="div_question_footer"></div>
 	    			</div>
     			</div>
     			
-    			<div class="body_footer" style="margin-top:30px">
+    			<div class="body_footer" style="margin-top:20px">
 	    			<div id="div_body_footer" style="padding:3%;font-size:15pt">
 						<p><strong> 您目前的词汇量是：</strong><span id="span_cur_voc_level">0</span></p>
 						<p id="p_estimate"></p>	
 	    			</div>
     			</div>
     		</div>
-    		<div class="span3" style="margin-left:20px">
-				<div align="center" style="width:90%;background:#f6a828;font-size:15pt;padding:5%">已测单词</div>
-				<div id="div_cards_right" style="height:606px;border:1px solid #f6a828">
-					<div style="font-size:15pt;color:white;padding:10%;direction: inherit;">想知道自己的词汇量么?快来试试吧~</div>
+    		<div class="span3" style="margin-left:10px">
+				<div align="center" style="width:90%;background:#ecd95f;font-size:15pt;padding:5%">已测单词</div>
+				<div id="div_cards_right" style="height:606px;border:1px solid #ecd95f">
+					<div style="font-size:15pt;color:black;padding:10%;direction: inherit;">想知道自己的词汇量么?快来试试吧~</div>
 				</div>
 			</div>
     	</div>
