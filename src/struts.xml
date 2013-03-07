@@ -5,9 +5,12 @@
 
 <struts>
 	<constant name="struts.i18n.encoding" value="UTF-8"></constant>
-	<package name="voc_test" extends="struts-default">
-		<action name="test" class="VocTestAction" method="">
-			<result name="success"></result>
+	<package name="voc_test" extends="json-default" namespace="/">
+		<action name="showPage" class="action.VocTestAction" method="showPage">
+			<result name="success">/WEB-INF/jsp/voc_test_v.jsp</result>
 		</action>	
+		<action name="loadQuestion" class="action.VocTestAction" method="loadQuestion">
+			<result name="success" type="json"></result>
+		</action>
 	</package>
 </struts>
