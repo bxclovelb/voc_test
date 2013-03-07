@@ -8,11 +8,12 @@ import java.util.Random;
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
+import org.springframework.jdbc.core.support.JdbcDaoSupport;
 
 import pojo.Question;
 import dao.VocTestDao;
 
-public class VocTestDaoImpl implements VocTestDao {
+public class VocTestDaoImpl extends JdbcDaoSupport implements VocTestDao {
 
 	@Override
 	public Question getQuestion(int index) throws Exception{
@@ -31,8 +32,21 @@ public class VocTestDaoImpl implements VocTestDao {
 		options.add(((Element)element.elements().get(4)).getText());
 		options.add(((Element)element.elements().get(5)).getText());
 		question.setOptions(options);
-		System.out.println(question);
 		return question;
 	}
 
+	@Override
+	public void saveVocabulary(String userId,int vocabulary) {
+		int count = this.getJdbcTemplate().queryForInt("SELECT COUNT(*) "+
+			"FROM voc_test_users_vocabulary WHERE user_id = '"+userId+"'");
+		if(count == 0){
+			this.getJdbcTemplate().update(
+				"INSERT INTO voc_test_users_vocabulary(user_id,vocabulary) " +
+				"VALUES('"+userId+"',"+vocabulary+")");
+		}else{
+			this.getJdbcTemplate().update(
+				"UPDATE voc_test_users_vocabulary SET vocabulary="+vocabulary+
+				" WHERE user_id = '"+userId+"'");
+		}
+	}
 }

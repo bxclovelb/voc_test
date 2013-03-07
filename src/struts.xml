@@ -12,5 +12,8 @@
 		<action name="loadQuestion" class="action.VocTestAction" method="loadQuestion">
 			<result name="success" type="json"></result>
 		</action>
+		<action name="saveVocabulary" class="action.VocTestAction" method="saveVocabulary">
+			<result name="success"></result>
+		</action>
 	</package>
 </struts>

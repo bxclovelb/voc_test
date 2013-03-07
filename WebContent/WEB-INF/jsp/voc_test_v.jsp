@@ -188,7 +188,7 @@
 	//保存用户单词量
 	function saveVocabulary(){
 		$.ajax({
-			url:"/voc_test/index.php/voc_test_c/save_vocabulary/"+userId+"/"+(level*200),
+			url:"/voc_test/saveVocabulary?userId="+userId+"&vocabulary="+(level*200),
 			type:"get"
 		});
 	}
@@ -303,7 +303,7 @@
 			function(data){
 			var exist = false;
 			for(var i=0;i<ids.length;i++){
-				if(ids[i] == data.result.id){
+				if(ids[i] == data.question.id){
 					exist = true;
 					break;
 				}
@@ -325,7 +325,7 @@
 			$("#div_question_footer").html("");
 			
 			$("#div_question_head").append("<p style='font-size:25pt;padding:5%;border-bottom:1px solid gray'>"
-				+no+". <span id='span_head_word'>"+data.result.word+"</span></p>");
+				+no+". <span id='span_head_word'>"+data.question.word+"</span></p>");
 
 			var formRadios = $("<form id='form_radios'></form>");
 			var nos = ["0","1","2","3"];
@@ -362,14 +362,14 @@
 					);
 				}
 				if(i == nos[0]){
-					divRadio.append("<input type='radio' name='items' value='"+data.result.a+"' style='width:30px'> "+data.result.a+"</input>");
-					answer = data.result.a;
+					divRadio.append("<input type='radio' name='items' value='"+data.question.options[0]+"' style='width:30px'> "+data.question.options[0]+"</input>");
+					answer = data.question.options[0];
 				}else if(i == nos[1]){
-					divRadio.append("<input type='radio' name='items' value='"+data.result.b+"' style='width:30px'> "+data.result.b+"</input>");
+					divRadio.append("<input type='radio' name='items' value='"+data.question.options[1]+"' style='width:30px'> "+data.question.options[1]+"</input>");
 				}else if(i == nos[2]){
-					divRadio.append("<input type='radio' name='items' value='"+data.result.c+"' style='width:30px'> "+data.result.c+"</input>");
+					divRadio.append("<input type='radio' name='items' value='"+data.question.options[2]+"' style='width:30px'> "+data.question.options[2]+"</input>");
 				}else if(i == nos[3]){
-					divRadio.append("<input type='radio' name='items' value='"+data.result.d+"' style='width:30px'> "+data.result.d+"</input>");
+					divRadio.append("<input type='radio' name='items' value='"+data.question.options[3]+"' style='width:30px'> "+data.question.options[3]+"</input>");
 				}
 				divRadio.bind("click",function(){
 					$(this).children("input").attr("checked","true");
@@ -395,7 +395,7 @@
 			$("#div_question_footer").append(divNext);
 
 			level = next_level;
-			ids.push(data.result.id);
+			ids.push(data.question.id);
 			updateVocCount();
 			no++;	
 		});
@@ -532,7 +532,7 @@
 	</div>
 	
 	<form>
-		<input type="hidden" id="hidden_user_id" value=""/>
+		<input type="hidden" id="hidden_user_id" value="<s:property value="userId"></s:property>" />
 	</form>
 	
 	<script>

@@ -19,4 +19,8 @@ public class VocTestService {
 		}
 		return question;
 	}
+	
+	public void saveVocabulary(String userId,int vocabulary){
+		vocTestDao.saveVocabulary(userId, vocabulary);
+	}
 }

@@ -10,9 +10,26 @@ import com.opensymphony.xwork2.ActionSupport;
 public class VocTestAction extends ActionSupport {
 	private String userId;
 	private int nextLevel;
+	private int vocabulary;
+	
 	private Question question;
 	
 	private VocTestService vocTestService;
+
+	public String showPage(){
+		return SUCCESS;
+	}
+	
+	public String loadQuestion(){
+		Question question = vocTestService.getQuestion(nextLevel);
+		setQuestion(question);
+		return SUCCESS;
+	}
+	
+	public String saveVocabulary(){
+		vocTestService.saveVocabulary(userId,vocabulary);
+		return SUCCESS;
+	}
 	
 	@JSON(serialize=false)
 	public String getUserId() {
@@ -49,16 +66,14 @@ public class VocTestAction extends ActionSupport {
 	public void setQuestion(Question question) {
 		this.question = question;
 	}
-	
 
-	public String showPage(){
-		return SUCCESS;
+	@JSON(serialize=false)
+	public int getVocabulary() {
+		return vocabulary;
+	}
+
+	public void setVocabulary(int vocabulary) {
+		this.vocabulary = vocabulary;
 	}
 	
-	public String loadQuestion(){
-		System.out.println(nextLevel);
-		Question question = vocTestService.getQuestion(nextLevel);
-		setQuestion(question);
-		return SUCCESS;
-	}
 }
