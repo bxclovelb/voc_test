@@ -18,7 +18,7 @@ public class VocTestDaoImpl extends JdbcDaoSupport implements VocTestDao {
 	@Override
 	public Question getQuestion(int index) throws Exception{
 		SAXReader reader = new SAXReader();
-		String path = Thread.currentThread().getContextClassLoader().getResource("../..").getPath().toString() + "res/voc/"+index+".xml";
+		String path = Thread.currentThread().getContextClassLoader().getResource("../..").getPath().toString().replace("%20", " ") + "res/voc/"+index+".xml";
 		Document doc = reader.read(new File(path));
 		Element root = doc.getRootElement();
 		Random rand = new Random();

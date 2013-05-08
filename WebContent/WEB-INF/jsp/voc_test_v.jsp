@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>冰果英语—词汇量测试</title>
+	<title>英语—词汇量测试</title>
 <script
 	src="/voc_test/res/js/jquery-1.8.2.min.js" type="text/javascript"></script>
 <script
@@ -106,7 +106,7 @@
 		}
 
 		if(times > 0){
-			var divCard = $("<div class='btn-success' style='overflow:auto;margin-top:3%;width:100%;height:80px;'></div>");
+			var divCard = $("<div class='btn-success' style='overflow:auto;margin-top:3%;width:100%;height:82px;'></div>");
 			if($.browser.msie&&parseInt($.browser.version,10)===6){
 				divCard.append("<span class='badge badge-success' style='color:black'>R</span><br>"
 					+"<span style='padding-left:0%;'>"+$("#span_head_word").html()+"</span>"
@@ -118,7 +118,7 @@
 			}
 			divCard.append("<span>正确释义："+answer+"</span>");
 		}else{
-			var divCard = $("<div class='btn-danger' style='overflow:auto;margin-top:3%;width:100%;height:80px;'></div>");
+			var divCard = $("<div class='btn-danger' style='overflow:auto;margin-top:3%;width:100%;height:82px;'></div>");
 			if($.browser.msie&&parseInt($.browser.version,10)===6){
 				divCard.append("<span class='badge badge-important' style='color:black'>F</span><br>"
 						+"<span style='padding-left:0%'>"+$("#span_head_word").html()+"</span>"
@@ -433,26 +433,26 @@
 
 	//转向个人词汇信息
 	function goToVocInfo(){
-		window.location = "/voc_info/index.php/voc_info_c/index/"+userId;
+		window.location = "/voc_info/showInfo?userId="+userId;
 	} 
 
 	//转向词汇练习
 	function goToVocExer(){
 		//题目套数
-		var num_exer = 1;
+		var numExer = 1;
 		
-		$.getJSON("/voc_info/index.php/voc_info_c/get_random_exers/"+num_exer,function(data){
-			window.location = "/voc_exe/index.php/voc_exe_c/index/"+userId+"/v-31-"+data[0];	
+		$.getJSON("/voc_info/getRandomExers?numExer="+numExer,function(data){
+			window.location = "/voc_exer/showExpadding?userId="+userId+"&serialNumber=v-31-"+data.ids[0];	
 		});
 	}
 
 	//转向词汇本
 	function goToVocbook(){
 		//获得用户上一次所选级别
-		$.getJSON("/voc_info/index.php/voc_info_c/get_user_band/"+userId+"/"+Math.random(),
+		$.getJSON("/voc_info/getUserBand?userId="+userId+"&rand="+Math.random(),
 			function(data){
 				//转向词汇本
-				window.location = "/vocabulary/index.php/vocabulary_c/show_normal/"+userId+"/"+data+"/0";
+				window.location = "/voc_book/showNormal?userId="+userId+"&theBand="+data.band+"&model=0";
 			}
 		);
 	}
@@ -467,12 +467,12 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 		<img src="/voc_test/res/images/bingo.png" style="float:left">
-			<a class="brand" href="###" >冰果英语</a>
+			<a class="brand" href="javascript:void(0);" >英语</a>
 			<ul class="nav">
-				<li><a href="###" onclick="goToVocInfo();">个人词汇信息</a></li>
-				<li><a id="a_vocbook" href="###" onclick="goToVocbook();">词汇本</a></li>
-				<li class="active"><a id="a_voc_test" href="###">词汇量测试</a></li>
-				<li><a id="a_voc_exe" href="###" onclick="goToVocExer();">词汇练习</a></li>
+				<li><a href="javascript:void(0);" onclick="goToVocInfo();">个人词汇信息</a></li>
+				<li><a id="a_vocbook" href="javascript:void(0);" onclick="goToVocbook();">词汇本</a></li>
+				<li class="active"><a id="a_voc_test" href="javascript:void(0);">词汇量测试</a></li>
+				<li><a id="a_voc_exe" href="javascript:void(0);" onclick="goToVocExer();">词汇练习</a></li>
 			</ul>
 		</div>
 	</div>
@@ -485,7 +485,7 @@
 		<div class="well row-fluid" style="margin-top:2%;padding:20px 0 20px 0;background-color: #f0f9fe">
 			<div class="span3" style="margin-left:10px">
 				<div align="center" style="width:90%;background:#ecd95f;font-size:15pt;padding:5%">已测单词</div>
-				<div id="div_cards_left" style="height:606px;border:1px solid #ecd95f">
+				<div id="div_cards_left" style="height:620px;border:1px solid #ecd95f">
 					<div style="font-size:15pt;color:black;padding:10%;direction: inherit;">想知道自己的词汇量么?快来试试吧~</div>
 				</div>
 			</div>
@@ -511,7 +511,7 @@
     		</div>
     		<div class="span3" style="margin-left:10px">
 				<div align="center" style="width:90%;background:#ecd95f;font-size:15pt;padding:5%">已测单词</div>
-				<div id="div_cards_right" style="height:606px;border:1px solid #ecd95f">
+				<div id="div_cards_right" style="height:620px;border:1px solid #ecd95f">
 					<div style="font-size:15pt;color:black;padding:10%;direction: inherit;">想知道自己的词汇量么?快来试试吧~</div>
 				</div>
 			</div>

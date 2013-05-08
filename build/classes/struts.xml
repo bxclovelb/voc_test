@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC 
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN" 
+"struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+	<constant name="struts.i18n.encoding" value="UTF-8"></constant>
+	<package name="voc_test" extends="json-default" namespace="/">
+		<action name="showPage" class="action.VocTestAction" method="showPage">
+			<result name="success">/WEB-INF/jsp/voc_test_v.jsp</result>
+		</action>	
+		<action name="loadQuestion" class="action.VocTestAction" method="loadQuestion">
+			<result name="success" type="json"></result>
+		</action>
+		<action name="saveVocabulary" class="action.VocTestAction" method="saveVocabulary">
+			<result name="success"></result>
+		</action>
+	</package>
+</struts>
