@@ -456,6 +456,18 @@
 			}
 		);
 	}
+	
+	function exit(){
+		$.getJSON("/voc_info/logout",
+			function(data){
+			if(!data.success){
+				alert("未知错误！");
+			}else{
+				alert("退出成功！");
+				window.location = "/voc_info/showLogin";
+			}
+		});
+	}
 </script>
 
 <!--[if IE 6]>
@@ -467,20 +479,23 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 		<img src="/voc_test/res/images/bingo.png" style="float:left">
-			<a class="brand" href="javascript:void(0);" >英语</a>
+			<a class="brand" href="javascript:void(0);" >英语词汇本</a>
 			<ul class="nav">
 				<li><a href="javascript:void(0);" onclick="goToVocInfo();">个人词汇信息</a></li>
 				<li><a id="a_vocbook" href="javascript:void(0);" onclick="goToVocbook();">词汇本</a></li>
 				<li class="active"><a id="a_voc_test" href="javascript:void(0);">词汇量测试</a></li>
 				<li><a id="a_voc_exe" href="javascript:void(0);" onclick="goToVocExer();">词汇练习</a></li>
 			</ul>
+			<div style="float:right;margin:10px 10px">
+				<a href="javascript:void(0);" onclick="exit();">退出</a>
+			</div>
 		</div>
 	</div>
 	<!-- navbar end -->
 	
 	<div class="container" style="margin-top:41px">
 		<div align="center" style="color:white;font-size:40pt;background-image: url(/voc_test/res/images/bg_head.jpg);padding:5%;height: auto;">
-			冰果英语词汇量测试
+			英语词汇量测试
 		</div>
 		<div class="well row-fluid" style="margin-top:2%;padding:20px 0 20px 0;background-color: #f0f9fe">
 			<div class="span3" style="margin-left:10px">
